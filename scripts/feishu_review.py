@@ -203,11 +203,11 @@ def render_comment(issue):
     if not isinstance(text, str) or not text.strip():
         raise ValueError('对外批注需填写白话修稿建议')
     text = text.strip()
+    if re.search(r'\[APP(?:审稿|复审):|(?:复核标准|验收标准|依据|BF来源)\s*[:：]|【(?:必须修改|建议优化|待补证据)】|(?:^|\n)\s*(?:原句|原文)\s*[:：]', text):
+        raise ValueError('对外批注只写白话建议；不要复述定位原句；依据、标准、分类和审稿标记留在内部')
     if issue['kind'] == 'video':
         text = (f'{issue["media"]["version"]} '
                 f'{timestamp(issue["start_seconds"])}–{timestamp(issue["end_seconds"])}：' + text)
-    if re.search(r'\[APP(?:审稿|复审):|(?:复核标准|验收标准|依据|BF来源)\s*[:：]|【(?:必须修改|建议优化|待补证据)】', text):
-        raise ValueError('对外批注只写白话建议；依据、标准、分类和审稿标记留在内部')
     return text
 
 

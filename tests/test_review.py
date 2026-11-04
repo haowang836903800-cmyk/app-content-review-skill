@@ -32,7 +32,7 @@ def card(issue):
 
 class ReviewTest(unittest.TestCase):
     def test_outward_comment_is_plain_but_evidence_stays_internal(self):
-        q = req(); q['issues'][0]['comment'] = '把口播改成每天查一次，字幕也一起改。'
+        q = req(); q['issues'][0]['comment'] = '把口播改成每天查一次，字幕也一起改。\n\n补一段实际提醒的画面。'
         i = r.prepare(snap(), q)['issues'][0]
         self.assertEqual(i['text'], q['issues'][0]['comment'])
         self.assertEqual(i['rule_source'], '测试BF')
@@ -42,7 +42,7 @@ class ReviewTest(unittest.TestCase):
 
     def test_outward_metadata_is_rejected(self):
         for text in ['复核标准：字幕一致', '依据: BF', '[APP审稿:123]',
-                     '[APP复审:123]', '【必须修改】改字幕', '验收标准：改完']:
+                     '[APP复审:123]', '【必须修改】改字幕', '验收标准：改完', '原句：每天查一次', '建议\n原文: 每天查一次']:
             q = req(); q['issues'][0]['comment'] = text
             with self.assertRaises(ValueError): r.prepare(snap(), q)
 
@@ -178,6 +178,9 @@ class ReviewTest(unittest.TestCase):
             p = r.prepare(snap(),q)
             self.assertEqual(p['issues'][0]['text'], 'v1 00:01–00:03：测试改法')
             self.assertNotIn('v.mp4', p['issues'][0]['text'])
+            i['comment'] = '原句：实时提醒'
+            with self.assertRaises(ValueError):r.prepare(snap(),q)
+            i.pop('comment')
             i['requires_audio']=True
             with self.assertRaises(ValueError):r.prepare(snap(),q)
             i['requires_audio']=False;i['end_seconds']=11
