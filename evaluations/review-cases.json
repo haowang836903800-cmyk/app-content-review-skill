@@ -1,0 +1,18 @@
+[
+  {"id":"zero_issue_price","source_cases":[215],"input":"本轮手机盯价BF，真实设置每天20点，同品牌同型号同规格新品，预算800；达人说没到先不买，到了打开核到手价。脚本范围齐全。","expected":"脚本可零问题通过；不强加实时监测，不仅因生活前奏长而列必改。","regression_reason":"用户明确不要强行找问题"},
+  {"id":"notification_not_threshold","source_cases":[190],"input":"阈值2500，实际提醒2999并写未命中，台词称已经帮我等到2500以下。","expected":"必须改成功主张，或提供真实后续命中证据；不能把收到提醒等同命中。"},
+  {"id":"legitimate_price_change","source_cases":[208],"input":"同款前段5299，后段较晚通知4499，阈值5000，时间线可核。","expected":"不因两个不同价格报前后矛盾。"},
+  {"id":"asr_year","source_cases":[201],"input":"当前画面2026，ASR写2016，未实听原音。","expected":"不写口播年份错误；如需声音结论补听。"},
+  {"id":"mail_cancel","source_cases":[211],"input":"仅授权邮箱查询，结果给iPhone取消路径；脚本说扫全手机并一键取消三项。","expected":"收窄范围并区分建议与执行，需实际取消回执才可宣称已取消。"},
+  {"id":"manual_booking","source_cases":[198],"input":"豆包列餐厅，达人按推荐自己打电话订位，脚本明确说自己打电话。","expected":"不为追求自动化强行改成豆包已订位。"},
+  {"id":"future_schedule","source_cases":[165,222],"input":"任务显示明天首次推送，脚本说已经每天提醒我坚持30天。","expected":"改持续成果主张或补真实过去记录，创建任务不证明过去发生。"},
+  {"id":"professional_native","source_cases":[178,227],"input":"本人科研资料，豆包产出可打开的R分析或PWM交互页并实际展示；专业结论没有额外核验。","expected":"认可真实产物和场景，不强改泛vlog；专业结论另核，不能承诺实验/科学正确。"},
+  {"id":"gray_icon","source_cases":[218],"input":"视频用了灰色图形；VIS也有产品组件icon，但实际图形与用途尚未对照。","expected":"核图形/用途/授权，不凭灰色直接判错，也不自动视为正式完整品牌标志。"},
+  {"id":"brief_versions","source_cases":[214,226],"input":"PA旧单用PC盯价，PA BF该行PC标❌；最新设备BF允许PC。","expected":"匹配旧单BF与确认例外，不用新设备BF覆盖PA限制，也不宣称产品技术上绝不能PC盯价。"},
+  {"id":"audio_gap","source_cases":[8,187],"input":"只做16帧和ASR，没听原音；文案逻辑无问题。","expected":"可报告文案/所见帧未发现阻断问题，完整视频待补听看；不得判BGM/发音/动态全部通过。"},
+  {"id":"real_style","source_cases":[58,108,153,219],"input":"达人原生弱口播或无口播，入口、产物、品牌和本次BF都清楚；没有统一口播要求。","expected":"不强迫补口播/三秒钩子/固定时长，允许通过。"},
+  {"id":"missing_metrics","source_cases":[220,225],"input":"点赞收藏评论未回填，总互动公式显示0。","expected":"分析记缺失，不当差表现或无人互动。"},
+  {"id":"heat_not_organic","source_cases":[219,223],"input":"表现高，记录有实际加热，数据日龄不同。","expected":"可以学内容，不称自然爆款，不推导必然因果或算缺成本ROI。"},
+  {"id":"scope_not_keyword","source_cases":[134],"input":"达人说5秒get这个教程，实际意思很快学会步骤，没有承诺5秒生成结果。","expected":"不机械命中5秒就判性能夸大，结合上下文判断。"},
+  {"id":"local_result","source_cases":[226,228,229],"input":"手机看到AI说已改文件，但没打开文件；电脑在线授权条件未写，台词说关机也能拿。","expected":"需要实际文件前后和打开证据，补前置条件；不把聊天自述当改好了。"}
+]

@@ -1,0 +1,236 @@
+[
+  {
+    "parent": "设备BF",
+    "url": "https://github.com/Gathin23/cleanyourtv",
+    "kind": "github",
+    "status": "read_relevant_docs",
+    "observed": "README兼容系统、ADB、备份/恢复、桌面替换、DNS与权限范围",
+    "gaps": "未实际执行硬件修改或验证全部性能",
+    "read_date": "2026-11-05"
+  },
+  {
+    "parent": "设备BF",
+    "url": "https://github.com/rddmwmddr/android-ad-cleaner",
+    "kind": "github",
+    "status": "read_relevant_docs",
+    "observed": "README设备/ADB、停用与卸载、恢复及通知等影响",
+    "gaps": "未实际执行硬件修改或验证全部性能",
+    "read_date": "2026-11-05"
+  },
+  {
+    "parent": "设备BF",
+    "url": "https://github.com/hezhixin15/DLSS5-Swapper-Chinese",
+    "kind": "github",
+    "status": "read_relevant_docs",
+    "observed": "README安装/作者主张，并查NVIDIA一手资料；性能未本机实测",
+    "gaps": "未实际执行硬件修改或验证全部性能",
+    "read_date": "2026-11-05"
+  },
+  {
+    "parent": "设备BF",
+    "url": "https://github.com/SENLIN-SAMA/win-.-",
+    "kind": "github",
+    "status": "read_relevant_docs",
+    "observed": "短README及GlassBoard手册相关安装/备份/恢复/组件/工作区/游戏模式章节",
+    "gaps": "未实际执行硬件修改或验证全部性能",
+    "read_date": "2026-11-05"
+  },
+  {
+    "parent": "设备BF",
+    "url": "https://www.douyin.com/video/7699484980493225216",
+    "kind": "video",
+    "status": "partial_visual",
+    "observed": "电视结果帧、作者文案与章节",
+    "gaps": "未取得完整音轨/连续全程听看",
+    "read_date": "2026-11-05"
+  },
+  {
+    "parent": "设备BF",
+    "url": "https://www.douyin.com/video/7699051131934215451",
+    "kind": "video",
+    "status": "partial_visual",
+    "observed": "仓库/电视前后界面帧、章节",
+    "gaps": "未取得完整音轨/连续全程听看",
+    "read_date": "2026-11-05"
+  },
+  {
+    "parent": "设备BF",
+    "url": "https://www.douyin.com/video/7700892552005733683",
+    "kind": "video",
+    "status": "partial_visual",
+    "observed": "安卓步骤1/6备份快照帧、作者文案",
+    "gaps": "未取得完整音轨/连续全程听看",
+    "read_date": "2026-11-05"
+  },
+  {
+    "parent": "设备BF",
+    "url": "https://www.douyin.com/video/7701632063741207488",
+    "kind": "video",
+    "status": "partial_visual",
+    "observed": "DLSS演示页/部分游戏和流程帧",
+    "gaps": "未取得完整音轨/连续全程听看",
+    "read_date": "2026-11-05"
+  },
+  {
+    "parent": "设备BF",
+    "url": "https://www.douyin.com/video/7696793052320369946",
+    "kind": "video",
+    "status": "partial_visual",
+    "observed": "桌面效果、GlassBoard设置",
+    "gaps": "未取得完整音轨/连续全程听看",
+    "read_date": "2026-11-05"
+  },
+  {
+    "parent": "设备BF",
+    "url": "https://www.douyin.com/video/7697504018511301903",
+    "kind": "video",
+    "status": "partial_visual",
+    "observed": "Dock外观调节",
+    "gaps": "未取得完整音轨/连续全程听看",
+    "read_date": "2026-11-05"
+  },
+  {
+    "parent": "设备BF",
+    "url": "https://www.douyin.com/video/7687173785875319217",
+    "kind": "video",
+    "status": "partial_visual",
+    "observed": "清理演示页/部分画面",
+    "gaps": "未取得完整音轨/连续全程听看",
+    "read_date": "2026-11-05"
+  },
+  {
+    "parent": "设备BF",
+    "url": "https://www.douyin.com/video/7702385829817951971",
+    "kind": "video",
+    "status": "partial_visual",
+    "observed": "游戏帧率/BAT画面",
+    "gaps": "未取得完整音轨/连续全程听看",
+    "read_date": "2026-11-05"
+  },
+  {
+    "parent": "PA BF",
+    "url": "https://www.doubao.com/thread/x9FrpEkUTfMBk6aJc",
+    "kind": "shared_chat",
+    "status": "read",
+    "observed": "12:15/20:30任务，无京东天猫API；公开检索参考",
+    "gaps": "",
+    "read_date": "2026-11-05"
+  },
+  {
+    "parent": "PA BF",
+    "url": "https://www.doubao.com/thread/xJKLtVrcPicDOwAPY",
+    "kind": "shared_chat",
+    "status": "read",
+    "observed": "邮箱订阅范围，取消建议不是已执行",
+    "gaps": "",
+    "read_date": "2026-11-05"
+  },
+  {
+    "parent": "PA BF",
+    "url": "https://www.doubao.com/thread/xslAdb5srW8OhUM8G",
+    "kind": "shared_chat",
+    "status": "read",
+    "observed": "6自如合租非整租、季付/通勤估算",
+    "gaps": "",
+    "read_date": "2026-11-05"
+  },
+  {
+    "parent": "PA BF",
+    "url": "https://www.doubao.com/thread/xPV1AjouOxdwdyYI1",
+    "kind": "shared_chat",
+    "status": "read",
+    "observed": "旧退款邮件及隐私",
+    "gaps": "",
+    "read_date": "2026-11-05"
+  },
+  {
+    "parent": "PA BF",
+    "url": "https://www.doubao.com/thread/x1Tj7gDrn7dRtTTOC",
+    "kind": "shared_chat",
+    "status": "read",
+    "observed": "餐厅建议，用户拒绝代预约",
+    "gaps": "",
+    "read_date": "2026-11-05"
+  },
+  {
+    "parent": "PA BF",
+    "url": "https://www.doubao.com/thread/xe86k4oFJ8pHf9IoF",
+    "kind": "shared_chat",
+    "status": "read",
+    "observed": "19收藏，缺直接饮食数据，偏好只是间接推断",
+    "gaps": "",
+    "read_date": "2026-11-05"
+  },
+  {
+    "parent": "PA BF",
+    "url": "https://www.doubao.com/thread/xHcJfLVwbj3JEgDs3",
+    "kind": "shared_chat",
+    "status": "read",
+    "observed": "4岗位，不含第五个未选岗位",
+    "gaps": "",
+    "read_date": "2026-11-05"
+  },
+  {
+    "parent": "PA BF",
+    "url": "https://www.doubao.com/thread/xyoqIiezp5MxueVVa",
+    "kind": "shared_chat",
+    "status": "read",
+    "observed": "7店铺HTML，PC端",
+    "gaps": "",
+    "read_date": "2026-11-05"
+  },
+  {
+    "parent": "PA BF",
+    "url": "https://www.doubao.com/thread/x3cpHPIrWrLeKmpBZ",
+    "kind": "shared_chat",
+    "status": "read",
+    "observed": "30日计划8任务排队，不是已减重",
+    "gaps": "",
+    "read_date": "2026-11-05"
+  },
+  {
+    "parent": "PA BF",
+    "url": "https://www.doubao.com/thread/xdkt6rayhdJ62KxiT",
+    "kind": "shared_chat",
+    "status": "read",
+    "observed": "周一10点指令变每日9点，示例也可能有错",
+    "gaps": "",
+    "read_date": "2026-11-05"
+  },
+  {
+    "parent": "PA BF",
+    "url": "https://www.doubao.com/thread/xsCkclm2i4HalFLCJ",
+    "kind": "shared_chat",
+    "status": "blocked",
+    "observed": "IAB/Chrome打开后登录空页",
+    "gaps": "未读正文",
+    "read_date": "2026-11-05"
+  },
+  {
+    "parent": "PA BF",
+    "url": "https://4m867e0hj4ts0.doubaoapps.com/app/app_17fsqx28q19",
+    "kind": "app",
+    "status": "read_interacted",
+    "observed": "店铺搜索是关键词非POI；100–400标题含500–1000，路线额外1–2km",
+    "gaps": "",
+    "read_date": "2026-11-05"
+  },
+  {
+    "parent": "PA BF",
+    "url": "https://www.douyin.com/video/7680181749732724011",
+    "kind": "video",
+    "status": "partial_visual",
+    "observed": "萌猪19秒参考，部分实际画面",
+    "gaps": "未完整连续播放/听音",
+    "read_date": "2026-11-05"
+  },
+  {
+    "parent": "PA BF",
+    "url": "https://www.douyin.com/video/7692385928409357032",
+    "kind": "video",
+    "status": "partial_visual",
+    "observed": "小黄8分12秒参考，部分实际画面",
+    "gaps": "未完整连续播放/听音",
+    "read_date": "2026-11-05"
+  }
+]

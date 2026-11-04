@@ -1,0 +1,17 @@
+{
+  "project": "doubao-app-peiyao",
+  "audience": "internal",
+  "campaign": "对应订单的具体玩法",
+  "bf": "本条生效BF链接、版本和群补充来源",
+  "target_version": "脚本V2",
+  "review_scope": ["text"],
+  "decision": "pass",
+  "coverage": {
+    "bf_matched": true,
+    "body_read": true,
+    "comments_read": true,
+    "required_links_checked": true
+  },
+  "blocking_gaps": [],
+  "issues": []
+}

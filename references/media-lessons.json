@@ -1,0 +1,2291 @@
+[
+  {
+    "token": "C5bobmYYGo56zQxdY6Hcydp0noc",
+    "sha256": "192f791945bd68bdf4b3123c8023087c545bf6c5b31cc9b12d7fff393d06e299",
+    "case": 1,
+    "method": "16帧逐格审看+全音轨机器转写阅读，非连续音画观看",
+    "observed_at": "2026-11-05T00:38:02+0800",
+    "notes": "两版均人物口播+营销脚本文档；仅展示计划/文本不能证明实际海报。夸张替代所有岗位、省几十万不是核实结果。"
+  },
+  {
+    "token": "Ormpb2i93okBtpx6vNjcu11rnce",
+    "sha256": "a1ffab2de4438cba1d2bdc152592518a1a97bf390d195468ba1e0a13e09fff46",
+    "case": 1,
+    "method": "16帧逐格审看+全音轨机器转写阅读，非连续音画观看",
+    "observed_at": "2026-11-05T00:38:02+0800",
+    "notes": "与前版时长和页面不同，营销脚本变更，须按附件分版；尾段承诺仍需收窄。"
+  },
+  {
+    "token": "A7gzbTID2om2lLxT7ZAcPaBInyg",
+    "sha256": "daf7b7286d5e51a004948bd398514f9339f2f0edb53f1a7b3ecefd9ba094e082",
+    "case": 2,
+    "method": "16帧逐格审看+全音轨机器转写阅读，非连续音画观看",
+    "observed_at": "2026-11-05T00:38:02+0800",
+    "notes": "原图对照成果前置，安装工作入口、复用minimal/具象调节与多张成品可见；ASR豆浆等识别错不能直接判口播错。"
+  },
+  {
+    "token": "DvsVbYqZ7obPoaxtbuGc21T8nF4",
+    "sha256": "3518d1fc7e4ed226db6efae171fe97135347ae6155284fb5123b97c58c55888c",
+    "case": 3,
+    "method": "16帧逐格审看+全音轨机器转写阅读，非连续音画观看",
+    "observed_at": "2026-11-05T00:38:02+0800",
+    "notes": "图文发布预览录屏，6张原图/设计对照、末图调用示范；不是独立讲解视频。"
+  },
+  {
+    "token": "XOy7by9XMoo4MNxVOMqcXyY7n18",
+    "sha256": "dd7458a92b740448f59b2beb92692b02a8fcc8a18daea5f989dfa41c44bbd1bb",
+    "case": 4,
+    "method": "16帧逐格审看+全音轨机器转写阅读，非连续音画观看",
+    "observed_at": "2026-11-05T00:38:02+0800",
+    "notes": "考试科普占前40秒，后有实际听力播放器/题目/定时表；ASR485而画面425，禁止凭ASR提错。"
+  },
+  {
+    "token": "Of2sbOYNXovaMyx1OircKRU9nKe",
+    "sha256": "e73cf0607c93516aedf27af087ede4d9bdf2a885b30917f42fcd82cffdf95a09",
+    "case": 5,
+    "method": "16帧逐格审看+全音轨机器转写阅读，非连续音画观看",
+    "observed_at": "2026-11-05T00:38:02+0800",
+    "notes": "个人出镜切屏幕拍摄，关键输出多为小字长文；语义“只会输出核心”画面清楚。语气杂音未实听。"
+  },
+  {
+    "token": "ELnmbiSIoo5CPhxvFdCcG4qMnbg",
+    "sha256": "e706a8d3841595222c8051620402444892e080badb9ed14a19009004e533c5f8",
+    "case": 6,
+    "method": "16帧逐格审看+全音轨机器转写阅读，非连续音画观看",
+    "observed_at": "2026-11-05T00:38:02+0800",
+    "notes": "演示dry-run→岗位看板→网页→投递数据；单网页/看板仍不足以验证每次真实投递，福利截图为历史活动。"
+  },
+  {
+    "case": 8,
+    "token": "VO4hbvlcxodjKSxj8VgcSa7nnUh",
+    "sha256": "78b35e40cf937aa4b8149313d37c8c7bbd489033ff612da206c117de714b1f40",
+    "method": "16帧逐格审看+全音轨机器转写阅读；原音未实听",
+    "notes": "修改版3：保留抱娃/宝宝个人风格、开头SCI文字，末尾删除硬号召；32秒开始品牌，实拍屏幕科研审稿/读文献。"
+  },
+  {
+    "case": 8,
+    "token": "SRUObrzBToQzKFxh2nTcviRJnMd",
+    "sha256": "5625e5393bf1b4cf001d1c1b822e9781e36a69c6761fd84a871f91ffa59c203b",
+    "method": "16帧逐格审看+全音轨机器转写阅读；原音未实听",
+    "notes": "修改版2：主题链与V3近同，字幕留i-have-adhd；仅凭ASR不能证明发音补录自然，留原音待核。"
+  },
+  {
+    "case": 8,
+    "token": "AhTobUP1jovFnXxQ0JIcGbRfnWc",
+    "sha256": "a76f9849eda9a9e2d7a2b557978cded306a8a22a5c6dbca33883467c4a1ae695",
+    "method": "16帧逐格审看+全音轨机器转写阅读；原音未实听",
+    "notes": "修改版：尾段另景拍摄口播“去试试”可见，与后版删除不同；批注要绑定具体版本。"
+  },
+  {
+    "case": 8,
+    "token": "WVheb8n1Xo5Tt8xfA4icYqkInFM",
+    "sha256": "2a77a1cbbcd4900b7f1abaee4961090f5aa47e271d507ebb702f7bac0c110fae",
+    "method": "16帧逐格审看+全音轨机器转写阅读；原音未实听",
+    "notes": "初版：末尾安装号召，ASR英文名与后版拼读不同；历史要求补整句录音有依据，不能以同样屏幕截图判断音频已改。"
+  },
+  {
+    "case": 9,
+    "token": "D27Ab8aVkoULqbxt7LEcqytvnsb",
+    "sha256": "942a62acf3208590ea73db3fbe3259b397e8a0fdc26129ead43689a8a331350a",
+    "method": "16帧逐格审看+全音轨机器转写阅读；原音未实听",
+    "notes": "修改版：创作收藏→分类→交互复盘，实际概览、来源关联图、选题详情清楚，与批注要求从静态升级吻合。"
+  },
+  {
+    "case": 9,
+    "token": "BELBbYdzOoEDorxwSCncYSq2n4f",
+    "sha256": "8916f761fcdaf9fe47c7b47f0dfcc9752273285d84d3d6675f06ea4bdfb520e8",
+    "method": "16帧逐格审看+全音轨机器转写阅读；原音未实听",
+    "notes": "另一版时长约1.2倍，画面结构相同；文档旁注可能指相邻上一附件，不能按靠近字样自动认版本。"
+  },
+  {
+    "case": 10,
+    "token": "FziTb4MCioup9cxHTqZc6S26njb",
+    "sha256": "581ea356352a1146ba5ad19064c140532c61ab70617713d4b4cb117260e44a29",
+    "method": "16帧逐格审看+全音轨机器转写阅读；原音未实听",
+    "notes": "修改版猫踩键盘、双端工作入口可见；31.98秒回复说明是显示器睡眠且需密码设置，不能据此判定已安全锁定。需实拍电脑结果。"
+  },
+  {
+    "case": 11,
+    "token": "CWHmbBgWroJsglxFCzycCCcsnph",
+    "sha256": "66108a7f2622ea326d0814f2ee5bce0d96c82b0495e7223994c40ff07c36f0a3",
+    "method": "16帧逐格审看+全音轨机器转写阅读；原音未实听",
+    "notes": "原画→Q版效果→简单OpenSCAD/STL盒子→复杂猫模型工具可见；真实3D文件与渲染区别已呈现，未见实体打印不能声称打印完成。"
+  },
+  {
+    "case": 12,
+    "token": "OXwcbHaYJopOMHxAtyNcoKq1nke",
+    "sha256": "a4c5a8a447d82957428355629874b66189cbe0c6301ac0342e9a0ac0e223d9ac",
+    "method": "16帧逐格审看+全音轨机器转写阅读；原音未实听",
+    "notes": "QQ归档视频展示本人历史帖子并说明只在程序中看不恢复主页；“全部删帖找回”仍需仓库能力/原始数据范围核实。"
+  },
+  {
+    "case": 13,
+    "token": "UpGvbtCQho8dvRx2OVncZG4gn4d",
+    "sha256": "716950f2cfdb4c03e1d0722475dcb9515e48cdbbb2ac9b11292dcf226db54e14",
+    "method": "16帧逐格审看+全音轨机器转写阅读；原音未实听",
+    "notes": "剪映本地模式、素材文件夹、安装调用、时间线与可修改工程可见；初稿可用而非无需复核成片，开头“抢剪辑活”非效果保证。"
+  },
+  {
+    "case": 14,
+    "token": "TnBtbLQ3Ko6CrdxjKhTcyKAfnf3",
+    "sha256": "3351042fce5c34b78478e017d095ce023ba0182dcc71d724e15acb682be225f0",
+    "method": "16帧逐格审看+全音轨机器转写阅读；原音未实听",
+    "notes": "修改版工作任务入口/榜单/仓库卡片与安装结果；“无需配置/自动处理网络/全部流水线”只凭本条不足泛化。"
+  },
+  {
+    "case": 14,
+    "token": "TpqRbTBUSodOVUxAsWNcsCCWngh",
+    "sha256": "9d37b6b2ff506bb9ebe091c241bf6b097b0728842620e85559339cd977205c0c",
+    "method": "16帧逐格审看+全音轨机器转写阅读；原音未实听",
+    "notes": "前版13秒处画面白屏，修改版有工作界面；后续榜单相同；口播工作→工作任务需核原音而不是仅字幕。"
+  },
+  {
+    "case": 15,
+    "token": "Fq0lb0lvUoo4kXxYZzZcC7Y1nxh",
+    "sha256": "bc625edc077f3eb647a4d217618b1458b588c237ec49013c17b304d65f0a417f",
+    "method": "16帧逐格审看+全音轨机器转写阅读；case27另放大21.73/32.59/43.46秒；原音未实听",
+    "notes": "双Skill手机实拍：安装→新对话选择→多轮澄清→计划；soul需先补身份文件，不能把安装等同可直接用。三亿项目都能装为泛化主张。"
+  },
+  {
+    "case": 18,
+    "token": "LF8pbaGKTotXjTxlT6xc7hf1nzf",
+    "sha256": "8920b592d4372f2d007497049e98742e04437360c735b795a2142d6a5910baef",
+    "method": "16帧逐格审看+全音轨机器转写阅读；case27另放大21.73/32.59/43.46秒；原音未实听",
+    "notes": "班主任个人回忆强，安装扫码归档可见，但52秒后才操作；字幕/界面尺寸与长前摇要结合账号，不把“所有动态恢复”当保证。"
+  },
+  {
+    "case": 23,
+    "token": "JasmbYeH7oYbRrxh78QcG3WBnVc",
+    "sha256": "793522fba6dc5606999a16da57c968f451603d2128339ccc97f4721d27b626cb",
+    "method": "16帧逐格审看+全音轨机器转写阅读；case27另放大21.73/32.59/43.46秒；原音未实听",
+    "notes": "三稿已有可公开旧帖和本地限制，头尾手写标题仍为豆老师；逐位置复审不能只核中段字幕。"
+  },
+  {
+    "case": 25,
+    "token": "IKI9bjTNLoaFHjxjAk4c1nKrn1e",
+    "sha256": "f46243961d32374146943fc89783e6d9aba4614cfd4af882256858d0231c1a6c",
+    "method": "16帧逐格审看+全音轨机器转写阅读；case27另放大21.73/32.59/43.46秒；原音未实听",
+    "notes": "实际视频84秒仅前22秒转写，后续靠字幕和旧帖展示；多种本人旧内容可见。未实听不能给BGM通过结论。"
+  },
+  {
+    "case": 27,
+    "token": "VwHgbNU4dovxQ1xDA6PctnWfncg",
+    "sha256": "c9361bd7c34949398766635f3fe558e188efd49bbca7b5db5a4ebaf5f577e91a",
+    "method": "16帧逐格审看+全音轨机器转写阅读；case27另放大21.73/32.59/43.46秒；原音未实听",
+    "notes": "人物分享+350元预算/343.8清单及购买链接可见；放大核到真实床帘而非误判商品。AI结果内部仍有涂层/无涂层措辞冲突，需要核产品而不照抄。"
+  },
+  {
+    "case": 28,
+    "token": "NatjbbD5io0XpaxoqoDcwlsNnRb",
+    "sha256": "ad42ac9b709a10a19c2eb421ca827da5f03c24b34ee094218781f432d21961e9",
+    "method": "16帧逐格审看+全音轨机器转写阅读；case27另放大21.73/32.59/43.46秒；原音未实听",
+    "notes": "13年好友同框回忆自然，照片与旧说说特写；说明真实情绪不是再写泛抒情。归档效果与原QQ界面混剪不可证明所有删帖恢复。"
+  },
+  {
+    "case": 23,
+    "token": "LaqsbtsR9o1ZpyxYPjAcjqB7nff",
+    "sha256": "0394c1aa6ee61befe2a4aea6f642e410d2462d39dab57910d691276755fc395e",
+    "method": "16帧逐格审看+全音轨机器转写阅读；原音未实听",
+    "notes": "旧版头尾豆老师，开头全部找回与后段仅有互动记录限制冲突。实拍桌面安装/扫码/归档齐，但成功结果不等于全量恢复。"
+  },
+  {
+    "case": 25,
+    "token": "FgKjb6ucPoTDBFxAwjXc0TmonXe",
+    "sha256": "837da34b4a8aa951c99f3f791fa58b49dfbdb7660ed6541304cbf4d2a604d791",
+    "method": "16帧逐格审看+全音轨机器转写阅读；原音未实听",
+    "notes": "此版全段转写可用，84秒旧帖情绪段仍长；安装指令字幕较小，朋友吃饭切入自然。与前版音轨覆盖差异不能靠文件名判断。"
+  },
+  {
+    "case": 27,
+    "token": "QloRbjEXdoKEczxeI1Bc9tZlnqh",
+    "sha256": "02bbff4ec64aec5d64d9d90e8bb5e6d70aac579e280baed72d09a4aa281c7196",
+    "method": "16帧逐格审看+全音轨机器转写阅读；原音未实听",
+    "notes": "旧版92.6秒比前审版本长，展示350预算/343.8清单与比价，但表格商品详情和涂层描述冲突仍需核；AI的比较不是实物实测。"
+  },
+  {
+    "case": 28,
+    "token": "UXVSbN9fho4oShx5b7wcZuLPnMA",
+    "sha256": "934eeaae51a580d263335182a0149e5092ce0a29bbe2c63b8fa2324f8b072725",
+    "method": "16帧逐格审看+全音轨机器转写阅读；原音未实听",
+    "notes": "另一版加入更早输入界面和历史教程截屏；安装桌面程序/扫码/归档以及好友13年素材可见。原QQ空间截图不应误叫程序恢复后的原站状态。"
+  },
+  {
+    "case": 33,
+    "token": "OOUubUWiwoAGINxUkvQc5Ktfn4c",
+    "sha256": "856a81a1eba99a1a40e92d5b045a149d9a365989c4bf8274fd686e90849cb004",
+    "method": "16帧逐格审看+全音轨机器转写阅读；原音未实听",
+    "notes": "41秒锁屏实际前后画面黑屏，UI很小。旁白声称锁成功仍不能仅黑屏判安全锁，应复核唤醒需登录，不能拿聊天成功回复替代系统状态。"
+  },
+  {
+    "case": 38,
+    "token": "Fh8abWMavo9RPExCitscMQapnze",
+    "sha256": "e401cb79ec2fb53643043fce974708fa4fca3813c27c61ba088891c24d16f66e",
+    "method": "16帧逐格审看+全音轨机器转写阅读；原音未实听",
+    "notes": "85秒花少综艺热点前34秒、豆包测试39秒出现，后段真人选题讨论+井柏然结果；热点与个人旅行经历有关联，题面小需可读性检查，娱乐测试别上升科学人格判断。"
+  },
+  {
+    "case": 23,
+    "token": "RAVxbqCSlonH1MxVVAmcHHjvnle",
+    "sha256": "0e7a8e3d38ecac56ce362cfbb3e2ec823267d10a9e61503c452567600ed1df49",
+    "method": "16帧逐格审看+全音轨机器转写阅读；原音未实听",
+    "notes": "更早版旧帖整体模糊且真人/生活镜头更少，手写教程为主体；需要展示可公开的真实结果而非全打码。这解释后续增加具体旧帖和真人素材的改稿价值。"
+  },
+  {
+    "case": 27,
+    "token": "ToVHbdw0noWX6dxHJYnc4JI6nkk",
+    "sha256": "db5d93eb475a4911be814c97054bc172c40ce337cc7ab4e8c187163d193ff87c",
+    "method": "16帧逐格审看+全音轨机器转写阅读；原音未实听",
+    "notes": "86.6秒版删掉床帘防偷拍支线，表格突出价格与推荐度；新加标框可读性更好。结尾黑底字幕与前版不同，版本时长/字幕不能套旧时间点。"
+  },
+  {
+    "case": 39,
+    "token": "A1TGb4hH2onAlXxYcnQcenM3nob",
+    "sha256": "0c327ada25f9375c07e3173c144a699b2463315654bbea5fa3a04c5edc4d24a5",
+    "method": "16帧逐格审看+全音轨机器转写阅读；原音未实听",
+    "notes": "169秒考试干货长视频，A4资料与作文批改过程可见，个人高分先于新功能，不能把既往成绩归因于今天AI；个人专业教学可长，不能套手机项目一分钟上限。"
+  },
+  {
+    "case": 40,
+    "token": "QfWXbt4VQoILjaxYTUNcVdX6n5c",
+    "sha256": "4ec9d99d2773dac1c48b4a770ba5477e313cee9667eca815573b96cf9563db9e",
+    "method": "16帧逐格审看+全音轨机器转写阅读；原音未实听",
+    "notes": "67.5秒背词链路设置→例句→双向默写→错词复习完整；定时成功需计划和到时通知，当前多为对话结果，聊天承诺本身不是系统调度回执。"
+  },
+  {
+    "case": 42,
+    "token": "UrhQbla2iocZHixgksCcXSSnnXg",
+    "sha256": "ebe07bee21b7631a6d0f4000aea62f09f221fe4956e7347e73599e69ad63b58d",
+    "method": "16帧逐格审看+全音轨机器转写阅读；原音未实听",
+    "notes": "62秒商科研一生活场景与30词任务匹配，但33秒字幕竟保留“比如英语单词放进单词句子展示”占位话。已发布不等于无问题；成片逐句核占位词，不只审脚本。"
+  },
+  {
+    "case": 43,
+    "token": "EUOmbwRAFo0NLixTVCzcFXs1nje",
+    "sha256": "85b9ba76668f6c92cffcee9a95a26b18dc90a929835af37d29a15a730d00286c",
+    "method": "16帧逐格审看+全音轨机器转写阅读；原音未实听",
+    "notes": "149秒英文学习账号教学完整，豆包英语字幕被译成bean bag(19.9秒)，不可自动机翻品牌；故事目标词/实际用词应对照，转写英文错误须原音复核。多步教学可以长，但录屏主体太小影响可复制。"
+  },
+  {
+    "case": 43,
+    "token": "Y7YIbgzEiopP5ZxWWjxctdQ6nkc",
+    "sha256": "f9236b1434d0bcb7b990923e0b1e95cde6a8925202caf022166d84a85f6e5b4b",
+    "method": "16帧逐格审看+全音轨机器转写阅读；原音未实听",
+    "notes": "另一版故事段改为全屏动画，ASR内容近同、结果露出少于有对话叠屏版，英文bean bag仍在。换B-roll也可能丢掉产品执行证据。"
+  },
+  {
+    "case": 47,
+    "token": "HAOMbwho6o6KfrxQaOvcaNOknrc",
+    "sha256": "3fe568a7a1a4727aeadf5b637ef110ce47502b29b6c955d7ac7f39afae376231",
+    "method": "16帧逐格审看+全音轨机器转写阅读；原音未实听",
+    "notes": "原创作者文献Skill实拍从Demo21条到真实68条，明确安装不等于连接本人Zotero库，是很好的真实性示例；后段可视化和文献卡片有实际成果。保留承认前置条件的叙述。"
+  },
+  {
+    "case": 48,
+    "token": "CI1nbp01XocSSMx3xBnc0Qf6n6c",
+    "sha256": "d24090ea2affc42750cf35fa0818bd11d6a7166e4a2b7477e4ef7ad6f98cb531",
+    "method": "16帧逐格审看+全音轨机器转写阅读；原音未实听",
+    "notes": "170秒租房全流程生活干货，多个清单/费用计算/合同风险提示可见。开头AI搞定全部租房流程与本人仍需现场看房签约矛盾；不能把表格当真实有效在租房源，涉及法律结论需核。"
+  },
+  {
+    "case": 49,
+    "token": "Z4Ilbjysvog1ubxN2qJcxKLPn3V",
+    "sha256": "3008073366f3d787a22ceeb896f4b2e0dc713b6e00c02beb8e57f7e5640d4c9a",
+    "method": "16帧逐格审看+全音轨机器转写阅读；原音未实听",
+    "notes": "100秒学习体系，旁白打开APP却展示Mac桌面操作，且10倍效率/2000词80%分数缺证。美化片头与虚拟AI画面不能代替真实定时任务回执。"
+  },
+  {
+    "case": 50,
+    "token": "WPscbn2wsoNf2pxIE9DcdPwinyb",
+    "sha256": "6b698e756fa13a4be0bf11c32111beaed5ca41742ace437be58ee612d3f4a664",
+    "method": "16帧逐格审看+全音轨机器转写阅读；原音未实听",
+    "notes": "74秒专四/外研社场景，手机录制任务确认窗和定时任务列表可见。三秒搞定/30天保证有收获作为夸张应降调；眩光和小字会影响操作复现。"
+  },
+  {
+    "case": 52,
+    "token": "I44nb1dZ1o9hbYx8i6KclvQ8nmR",
+    "sha256": "eafa02a57ff995e0f18c83b2d286ef3c0d6ff2952f8d296aeb93752a1839c991",
+    "method": "16帧逐格审看+全音轨机器转写阅读；原音未实听",
+    "notes": "65秒清华Skill从研究领域/导师文章到实验方向方案，专业本人出镜可信但屏幕横条极小；博士导师水平为类比不是资质/学位保证，不能作官方清华教学或代替实验验证。"
+  },
+  {
+    "case": 49,
+    "token": "KzhqbAHBSoXorbxaacXcF7FWn9b",
+    "sha256": "ed4d4db831f2f97b0bba548249358452bcddb18210a7f12c5f450ed35d97b80b",
+    "method": "16帧逐格审看+全音轨机器转写阅读；原音未实听",
+    "notes": "新一版在单词表和默写结果加红框，便于定位；APP台词与PC演示仍不一致。与前版转写相同不代表画面相同，复审必须看改后结果。"
+  },
+  {
+    "case": 53,
+    "token": "JRMfb3uygobl05xKxOocfFkQnie",
+    "sha256": "e2eb017943ccd5a92db417dcafda1a5c021613f15601059912a279d06b0508e0",
+    "method": "16帧逐格审看+全音轨机器转写阅读；原音未实听",
+    "notes": "85秒高三一轮复习，实际PC输入省份/选科/薄弱科目，资料有2027重庆生物等。重点是生成资料对省份学制题型匹配；收尾说明仍需本人练习，避免用AI替代学习的误导。"
+  },
+  {
+    "case": 54,
+    "token": "W6dLbR8j6orhtSxf2J3cWUQqnMe",
+    "sha256": "8c920dd07cafd17dd46308b560e0a9c19d6a31e82759c18a514218f9e501e636",
+    "method": "16帧逐格审看+全音轨机器转写阅读；原音未实听",
+    "notes": "88秒四级考点与练习手册，结果本身提示部分为改编内容，口播真题精编要分清历年原题与仿题，需核答案和来源，不能只看排版完整。"
+  },
+  {
+    "case": 55,
+    "token": "WHwbbFW2PohEbOxdu9Yc8ZgynMh",
+    "sha256": "f0672ca04a4e223152edae13d9141d909aa1708e1001df981347e527672b5115",
+    "method": "16帧逐格审看+全音轨机器转写阅读；原音未实听",
+    "notes": "115秒情侣本人电话互动+60分合婚表，人物关系自然。娱乐情境保留，但财运/准得像监控不能当预测保证，不让分数决定结婚。"
+  },
+  {
+    "case": 56,
+    "token": "Hfdmbei5covhj8xjvExconrpnFb",
+    "sha256": "0ac48feae139d3a206b319e1f8c4be59f5396969db8fc2c9a3b387e5ed8caec2",
+    "method": "16帧逐格审看+全音轨机器转写阅读；原音未实听",
+    "notes": "61秒跨语种情侣情境，84.5/100表格和技能指令可见；结尾即使不匹配也在一起，娱乐边界好。ASR前半反复刷子是识别失败，不能据此挑口播毛病。"
+  },
+  {
+    "case": 57,
+    "token": "R3ltbh8lqoXKfbx3xXUczcLOnsc",
+    "sha256": "d78da9ebdca9182ce3319b91dcedaaa001e9770a5c8c429ae94abdd1f49a1d9d",
+    "method": "16帧逐格审看+全音轨机器转写阅读；原音未实听",
+    "notes": "114秒背词定时任务PC实拍，声称连续两个月、阅读多对七题需本人经历证据；提醒/内容/复习与个人学习动作分清，情境是宿舍。收益量化不得从一次演示推导。"
+  },
+  {
+    "case": 58,
+    "token": "LVkub7M24o5fBex1fNhcHdNYnNe",
+    "sha256": "1c017359db6f296f50e15b87100092f864c02e515daca6fc5492548c82fdd0d4",
+    "method": "16帧逐格审看+全音轨机器转写阅读；原音未实听",
+    "notes": "55秒试卷变课件，真教师场景和答案点击展开可见；需核全部题目/插图完整与导出格式，交互网页不能无条件当可编辑PPT文件，镜头较远需要放大成果。"
+  },
+  {
+    "case": 59,
+    "token": "HulAbFgtgo3O70x6bcIcjInSnKc",
+    "sha256": "db4ffd6648613662263da927de8c46e87de3844ae9d77d71315e4ab48b65d1be",
+    "method": "16帧逐格审看+全音轨机器转写阅读；原音未实听",
+    "notes": "137秒女娲甘道夫思维方式，明确不冒充角色、不无所不知，给本人工作困扰，个性强。前段安装界面白条/省略、实际结果后置；不宜为统一模板删掉自然个人表达。"
+  },
+  {
+    "case": 49,
+    "token": "PExAbb2MsoBGLbxqWuBccPasnPb",
+    "sha256": "3cc64a904b763973625931ac527522d259b788c627e23d403791f9a6dd5940c1",
+    "method": "16帧逐格审看+全音轨机器转写阅读；原音未实听",
+    "notes": "第三个100秒文件与上一版抽样画面基本一致，单词/默写红框可见；同口播重复导出仍单独绑定文件，不能仅凭文件名或大小认新修改。"
+  },
+  {
+    "case": 53,
+    "token": "KdQEbWcj8oLHZUxbiJccvZq8n3c",
+    "sha256": "a03f773db7514ee25bce560b0f75501ee1e3e622fa1e09047c07715d5ec82dc1",
+    "method": "16帧逐格审看+全音轨机器转写阅读；原音未实听",
+    "notes": "69秒精简版把产品操作从30秒前移到14秒，删除泛痛点重复；重庆数学高频与生物图示可见。更早展示输入结果是具体结构改善，不是强行所有片子限时。"
+  },
+  {
+    "case": 54,
+    "token": "OksCbt1fXo3BS4xPJWncmOr1nLh",
+    "sha256": "510e2e7de570ccab45ccad3242c277101b71fdb4a7a785cd415ce693bd369e5f",
+    "method": "16帧逐格审看+全音轨机器转写阅读；原音未实听",
+    "notes": "88秒同题版拉近翻译练习画面，结果可读性稍好，台词与原版基本同；真题/仿题和原文说明仍需核。"
+  },
+  {
+    "case": 56,
+    "token": "NDvxbqPDuoibXNxPSMUcuMt1nHJ",
+    "sha256": "1930c8c683cd99cfb261257b1a3e04b34757fcc043b862518adf956d9f797059",
+    "method": "16帧逐格审看+全音轨机器转写阅读；原音未实听",
+    "notes": "同情侣61秒版ASR误识别更多，但16帧同场景和84.5分清楚；不能因两个转写差异而假定配音修改。需要原音才能复核双语准确性。"
+  },
+  {
+    "case": 58,
+    "token": "EcOSb8L5SoAM3Ixq6racZITIn3f",
+    "sha256": "ae5c1eb282e3599cb2186f01524ce8212d1297003469d20cb10bd5dd03382b58",
+    "method": "16帧逐格审看+全音轨机器转写阅读；原音未实听",
+    "notes": "55秒另一版开头工作任务字幕与前版有差别，过程输入占比高、成品只几个画面。课件隐藏/展开功能需更紧密的连续操作证据，不能只靠两张静帧。"
+  },
+  {
+    "case": 60,
+    "token": "AdP7bbyUvo6BFBxmUoCcNOOrnxc",
+    "sha256": "0ddd3f4b108edfdb71dde7ccb4bae99d43544d556793cf7fc1db796e2d1b5f13",
+    "method": "16帧逐格审看+全音轨机器转写阅读；原音未实听",
+    "notes": "110秒宿舍本人前后对比和实际用品丰富，是视觉落地较强案例；两位数预算需列本次新增物品与已有物品，不能让观众以为全部装修都不到100，图表/布局建议与真实改造需对应。"
+  },
+  {
+    "case": 61,
+    "token": "TrmLbLWnyo6X73xtpj0cULNKnjv",
+    "sha256": "0840e7decd65baf6ea72c2df0d218a0d50d005928085262c54afc4151c7d9c72",
+    "method": "16帧逐格审看+全音轨机器转写阅读；原音未实听",
+    "notes": "64秒WPS研究汇报实际本地软件编辑界面和多页PPT可见，录屏需要证明软件内操作而非外部生成后打开。结尾本人微调是合理真实界限，不应删成完全不用动手。"
+  },
+  {
+    "case": 62,
+    "token": "Rfr9bX4ieoC3JJxlIB9c1QSSnjh",
+    "sha256": "051180904e96dd4cc349d6d25930ef5959511638cf0c7a561f8397658b289a76",
+    "method": "16帧逐格审看+全音轨机器转写阅读；原音未实听",
+    "notes": "89秒戏剧化宿舍改造、手机请求到最终粉色床铺有实物兑现；100内预算与新增50多组合需加总核算，人物滤镜不构成产品问题。73秒后无ASR仍有结果画面，应继续看画面。"
+  },
+  {
+    "case": 49,
+    "token": "DIz4b94hxoiQVUxCpmOconianQA",
+    "sha256": "efa2fdd87dc0e5531338932a0a30799b374d42e0485ffba98a64a795cd43ccbf",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "第4个所见版本：55秒口播打开豆包APP仍配Mac界面；红框提高重点识别，未解决平台一致性。2000词拿80%分数与效率10倍仍待证，不能因版本已发布而固化为可用承诺。"
+  },
+  {
+    "case": 58,
+    "token": "Tp25b32nGoGiLpxVcgdcu6jGnoc",
+    "sha256": "9ac4639ab1e1f1695ae0792876005a265509c47ebdb4b219768e51085b26e981",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "64秒版本：操作过程较长，29.75秒抽帧出现黑色播放器，之后出现HTML式课件与展开答案。ASR 40–60秒漏转但画面有讲话字幕，不能视为静音。仍需核验原题完整、实际PPT格式与可编辑性。"
+  },
+  {
+    "case": 60,
+    "token": "UcnAbe0wQoVxPExGp99cqzhInab",
+    "sha256": "cc3b2a84c2eb18913db6d863b8e8e6c46cac91c5217c56e8ab97fd9d12e410cd",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "宿舍110秒第二版：提示词整条展示、桌面/床铺多角度实物结果，实际新增花费与原有物品应分开；45秒生成中画面不能单独作为完成证据，58秒后表格卡片补足。"
+  },
+  {
+    "case": 61,
+    "token": "Q0wMbvhcwoFDlbxwkBzc0bDTn0f",
+    "sha256": "de314eea601277e0c427db3e0f33fdcd12c47843de88a15fe353f1e8527c8b1a",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "89秒WPS版本比此前64秒更细：演示本地WPS编辑及前台显示指令，最终表格/图表可见；'完全不用自己动手'应改成当前任务范围的体验，不把自动初稿等同已准确验证论文。"
+  },
+  {
+    "case": 62,
+    "token": "XtWfb72jhoOUaWxPQeic3PpMnig",
+    "sha256": "1d4b23e5af8f1496695fba0fad5af6c2fe85497ebefc1b32f665a58061b7fe96",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "89秒另一版：提示预算100、地面30、最后氛围50多，各段是否含在同一总预算须核算；实物前后对比保留，是优点。头像/特效不代替产品画面。"
+  },
+  {
+    "case": 64,
+    "token": "Z11GbRzisoqQWOxPlZMcSW9unSb",
+    "sha256": "34599f08e35bbf14f28c72092601144377fa086d0505f58c8b7d71bcc14d4f47",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "论文评估115秒：列出baseline不足、参数0.7缺敏感性实验、超参表扩容等具体问题，专业场景说服力强。只展示评估/改写不证明真实完成新增实验；结尾祝愿accept不是保证录用。"
+  },
+  {
+    "case": 65,
+    "token": "N7eYbDDj5omLX6x0j7pcevHLnWe",
+    "sha256": "3a6e2f75778521606fdb16deac20e5744968dbd8db398e5cdcd1f9060cf5ed50",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "74秒大学效率：24秒技能安装/入口，四六级与职业规划展示精简输出。强调实际可执行步骤比泛泛说AI强更好；仍有25秒前长铺垫，不能把简洁当成输出必然准确。"
+  },
+  {
+    "case": 66,
+    "token": "JC9VbZSkkovWfrx6BiacoEktnLN",
+    "sha256": "44a488b471f5ce7cfaa65a1cdc184ebdc26bc40911b416d2063a384b2c14af19",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "59秒合婚：完整出生日期时刻直接上屏；先强调三观责任感后又说五行精准，需明确娱乐测评并按授权保护个人信息，不能当婚姻预测/决定依据。60分实际结果不应硬改成高分。"
+  },
+  {
+    "case": 60,
+    "token": "ZCTabtWFeoR1JGxKQ5qcsZxfntd",
+    "sha256": "a0378f8503e18e2f42c8ebd47e292b0a833cb423621bb869bbe965a785d3fde5",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "宿舍第三版110秒，画面改成大面积填满，文字指令仍可读；保留实际改造步骤。两位数总预算说法仍需分清新增与既有物品，不能凭AI预算表证明结算。"
+  },
+  {
+    "case": 61,
+    "token": "AtQobVPkpo7Jy4xDTJwc0G91n1f",
+    "sha256": "1801926215849e2374ce8a3d70a5d01b9437e0c0fb358312f8dc5bc67bae9618",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "11.6秒WPS过程素材非完整成片：多页PPT自动变化，原音ASR明显疑似音乐误识别，不据此认定辱骂口播；提供本地操作补证，不能作为最终完整广告验收。"
+  },
+  {
+    "case": 64,
+    "token": "Kn8sbVfjfoagsExNg2gcj0Emnaf",
+    "sha256": "10b2e78dd4b7432b344b6849545d882f6e56e34f012551c3830b4790fdc09c5e",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "115秒另一个编码版本，分布帧与前版内容相近、ASR相同；保留具体评估缺点和修改建议，未见新增实验证据，不误判成论文全部改好。"
+  },
+  {
+    "case": 67,
+    "token": "EGQXb4NDZo407Qxf08gcZAhundc",
+    "sha256": "23385f8ab2d8cc764a35471fca00e63094f794ac6ab43c9a250bcd910bda1cc8",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "56秒PSD设计：文件卡片→PS图层面板→单独元素/背景切换，能证明分层而非只导出平面图；栅格文字层与可编辑文字层要区分，'所有元素都独立'须逐层验证。"
+  },
+  {
+    "case": 69,
+    "token": "PsJFbCmMyoaOI0x5lvjcc8GInbe",
+    "sha256": "2a85777fe8a709ee44911aeea8ec772b226601c79922651a749de3ffb9706f63",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "63秒宿舍采购剧情：预算99元、四类11件来自AI方案；最后聊天称100元不等于订单/到账实证。当日/次日达取决收货地和商品库存，需以真实订单校对，别承诺统一时效。"
+  },
+  {
+    "case": 70,
+    "token": "KNVsbrZhLoG7PoxjrtDcAf7dn7c",
+    "sha256": "18fe0f00176763fc9bd9bf913267fcc3b691435b65463b3c79bb08c06c29e641",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "128秒研究选题：2个清华技能，八题矩阵与Excel方案可见，结尾明确AI不能完全代替研究是好边界。学校授权说法需当期确认，不外推为清华导师直接指导/保证创新。"
+  },
+  {
+    "case": 71,
+    "token": "TCrxbSBQ2oKo9wxkIoScmGx4nOe",
+    "sha256": "f583a54ae033bf26f556366c37b29d3620011ed949f125479e67f11d3e76e3c1",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "115秒法学选题：上传已有资料→反问澄清→选择方向→文献链接→主/子问题，过程可信度高。演示链接不代表引文已全核实；需要实际打开来源、区分征求意见稿与现行规则。"
+  },
+  {
+    "case": 72,
+    "token": "OugpbqBRDoQKsLx9bhXcCyaTnEg",
+    "sha256": "1585ba9eac9499406e2009802b335e3713899b4522b2d80582e354baeacd96d3",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "82秒PSD商品图：上身图/卖点图→透明图层→PSD在PS中改背景，能体现可编辑价值。更换文字表述需原生文字层或手工替换证据，实际商品材质/版型不能由AI效果图虚构。"
+  },
+  {
+    "case": 73,
+    "token": "KuNFbaaiwojdX0xWWBDcovFWnIb",
+    "sha256": "7a71ecadd71a24928e3e3b39c57214c1d3d39438567405a039b3f07c6173fb2d",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "90秒花少人格：综艺热梗开场、本人答题与朋友互动，再展示结果，故事自然。结果张翰30%不要讲成心理测量准确率；版权素材/肖像使用与节目官方授权不能由画面推定。"
+  },
+  {
+    "case": 74,
+    "token": "Ceo6b2kcloZKXdxGHRLcxWxonDd",
+    "sha256": "513852ce4dbd182d896e0e8d12d7f9e8f2a8700f64058c03cec3a5f7a32e70bb",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "123秒律师股权：先提取主体/比例/依据/出处并人工核对，再画图、调整、封装技能、第二份材料复用，业务闭环清晰。冲突标注比盲目生成强；真实客户材料应脱敏且核对权限。"
+  },
+  {
+    "case": 64,
+    "token": "HGsybkl4zotcNexwLrLcl7fwnjb",
+    "sha256": "86c6a7f7122054d61317715186b00285eb64dddd96de9c0171edd69e4e3b496a",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "论文评估第三版115秒：相比前版46/61/69/76秒去掉局部放大，整屏字更小；技术细节仍一致。提醒不同改版不仅看台词，还比对重点可读性。"
+  },
+  {
+    "case": 67,
+    "token": "DdWXbCvLuoO06PxYZgYczhpHnpb",
+    "sha256": "85739b47c7175c7e9e1c5e73ec7e5eb96e04b182622f849d139e3ca4e2fa8481",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "PSD第二版56秒：开场从聊天内容改为PS成品与图层关闭效果，更早兑现分层卖点；其余步骤连贯。重点检查所展示真实分层数量而非卡片文案。"
+  },
+  {
+    "case": 70,
+    "token": "PdaEbQKppoLeIix0tDlckKPanod",
+    "sha256": "5827a7f02ece414034f9955252880881d67047940ed70f62bd51b5ffc6a31257",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "研究选题第二版128秒：25秒字幕由'清华官方授权给豆包'改为'清华官方授权给AI'，ASR仍说豆包；说明字幕与口播需要分开核验，不从ASR推定字幕已改。"
+  },
+  {
+    "case": 71,
+    "token": "ObMqbIva0oCHiYxmt29cv9HUnmP",
+    "sha256": "02178239f7a9cf2ac7150df757e48d320c4b7035f8f8530c70970cd449586f00",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "斯文孙115秒第二版，资料/澄清/最终问题画面放大且大面积覆盖，专业信息可读性比前版好，保留实际提问迭代。法律文献来源仍需核验。"
+  },
+  {
+    "case": 72,
+    "token": "Cxn5bObuSoSyBzxuFOYc5TrUnFe",
+    "sha256": "c343a71a8325331f67230eafa1ed80ea5d8f0e7ae3a53275ab565cea02004ed4",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "商品图82秒第二版：54秒改为透明背景、60秒展示文字工具/变换，较前版整图变紫更贴合可编辑诉求；须核对文字独立与商品保真，不能以PNG图层自动断言文字原生可改。"
+  },
+  {
+    "case": 75,
+    "token": "M3GMb0w4HoiwK9xPguTc0XZgnpe",
+    "sha256": "584d1a35ccf09e5338d534e48088d85900284cbbf5fb1256242aafe8ff0fe5e2",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "67秒Lily：选题→修改排序，画面5.1/10大修真实评分，比假装完美更可信；结尾明确判断写作本人完成。学生会员三个月为时效活动，重拍须查当期权益。"
+  },
+  {
+    "case": 76,
+    "token": "LYeKbpAzfolRN1xJBhKcxt61nWg",
+    "sha256": "8428bf387c753f58a81e65dea5ae03ba21ec46786484d9bed385f90a7fad27b8",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "100秒大学老师：三个科研技能串联，指令/结果/文献可见但多长文小字；'科学可执行'需结合本人研究核验；更适合专业受众，不能拿既有SCI经历证明工具带来成果。"
+  },
+  {
+    "case": 77,
+    "token": "ShQgb41cCoscLDxOz9scjU6KnWc",
+    "sha256": "04e1702154a23f0fd419ddea6138afdbf6b81a0dbe9db55d24b86c4278ac1414",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "58秒求职：展示8匹配岗位、72综合分、薪资区间与截止提醒。实际投递页面跳转在分布帧未见，需要补关键镜头验证真实有效职位；ASR十月与画面字幕11月底差异需原音核验。"
+  },
+  {
+    "case": 78,
+    "token": "R7Zwbg2wmo08mrxbAQQcoOrSn8e",
+    "sha256": "94e73deda807aa11dc32a0a1bf27b643c7c4f59e76cfe9ed4047657cc890b5da",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "58秒清华技能：完整入口与分步过程，但中间录屏覆盖眼部/面部且字小，尾帧彩条应核查是否成片遗留。'赛博入学'为玩笑，不等于真实学籍/指导。"
+  },
+  {
+    "case": 79,
+    "token": "L99PbGJXeoLP7KxM0qCcsDGNnfd",
+    "sha256": "d40bd1c806a69dcbc5b5536a867a0c3826d314d35fd659837e80faa6b2710326",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "66秒镭射卡：先成品动态，再PC云电脑生成，明确第一版单面→追问双面是有价值改稿过程；'不花一分钱'不能忽略账户/额度，必须对当期权益核实。无需把所有玩法强制改成手机。"
+  },
+  {
+    "case": 67,
+    "token": "Iunbb0nvsoz9N2xo349cZaJEnkc",
+    "sha256": "13446d23932ce94d1173c7c245961b2708caf2edb0628b25572ccef0b962a4c1",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "PSD第三版56秒，主要台词和图层画面仍接近第二版，文件下载/PS打开/分层证据齐；保留需要逐层查验的边界，不能只看文件扩展名。"
+  },
+  {
+    "case": 72,
+    "token": "BK9hbScAGo5nHRxjIK0cw9KSn6b",
+    "sha256": "7e79d2086126ffa44dd1f36a62874efe1908c077f37619924ba992edfe149095",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "商品图第三版80秒：删掉更换背景颜色一项，缩短部分口播，53秒出现文字编辑工具/选中标题。与旧版差异属于功能表述收窄，复审不可把已删除卖点继续要求补镜头。"
+  },
+  {
+    "case": 75,
+    "token": "Wd4SbMTiuolc1ZxHEoqcnUKbn3b",
+    "sha256": "329b2951fab4f7cf158551da2c5039f765bc5b5e99768d5353407d1de7c658aa",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "Lily112秒旧长版：会员活动放21秒，泛化比较占较长篇幅；比67秒版多45秒铺垫，缩短后仍保留方法导师和本人判断边界是有效优化。74秒大面积反光影响录屏可读性。"
+  },
+  {
+    "case": 80,
+    "token": "GsWabEHkpohgK7xtXs9ck3zmn2c",
+    "sha256": "9753480479681c7f95a0caf5b2040335f8cbd423ea34c08348287da2b6150577",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "极客124秒：剪映草稿/Canva连用，两种需求故事通顺但素材结果与指令并未严格一一对应；其口播明确细节仍人工调整/偶有点偏，是诚实边界。Canva封面应实际进入Canva可编辑界面补证。"
+  },
+  {
+    "case": 81,
+    "token": "Oh6abxhxQobP8Ixblwjc4MJinQg",
+    "sha256": "c2d5c489de2b4c2a50cf897b1fbe22a5c9e5db398d08799a89431c75c2fac572",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "库兹16.7秒鹈鹕比较：先六模型拼屏后豆包2.1Pro单独动画，手稳搭车把、脚蹬动作有变化；不能据单次展示宣布全面胜过其他模型，模型名/统一输入条件须核实。"
+  },
+  {
+    "case": 82,
+    "token": "Zx2GbBA8ZorvQMxgOXecxYXWn3c",
+    "sha256": "16356db74625d8cbf00969ff12a7de89a2152de2b0af8a187a8c09f3939d90f0",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "极物14秒鹈鹕：晴/雨/雪切换实际效果与按钮可见，2.1pro标注；ASR极短疑似配乐误转，不据其判断口播内容；重点脚踏动作/手车接触，不能只验画风。"
+  },
+  {
+    "case": 83,
+    "token": "Fs1abmKZDoj2kNxDJwWcxa66nPf",
+    "sha256": "54e358975c1daff5b4812ccebd04f9f7e232a9b401f37470a197d8d8c1057230",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "诗人飞川70秒：人物叙述+产品指令+旅行成品，安装剪映前提明确，'AI八成我两成'为体验描述。自称自动打开剪映，但所见分布帧缺操作时间线，需要对应镜头补证。"
+  },
+  {
+    "case": 85,
+    "token": "GrTNbXfYhoqWypxNrbGcsaHGnke",
+    "sha256": "b0c39768a6c43a4f1078ca7918113358ad295093209fa925a8db2285f08bb322",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "手冷11.8秒鹈鹕骑车：红围巾、海边、脚踏前后相位变化，2.1pro有标；仅动画结果，无生成过程，是否足够按该期热点短片BF判断，别套长教程要求。"
+  },
+  {
+    "case": 86,
+    "token": "D9w0bzmYroj8aLxMzbkcfKAPnpf",
+    "sha256": "f09970c7c303b28c264a71f86a29155fb001656bbe2dbf903855731dd3fafd31",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "小y23秒：按钮逐一切换速度/雨/飘雪/泡泡/晨光/烟花，交互效果实际有变化；脚部与曲柄需密集帧复核，单张预览不足。"
+  },
+  {
+    "case": 87,
+    "token": "AWXVbnVJGojKPoxTFvscF8rJnwb",
+    "sha256": "bf9faef606d39f14741ac8e5038fa32dc786ef95c67af0c23a97e874a129b979",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "Nina5秒素材：纯SVG骑行动画与说明文字，手搭车把脚绕曲柄，所见无豆包型号标识；可能中间素材，必须先识别版本和用途，不把短素材当最终完整片。"
+  },
+  {
+    "case": 72,
+    "token": "EVIkbottUoWo8CxZJBlc43sEnOg",
+    "sha256": "be6fd03569cd8e45991d27694578290b6138fc0e154bb24c260e6c312b550015",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "第四版又加入背景更换说法；约55秒有PS背景编辑画面，尺寸很小，需看放大过程，和前一版不能视为同稿。"
+  },
+  {
+    "case": 80,
+    "token": "QOGRbRPfwoRP4Qxpmxzcbm91nwg",
+    "sha256": "ae7cfbc515843554f7f6bf31b0dca9fa931860a0cdc1435da20578f52bfed5bc",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "提示词约41秒蓝色高亮，剪映57/66秒实际时间轴可见；Canva仍仅聊天回复缩略图，未见真实编辑器，不能据此确认跨应用全部成功。"
+  },
+  {
+    "case": 81,
+    "token": "SmiRbP5nzoOPmXxyde3cOzNtnQL",
+    "sha256": "32fa4e1b1e09d582d600eba3c94bac37e8b55b6aa3fae41ef77251c073f82239",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "13秒新版是完整单幅鹈鹕骑行，2.1 pro标签可见，手脚动作及暂停/速度控件可见；已不同于前版横向模型比较。"
+  },
+  {
+    "case": 83,
+    "token": "N3OkbLhzvoUxLpxucPxc5pgOnEg",
+    "sha256": "e9a729e01d070ca6b8edc8b86fe0440ae0d247f643f4ad0c7114c4b925769a08",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "第二版约4.71秒新增剪映时间轴，补足上一版只口述的部分；结尾成片可见，仍约25秒才正式进入教程。"
+  },
+  {
+    "case": 86,
+    "token": "FTpUbQriXomsC3xUYfGcVb0bn6e",
+    "sha256": "68c479a12e1adcd1596fc9b5f9c0d8ee959e2a43067097bd1b8ac3c1bedd877d",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "14秒新版为完整横屏鹈鹕UI，2.1 pro、暂停可见，脚有循环动作；与23秒版功能展示不同，未听原音不判断配乐。"
+  },
+  {
+    "case": 88,
+    "token": "GyGYbnYmvorjVKxVQwVclGYVnig",
+    "sha256": "ff1f9afe08907f2812aa7926bc2894a70b20d35d90ac556e23cb547a68cff725",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "3秒鹈鹕原始素材，无型号或生成过程，脚踝有变化；不能把素材附件当最终发布视频。"
+  },
+  {
+    "case": 89,
+    "token": "A3yMb0NCBowLPUxzeCwccMVxnBc",
+    "sha256": "6f6be08234da7d04963c683466ad9f3f4b866bd622654d6a15abcfa92644cc47",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "5秒蓝车鹈鹕原始素材，手接触车把、腿循环可见；无型号/生成证据，附件角色需结合文档。"
+  },
+  {
+    "case": 90,
+    "token": "MOA2bFawgo5EdFxaBkecB72mn7e",
+    "sha256": "4dc1dd850e1bdce8204821207e6d9917c40ab87d730d580f66fd9031abced8c6",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "39秒本人照片卡片到PC云端操作；20秒字幕“1分钟做好”与28.4/30.99秒画面“共用时22分49秒”冲突。生活化开场有辨识度，白字小且对比不足。"
+  },
+  {
+    "case": 91,
+    "token": "BWGrbBTz4oCgxBxGnVdcZeDOnyc",
+    "sha256": "508f0970fd50c5d1bd2cf9c511450ce71b80a5ff99d5826efa12e66b59fc2c35",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "21.5秒本人照片全息卡片+PC云端过程，效果前置且简洁。画面倾斜响应不等于360度物理旋转，描述按实际能力。"
+  },
+  {
+    "case": 92,
+    "token": "WNrzb8YRFowtdixIH4Rcmx7wnUh",
+    "sha256": "d995cb4667a2b59e2d66d6c44b3a2d816522e4efdf98a708e7cb6b2f613f14ad",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "22秒先卡片后PC云端参数；输入游戏角色Jett与结尾一致，但开场另一女孩卡片需确认素材对应。滑杆改变效果可见，演示有实证。"
+  },
+  {
+    "case": 93,
+    "token": "BIWObvov9oUe4mxYqe3cmrfXn0b",
+    "sha256": "8d8433a793b68db45029266c95e3e0578c2413007e28614f115976ddd95ea5b5",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "77秒求职；“任何想去的岗位公司”过度承诺。41秒立即申请跳至招聘网站搜索结果，并非对应岗位详情，不能写一键投递。城市薪资筛选有展示。"
+  },
+  {
+    "case": 94,
+    "token": "Kmt8bPrVxoShboxaPzDcmRNvnUf",
+    "sha256": "d56ccc0ea42ae86a40d647dad5092b5bb7832f60409f816f511e5fb5a5243e86",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "81秒岗位卡片→复用skill→附近租房；约37秒仅文本来源，未证实直接申请。“精准符合”需改为按条件筛选，技能导出安装若口播承诺需有证据。"
+  },
+  {
+    "case": 10,
+    "token": "OrXLb2sICoygalxK8oycOGnlnCd",
+    "sha256": "663019bdd747d8649dd4b0350969f119a843620a8ec654840f8262eb94dd7d50",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "39秒新补抓版本；34秒豆包回复明确为让显示器进入睡眠，并要求系统已配置立即密码保护。只看任务成功不能证明锁屏，需拍电脑唤醒后的登录界面。"
+  },
+  {
+    "case": 49,
+    "token": "XEn4bcOdpoKKR4x7KXLcxHcfn1d",
+    "sha256": "0723597bfb14a4bf7928fc20c75011c505e0c65cf7cbd1fd18a873676a58a4c0",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "第五个99.97秒版本；红框提示词/高频词/练习题，但仍“打开豆包APP”对应Mac界面。转写相同不代表入口说明已修正。"
+  },
+  {
+    "case": 72,
+    "token": "CStKbgEQzoc2pmxbUCacY03enNe",
+    "sha256": "8d2a007d62329b46e06b7a5caeef4f86ee3abc02116ed1a24ee0e34d518f10d0",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "第五版83.2秒；55秒PS上改底色画面仍小；与前版全转写相同，实际字效和背景演示需要分别核验。"
+  },
+  {
+    "case": 90,
+    "token": "IIflbKiVRol1s7xYZz5cJM5dnXd",
+    "sha256": "e6800c6739a07b5df8f3b9a6e2ca1c00b1b40ea11dc2bbd974de93233c7a51cd",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "19.7秒原始卡片录屏，有鼠标倾斜、激光强度等调节；这是效果素材而非含生成步骤的成片，也不能为1分钟完成的口播背书。"
+  },
+  {
+    "case": 95,
+    "token": "Hc6Rb0gT6oClVWx8I2WcTV3Nn8b",
+    "sha256": "b6f7d57ebe098258d90a566b057ccfa51f413bc231ea0cb1894898f3781d40c2",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "34.6秒动漫卡片，输入指令与结果图能对应、手机倾斜响应可见；所谓先选云电脑的录屏没有完整下拉选择，只见切换工作任务提示，入口应补清楚。"
+  },
+  {
+    "case": 96,
+    "token": "XqejbVmANocJ6LxQQpbc2mFrnkd",
+    "sha256": "5fa9a12bc0c1ade6c742894bf344c514ad2f49818f4a32b1c6c5bd89269d9b96",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "48.7秒Coser个人照片卡片；6秒云端入口、上传照片、生成到结果卡片均有，正反面动作可见。粉字白底反差不足，照片版权与身份素材需授权，不必硬加长口播。"
+  },
+  {
+    "case": 97,
+    "token": "Sv08bTlhMoGSj3x3PWicszrAnor",
+    "sha256": "a5e41fe56a66e4e4ff93ee6bf35e4b4fc63a13a1254e85b1e20c40b4eb7090d6",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "31.1秒本人照片前后对比、云端与生成、参数面板；录屏文字偏小。倾斜卡片的轮廓光不等于人物成为真实三维模型。"
+  },
+  {
+    "case": 98,
+    "token": "C13NbhGMEo9JUUxkMWscPgJJnmh",
+    "sha256": "bb34e61c59dd80adffe455cdd6f476e90edcbb7e66a03f741edec68c526d1898",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "26.2秒手机原图→工作云电脑→安装holo→HTML打开→卡片，关键路径清楚，能定位原图和结果。不能只下载图片就说可交互。"
+  },
+  {
+    "case": 99,
+    "token": "SkOJbhYW9ogeMpxhfHLcxVrnnSg",
+    "sha256": "213cd6ea2765d672ea1e288a653deba895e8fb8f0683e658cab28c1dcb62d8a8",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "22.1秒照片卡片，效果前置+PC云电脑+上传+结果；教程区域过小，手机观众难看清具体指令，可把入口、指令拆放大。"
+  },
+  {
+    "case": 100,
+    "token": "SrORbBwnhohTIPx3S9jc3kdcnOd",
+    "sha256": "eb9e280ec7132e31a5d141613d5e95edafe355f5895c698d46e1f96c755d2cd9",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "48.4秒偶像个人舞台照→全息卡，追问升星玩法与背面魔法元素展示；周边是之后打算制作，不能把数字文件当已产出的实物。"
+  },
+  {
+    "case": 101,
+    "token": "PH8DbvyCXo8y0hxa1kLcUrwOnBB",
+    "sha256": "d7f487bd30849194930d7d5ba75d40620a267ff3e10e0d4a9ccdaa0e5a0fd6ef",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "27秒鹈鹕2.1 pro，手脚与速度0.3/1/2变化可见，提示词片尾有；免费30天属于当时活动，不能固化成永续规则。"
+  },
+  {
+    "case": 102,
+    "token": "V0pkbOGicoG4ZaxuAQ7cwk8pnlf",
+    "sha256": "14f2d43f8afe79e76d2b739689dbc681b30d1ec95432e43481890b8281ae9668",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "65.7秒求职，18岗位可视化看板后约56秒确实打开相应岗位详情页，比仅跳搜索结果证据更完整；匹配度仍是AI估计，录屏可读性待改善。"
+  },
+  {
+    "case": 95,
+    "token": "IWidbjasUoMOnnx6uiyc7weMnwc",
+    "sha256": "d65e19dcf4e397d91654d7d3114ccf6de8e543dfd78f9c57d0892fb9307e671d",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "34.7秒近同版本，云端入口仍主要靠字幕、未见完整选择；卡片前后素材一致，不能为凑问题强加长口播，历史BF允许短效果展示。"
+  },
+  {
+    "case": 97,
+    "token": "JoSzbx1Hro7JW5xCXG7crdw4nyd",
+    "sha256": "53a58148e0d086c46e7183935395a0ea81be4b80bb063bd1c229e6fb5ae8739d",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "12秒操作素材证明HTML附件实际打开、同一黑衣照片形成卡片；可支持最终稿生成真实性，属于素材不独立套成片结构。"
+  },
+  {
+    "case": 98,
+    "token": "MeEsbLQ1poiqPhxBugncZResnTc",
+    "sha256": "4470d99dc6b84bfcf63f81915e47784306445ae9a6a98ccaca914dc4e98d1adf",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "8.9秒原始卡片：手机HTML、旋转与正反面可见；仅本段不含生成过程，但最终26秒稿已有，不对同一链条重复要求。"
+  },
+  {
+    "case": 99,
+    "token": "EtN4bEtrnocl9oxSD9fcD7T6nof",
+    "sha256": "64534580a65cfba2b4a5500bdd70ec21c30c43dd9e382c0173fd9ac3dc76a9f0",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "20秒对话素材，部分预览文件提示过大暂不支持但HTML后来实际成功打开；不能把预览不支持判成功能失败，也不能只截失败画面。"
+  },
+  {
+    "case": 100,
+    "token": "YtGLb4ZfKoDnZvxZYodcbM6gnMa",
+    "sha256": "11f5ea56772629dd926d7317346680d71dd69706df4559a2e690ecafc85a6867",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "25秒多张原始舞台卡片，魔法背面确实做出；轮廓辉光有时盖住人物，若用于成片可适度降强度，属效果建议非必改。"
+  },
+  {
+    "case": 101,
+    "token": "Z7LBbe91joSH3Gx2L4Xc7uLKnPc",
+    "sha256": "f8382a1af96aab93a5048d39b56be13847de5eaa42c834bdc427281e45bd5e79",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "34秒加BGM版去掉口播，始终标豆包2.1 Pro、速度变化和暂停可见；转写空不代表无音乐，未实听不判断BGM合规。"
+  },
+  {
+    "case": 102,
+    "token": "ONYLbcE1ao5Ua0xnFjNcMEF6n5g",
+    "sha256": "f75d712a025c2d1cc26cbb520427ac74c36ec72b9df7cef291419676e8af5206",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "65.73秒求职近同版本，对应岗位详情跳转仍存在；不存在新证据时不因版本增加而硬找新问题。"
+  },
+  {
+    "case": 103,
+    "token": "M6ZsbAR5Qogn2XxSkzgcjBakndd",
+    "sha256": "a16f498402e839752449f3ef5ebb7202d15b49914bbdb7a26bafb0c4b58056ab",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "34.5秒花宁谷圈，指令实际为EverettFish/holo-card-studio而非另一作者，应按版本记录；PC生成与参数交互充分，0成本需对当时权益但不用机械否定生活化说法。"
+  },
+  {
+    "case": 104,
+    "token": "Z8L3b1CHIoGKPtxKTpMcSJofnWf",
+    "sha256": "5a3b3229f40532dbf09413a4e4adf831f5fb7c3738221894b6e41a11e532b2af",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "38.8秒手机闪卡，开头几秒钟与中段等几分钟不一致；18秒字幕工具任务应工作任务。实体闪卡作类比应明确数字效果，重力实际手指触屏不等于已展示陀螺仪。"
+  },
+  {
+    "case": 105,
+    "token": "BvQZbwWYSogYlkxMShKc09PEnfd",
+    "sha256": "db3fa0f7db41e3432e52e69dce3b994a384d88799bf21cd1697ae8442c6a0944",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "51秒古早小电脑+谷圈桌搭自然融合，PC云电脑操作有依据；OC上传画面之后仍旧成片，不能把旧结果冒充新OC生成结果。设备vlog结尾符合账号风格无需强删。"
+  },
+  {
+    "case": 106,
+    "token": "E4tfbMdLro7TPKxaKNvcMcOVnNb",
+    "sha256": "4a01023a5f1e023f0894c4782d7b56e86131c29a7bec035160f97c7748955db0",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "46.8秒双人卡片，PC云电脑入口及上传明确；3分钟、无需反复改、无限量说法需按本次实测/权益限定，其他可正常通过，不设必须改几处。"
+  },
+  {
+    "case": 107,
+    "token": "Dtzhb7bHpoGcy8x4AHOcPTGgnIb",
+    "sha256": "8c62be12a49d837a2dd9f32e8330cc9f42d48e3338b589bbb6f40e7cb580c61b",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "76.9秒与案例93高度相似，同演员同杭州看板，不能当独立创意证据；立即投递仍跳列表。表格可能两个账号复用同稿，后续统计标记同素材族避免重复归因。"
+  },
+  {
+    "case": 95,
+    "token": "SwWAbLhoaoXoCnxgcDOctXg3nLr",
+    "sha256": "edc6938a222949fd91f70d69974bacbd10c9f2dd2ba250317ee94b1b32d9857e",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "4.4秒动漫成品素材：拖动倾斜与光效正常，作为前面成片的效果证据，无需另提修改。"
+  },
+  {
+    "case": 97,
+    "token": "X0BGb7YTKorD7Kx72XDc7pG7nOh",
+    "sha256": "7e114bd39f40be0cd6afb05b267203fa9bee2eb237158ce6a6627a2d35aee9ab",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "29.7秒黑衣照片卡片原始录屏，Depth/Contour glow滑杆实际改变画面，验证可调参数，不把默认Depth=0误判完全无交互。"
+  },
+  {
+    "case": 98,
+    "token": "EefqbKj6VogonoxBwkOcwLFXnyc",
+    "sha256": "6b228ff37bbdc6761f9587bfd869edcc5ff399448c263372ea3d8bffbd136741",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "7.6秒黄衣自拍卡片，正反面和Tilt效果可见；与橙衣卡片不同素材，需按具体照片对应版本，未发现必改。"
+  },
+  {
+    "case": 99,
+    "token": "LlWybeo1Fom52BxEqLIcOLPInyd",
+    "sha256": "cb46fa88b809149a09f5989ca6816c28bea96c6f1084768755247cee6de2d8b6",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "12.7秒产物2录屏，翻面与倾斜均正常，可用作最终稿的细节素材，画面尚无必须改动证据。"
+  },
+  {
+    "case": 100,
+    "token": "F8PnbjfCAobV5mxTS8TcuE66nvb",
+    "sha256": "f9b435bcae63ec274975384b7b1277b02c1ba7b46f7ea194b18ea2b9e7a17dbf",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "24.5秒舞台卡片原始录屏，鼠标调参数、正反面实际可操作，支持成片对应效果，不需增加非BF要求。"
+  },
+  {
+    "case": 105,
+    "token": "QSmhbNlItoz4BLxj0z7cddXYnDg",
+    "sha256": "34055ccf8cc9ec51b74aa5f9aeb78beb7aaac2f160d701d5ae5cbbb08f3f4f98",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "50.6秒小电脑旧版把180度功能提前，成片结构仍自然；展示旧卡图支持已有玩法，OC扩展仅泛提不要强认已做第二例。"
+  },
+  {
+    "case": 108,
+    "token": "MNUubIDntoZIE5xxRHmcYllXnQg",
+    "sha256": "f7838848e1d2af60b8347c084c64a7c9a4df2367c35e4d43a84eb2c4de13a271",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "20.5秒个人猫耳装照的虚拟谷子；手机云端入口、原图指令、附件、正反面效果齐，未发现必须改动；无需为短片硬补冗长解释。"
+  },
+  {
+    "case": 109,
+    "token": "NnjCba2ZxoIykHxYZjxcq5Gwnze",
+    "sha256": "ded86d1e4c98ed2593611b45ea51b9591711b59d01e4fe77a646125ca6f09941",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "18.7秒夜上海卡片：13秒字幕和机器转写均出现“继续展示闪卡效果”，像把分镜操作说明读进成片，需核原音/确认这是制作占位，而不是正常观众话术。"
+  },
+  {
+    "case": 110,
+    "token": "EDUeb5Lg6o1gB1xf8UTcAh0enrh",
+    "sha256": "080dd8432fe2a2893dafc07537c85e4dcea7f8780fc2012d6a0a069753a3d74a",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "16秒动漫冷雨夜卡片，PC云电脑→指令→实际结果路径有，按当时短内容BF可接受；字体小属可选改善，不因短就判不合格。"
+  },
+  {
+    "case": 111,
+    "token": "UlKFbTjVzos8rbx8t9QcwvsCnZ1",
+    "sha256": "b4111634b6cb5b615a70b68ba2af13b961801fae5f7c50fa4935a85418cc2cfa",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "15.3秒海边个人照卡片，效果→工作任务→照片指令→效果完整，未见重大问题；ASR空不能当无声。"
+  },
+  {
+    "case": 112,
+    "token": "GGKcbFfRHoFFiWx5kHzcExFJnHh",
+    "sha256": "796a80029c637348fa947ade02b9ec6a22d34a5ab76d3646ed4cf23cc209129c",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "23.4秒旅拍→绘本风卡片，电脑入口与输入、可调整光影参数可见，文案限定效果没有凭空夸大，未发现必须改动。"
+  },
+  {
+    "case": 113,
+    "token": "WIQ1bWQ7SohRvTxIgw7cnPLnntg",
+    "sha256": "5c38908fff816b7a8c93d425c4f5b4fb5cce094d13cf56b41b0eb456d302ee33",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "24.6秒小寒昭昭：原图前后对比、PC云端、上传、独立HTML、评论区指令清楚，符合短教程结构；无证据不要硬找问题。"
+  },
+  {
+    "case": 95,
+    "token": "DWzBbDTYQo2kRax9ecWcuX5WnLe",
+    "sha256": "45850cb8183cd6283f963ccf009e35b54e6cdb8a668ae44727e16d12a82eaa08",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "5.9秒第二动漫卡片素材，光效与翻转正常，未发现必改。"
+  },
+  {
+    "case": 97,
+    "token": "Gl7UbUWtJoiVYUxbKEZcLaUbnbc",
+    "sha256": "5359f6a07e239bdd17abfd4992f4fd1e1408c4fad899b40e248b71a71743973c",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "20.7秒泳池照卡片操作，打开HTML经历约7秒空白加载后成功；不把正常加载过程判不可用，不把等待剪掉后宣称零等待。"
+  },
+  {
+    "case": 99,
+    "token": "VrXObwv4GoVq32xuTfRcv8Drnmf",
+    "sha256": "04d2dbf28cef470578f9258feecbc06f9c1f43fb1f5a79e6142e8f860338c16f",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "12.5秒草帽人像产物4，与产物2相比轮廓光更弱、脸更清楚，属于可用不同效果版本。"
+  },
+  {
+    "case": 100,
+    "token": "DVVlb8vBmodpgfxa6nqcwbyGnvh",
+    "sha256": "0fc86ec6a6394b0fa0f30da68376819ca38a395f8c6a2c74c07f695056f9ac27",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "17秒紫霞歌姬素材，卡片翻转与光效清楚，无须凑修改意见。"
+  },
+  {
+    "case": 105,
+    "token": "N2inbIshgoFlV9xUxbxcHuKxnkb",
+    "sha256": "a664708420fa6c3b1e8ada150360a60e0c6df09e600820e97ee44284d87fb9e0",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "45.35秒电脑稿缩短后仍保留设备开箱→云端做卡→结果，调序主要是创作选择；不制定所有视频必须几秒进入的硬线。"
+  },
+  {
+    "case": 108,
+    "token": "BeYIbYYYKoGYpkxnPgGcriJhnEc",
+    "sha256": "336a795f32b60ed68a3f4cd3a90d2e7c7256fa2543b9cee0b120c6e1f745298c",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "13.6秒猫耳人像原始卡片，翻面、参数调节支持20秒稿效果，未发现必改。"
+  },
+  {
+    "case": 110,
+    "token": "KhAdbqB7Po3cYzxy1ZXcjDdfnHd",
+    "sha256": "e0b7c75a3a447d25b92e953fb72fd65d13aa35e53fdad35c8c9c6c73e16aa467",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "10.1秒水岸拾光另一个人像产物，与霜华动漫最终稿不是同图，作为补充试做素材单独记录。"
+  },
+  {
+    "case": 111,
+    "token": "IOJ3bSt6To1lqnxSvGvc0bo0nnh",
+    "sha256": "790103bb18ad30a0717fcce0cc1cd9aa53bc07f49912c51d40ed7a2857bb328a",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "6.9秒夜景黑衣人像，轮廓光和倾斜正常，属于未必使用的素材，不单独套成片要求。"
+  },
+  {
+    "case": 112,
+    "token": "PymdbyQpcor3BsxCRF0c4ANGnsh",
+    "sha256": "e7ccc5b10d7f9220d04f68ef6dba55f68090836cefb05222700b2a0af172d7fe",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "24.9秒卡片独立预览+对话侧栏，原图→成品可追踪，支持此前23秒稿真实性。"
+  },
+  {
+    "case": 113,
+    "token": "Bvl8bFDVxoOxnHx2wz5c077fn4f",
+    "sha256": "e52772de6ed4c8e2a0b1a74042c6584c22e244d8a3839cf40e51752e2d77865d",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "14秒绿野晴光原始效果素材，和小寒昭昭成片匹配；原始画面无需配完整教程文案。"
+  },
+  {
+    "case": 114,
+    "token": "UDacbUTo7o6IwMxH84Uc1qcYnOd",
+    "sha256": "28d4dbad1b3bf14c23be2009bf541f5f93a230258af48f2a96ddfc83b4327b4c",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "49.5秒剪辑兔子：清楚演示主体缩放/上下位置参数调整，再用同skill处理第二张图并显示新结果，比空说“可复用”更扎实；十分钟左右是本次量级可接受，需结合实测，不强行改为模糊话。"
+  },
+  {
+    "case": 115,
+    "token": "FVuKb3YPIoMiQ8x26E6cihRmnoe",
+    "sha256": "b34bd1a6819820a2e7caca4d2e40764b8ab5849e53c216300458a495ff71c9a2",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "28.6秒粉圈实体卡引出电子卡、平板云电脑步骤、手机晃动，体验自然；数字与实体分界已用“赛博闪卡”表达，没必要另加生硬声明。"
+  },
+  {
+    "case": 95,
+    "token": "T5hKb4wXIoZNy2xqBP9cmgRJn4d",
+    "sha256": "b46a18cc6128e2609362f1ab64af6c8a24bfb1f463371bda6aedb5ba12839f86",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "27.7秒真人庭院卡片试做录屏，调整参数能把主体与背景分层，但某些强光参数使脸部发白；是试做素材，最终动漫稿未使用，不对最终稿追开问题。"
+  },
+  {
+    "case": 97,
+    "token": "HcSSbJ3kYoS0p1xj3RWcrIAGnqe",
+    "sha256": "c55cd9595f42a026d0188bb79bd8c8856e2efa7cb7b5100e66172a43a724c166",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "13秒泳池白背心照片卡片，转角和轮廓光正常，支持同图生成链，无必改。"
+  },
+  {
+    "case": 99,
+    "token": "SrjVbTUqAoOtNhxgr9lcinfJnTc",
+    "sha256": "2e8d5396c03e83da9f3ea2a162a93343b7245a0d02cd67b9581898c8f222005d",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "13.9秒产物6背面成纯蓝并露出Card back占位字；该中间版本有缺陷，但此前2/4版已是完整金色卡背，复审必须确认用哪版，不能拿旧失败判最终失败。"
+  },
+  {
+    "case": 100,
+    "token": "SlrXbVSoxoJuzNxHBWKcDaytnch",
+    "sha256": "bfee98f3b7e1bdf6db4d36142d0fc61448a74da2fe2b9a6c9c160d1d6360a4e9",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "14.9秒琥珀小太阳舞台卡素材，符合最终展示，未见必改。"
+  },
+  {
+    "case": 105,
+    "token": "XTCUbiJUVoEsgTxOJzIc6Gpon2b",
+    "sha256": "010cb9982c212a60f2d7e752c015e68f5899095c1fae62716cf1c563a984b73f",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "54.4秒最早电脑vlog版前19秒设备介绍较多，后续缩短到45/51秒并调整分布；学习调序作用，不把时长规定成通用红线。"
+  },
+  {
+    "case": 110,
+    "token": "Iv8LbNWSmoQKcYx3qoZcTaVLnaf",
+    "sha256": "122c1c65c9eb54a29ab0b4b634877ce593af82f2ddeba47b5b0fb48d944a4f33",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "7.8秒霜华动漫卡片，与冷雨夜最终16秒稿一致，无新增问题。"
+  },
+  {
+    "case": 111,
+    "token": "S93fbn732oJOpXxx6PqcdnSanLh",
+    "sha256": "97bd1ee93268c4ab83c1080d3c32a22091e34f82a474d35a3f7b9d7d73a74ceb",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "11.1秒海边卡片Depth调整+旋转，进一步支持已发布15秒稿效果，正常通过此素材核对。"
+  },
+  {
+    "case": 115,
+    "token": "VJUNbFOzeoETzXxZaT0ctAeKnVc",
+    "sha256": "41df83589be347177aa3181b110e1e13b7dd9a186b5d9e28af2b79fe68fcee23",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "7.3秒女团多人卡片，轮廓光均可作用，不需额外增加单人限制；素材版本与最终具体角色分开。"
+  },
+  {
+    "case": 116,
+    "token": "Ts63bUyATowceExtfoCcSw99nbh",
+    "sha256": "340040b9d0fb47750e3bf790cf481ddc590273b9ea4fbd17457223ebfc10fd82",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "86秒痛房roomtour自然嵌入卡片，实物与数字卡同框明确关系，结尾另一个贴纸也生成卡片，生活主线和用途匹配；不能按纯教程要求删光日常段。"
+  },
+  {
+    "case": 117,
+    "token": "B3LebyYSWoG8fCxherhcDJkSnZf",
+    "sha256": "3fd35bda379cd255cea6213c1432ca74090f379706ee7e1d8d8e7944232a89cd",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "19.2秒两张cos照→手机云电脑→原图输入→HTML→两张结果齐，素材一致，没有必须改的问题。"
+  },
+  {
+    "case": 118,
+    "token": "QDP3balxPoleTpx594ncVxJhnxe",
+    "sha256": "7821296ee22c01a8d9dfde9022a6ee861936b89bb4b28e573e2830509bbc6efc",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "27.3秒线下同担切入，手机工作入口、原图指令、成品滑杆调节清楚；电子谷定位自然，短促完整，可作为零必改正例。"
+  },
+  {
+    "case": 119,
+    "token": "Xsf7bq7Mroz2OExzEzOcXzVnnfh",
+    "sha256": "290e15b99e6104fd0535adf272aa94c7270eac8a0b5c2151dfe935f9c5090534",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "110.6秒剪辑教程，实际剪映多轨画面和成品都有；明确AI初剪后自己微调，符合真实分工。开头30天万粉是另条经验不能推成此skill保证；约44秒才进入步骤，属节奏可选改善。"
+  },
+  {
+    "case": 95,
+    "token": "T2CYbOOc2opXUKxLeDMc1tDKnBd",
+    "sha256": "a4402b953997c3d2050ae63f0a87fc6433eef1703df0c41e6cbf0c852bd134a6",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "原始闪卡素材：人物前后景、景深和轮廓调节可见；结尾录屏控制中心属素材尾部，不能直接判最终稿缺陷。"
+  },
+  {
+    "case": 97,
+    "token": "P2pmb5mazoV56BxP4nIcSVg9nwc",
+    "sha256": "343705a0c42e7c131a7543d107b1a78c2cddae1780ff1eeb9b751852aae7d451",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "多图批量生成的卡片网格在该段一直黑屏，属于失败/未加载完成的中间素材；已有其他单卡成功版本，不能把旧失败延续到成片。"
+  },
+  {
+    "case": 99,
+    "token": "YwRpb4cVEoU9I2x4Pxocxr1Enpe",
+    "sha256": "ee3c349a4f83452b7995794d1ae949c24dff48effd96c175c89be60cd27f416f",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "不同于戴帽版本的第二张人像闪卡，有重复斜水印；仅当实际选入最终视频才需要处理，不因原始素材存在即退稿。"
+  },
+  {
+    "case": 105,
+    "token": "ZKt8b1fmto7QfyxXrGccfGlpnPf",
+    "sha256": "66ebc134a340137c605e151f07a88da79766420dac1ce3a63c193dc98bb1169c",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "古早电脑实际打开芙莉莲HTML卡片并展示倾斜光泽；可证明这台设备成功，不可外推全部旧电脑。"
+  },
+  {
+    "case": 115,
+    "token": "PkQgb8azxoZUwaxfb8tc9yQMnWg",
+    "sha256": "15c0c6fd5781213b284ee6eaa6ab9cd25c2d92ec12e2d8b458f4e43c3c307d5e",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "4.7秒手机闪卡素材展示人物及光泽旋转，无新增实质问题。"
+  },
+  {
+    "case": 117,
+    "token": "BUs5bFt3Aop4i8x3O3JcN0jsnwd",
+    "sha256": "0a6362b82de2337524c7baa4ad490b7351db60ca6565de85a21bc3120e09e34d",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "绿色头发cos卡片打开运动感应并展示角度变化；末尾系统时间画面为素材尾部，不代表生成计时。"
+  },
+  {
+    "case": 118,
+    "token": "GIu4bo390o5dCqxiu6GclTaXnrb",
+    "sha256": "1b7ff69cedd15a2f17c3ecf9819046b97a597d4992b9a3a451ff29dbf3472ae8",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "V1明确拍到工作任务云电脑入口、上传和成品，强光可调；在可见范围内无须为了审稿强提修改。"
+  },
+  {
+    "case": 119,
+    "token": "A5kqbvFsUozSEOxklzIc7avVnFf",
+    "sha256": "172216909e3427569f60f682a6e0aab8720b1cc1ab0f67b76bec42464d546b0f",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "与已读版本转写相同；仍核对编辑器及成品画面，保留AI初剪后人工调整的真实流程。"
+  },
+  {
+    "case": 120,
+    "token": "HoeWbLKlbo4ggpxCOTgcKNSAnVy",
+    "sha256": "bd671d0946334375114749c158d651f7e80545035f991061ccf30d03aab81577",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "官方投递链接处抽帧为白屏，须定位补看加载结果，不能仅凭抽帧断言失效；AI匹配率需归因推荐，企业名单不能保证待遇稳定。"
+  },
+  {
+    "case": 124,
+    "token": "GQdkbfgetoK4pgxLeMvcPP2Snre",
+    "sha256": "9eef2508d49c51ccddf54ab0a85c395cbe7e72153491c282f25d577fbe3f15d0",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "跨行业自身经历和求职能力差距建议有具体使用场景；任何行业、钱多事少等承诺不应当作产品保证，长教程本身不是退稿原因。"
+  },
+  {
+    "case": 125,
+    "token": "V209bWORNopDf3xTPIEcRbQSnle",
+    "sha256": "35ce070e8aafee1e3de30bfb3f81887d87b931d34b80c3b3a2f218ae5117fc8e",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "情侣八字剧情的PC工作任务入口清晰；字幕与低准确率ASR不同，应以原片为准。娱乐互动不是科学关系测评。"
+  },
+  {
+    "case": 126,
+    "token": "ULeCboh37oj8IjxXY3YcxS4dnkg",
+    "sha256": "68bf5478c84981acbcb3ff2bf33ae157aac0516c9abf7b829793e66a30f10fbb",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "Ponytail安装与贪吃蛇运行有画面；50%代码、20%成本、30%提速为仓库宣传/示例，不能当作本次实测；作者名字幕需与仓库核对。"
+  },
+  {
+    "case": 97,
+    "token": "BXxvbf1XjokV3Cx0CF3ceI3LnXb",
+    "sha256": "43ddc5dbbe1998d954d96321e4c1c968e99e19ba1b172c6f134e57c01104fb2c",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "单张男性闪卡正常，翻背与正面轮廓光均可见，验证之前批量黑屏不是全部产物失败。"
+  },
+  {
+    "case": 99,
+    "token": "YmcQboxDColtRcxYg34cNS16noJ",
+    "sha256": "aaf7fb7d93545ef3a274d798f6e27e520c87e8a73a3da7f2031d4de6fba58616",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "戴帽版本7秒素材包含正反面与光泽，未见必须修改项。"
+  },
+  {
+    "case": 115,
+    "token": "VYSGbSWQsoyLRVxhlNicHdp7nof",
+    "sha256": "cde32d326061c7d463c16587a530f1e52c1f0b8c9f540a0a8b21d12151f0779e",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "金发女偶像6.9秒手机HTML素材正常，无新增实质问题。"
+  },
+  {
+    "case": 117,
+    "token": "E9uzbMcHIoGh58xJfywcZ8zTnqd",
+    "sha256": "0e86b7139ac2ccb93850aeaf8f5d705b5639a699dfe04e9a7ce9832070bbe69e",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "18.7秒绿色头发cos闪卡，运动感应开关与前后翻转完整可见；无可用转写，不据此判断无声音。"
+  },
+  {
+    "case": 118,
+    "token": "XJahb5PEQo4NIxxyjkRcg2eXnBd",
+    "sha256": "257a3ec94077a2543d79704612ba2829916ee07fdd11713e2826b5cef2f434d7",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "5.9秒游戏男性人物闪卡，深度-0.40轮廓.10，头发轮廓与倾斜可见，素材有效。"
+  },
+  {
+    "case": 127,
+    "token": "RwD6bVwsUoYJQkxCx8ScN9bGnwc",
+    "sha256": "17c2d4a66df6d3421ad7a46b34536ca4609c5d8a70c31f330179626c2509410f",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "旅行照片胶带拼贴APP工作任务→正确仓库指令→多组前后对比→不保留原图变体，满足真实复用；按当期拼贴展示占比核对，不套视频越长越好。"
+  },
+  {
+    "case": 130,
+    "token": "Jwh7bDBB7oqnl0xcWOhcoqApnod",
+    "sha256": "14c99899b51294c7dd6174ad7fd05b242ace8949f0e19ecae330742a9eb5e085",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "12.3秒美食胶带拼贴有工作任务及口令小窗、多张菜品前后对照；无口播也可能是当期许可形式，不能硬补口播通用要求。"
+  },
+  {
+    "case": 132,
+    "token": "WtaZbPKhZo3M4mxw62kc6LGgnfc",
+    "sha256": "501194147a6036a7867e7c82375a98cec8dbaf06407923b9ef9861a217d8ddf8",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "猫图涂鸦片13.76–20.64秒真实回复明确未找到Jimmy-Wuzm仓库，将ski当scikit-image并请求确认；不能以随后插入成图证明该skill已安装成功，应补同次正确调用流程。此项是实证矛盾。"
+  },
+  {
+    "case": 133,
+    "token": "MRHbbW9gMohxHAxspQEczo3MnUx",
+    "sha256": "2845cea07cf7efad253a848608c27b9568776606bcc804a683469c72913cb0de",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "12.2秒二次元实体布景+电子闪卡，有云电脑入口及指令卡，短片形式贴合圈层；未见新增实质问题。"
+  },
+  {
+    "case": 134,
+    "token": "KEbzb4TjyoUjQfxMgOfcPewEnjh",
+    "sha256": "0c2654f95843e34034b7b1c6c4c4856c2aa56d58a5b0584d134af1df0c8cc2e2",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "20秒实体/赛博小卡区分明确；5秒轻松get指教程学习时间而非生成耗时，不能机械判为性能夸大；云电脑与双卡效果可见。"
+  },
+  {
+    "case": 135,
+    "token": "Uel7bhA2ToGPbRxq22Scc29Nn0f",
+    "sha256": "f5607240dd8db73c86fac3a0844f751d8c41a236128e8478341b9f41a4e091ed",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "21.7秒入口高亮、上传指令、手机与网页预览、参数调整齐全，几分钟表达有上下文；正常通过候选。"
+  },
+  {
+    "case": 136,
+    "token": "N4h3bEU6doOmG0x4QjTcZ1DQnac",
+    "sha256": "74616b1a8f9d32cd8db20fd1c1c925d5b440e2262cac3bcf57eedacbbc57111e",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "求职长口播后有实际看板、投递说明弹窗和官网岗位页，优于只展示按钮；不把祝收到offer误判录用保证。"
+  },
+  {
+    "case": 97,
+    "token": "KIDrbe0rXopp4IxhosbclY3Jneb",
+    "sha256": "839c6ff4f0fc40823c9d094706d9646f8ae46722761d36ca1c7b38465dd8a4a1",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "另一个男性照片卡片，正反面与轮廓微调可见，无新增问题。"
+  },
+  {
+    "case": 99,
+    "token": "MprPbpH0Iohk6axOR9PcKLL0nse",
+    "sha256": "9c841c400d48426fa633220b0cfb562ec7fd0919a8c5eecb7602a3cf6237faff",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "粉色发饰近景第三张闪卡原素材，无新增问题。"
+  },
+  {
+    "case": 132,
+    "token": "BQ95bNCxko4kmwxvAIKczIUfn5e",
+    "sha256": "2fb3b7b7b778f3bb38a1f2d377aa43a827fe357b02f7546b731fffc2dabed99e",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "23.4秒改版仍保留未找到仓库、ski=scikit-image说明，前版的流程与结果不对应仍未修好；不能只看成图更漂亮就认定已闭环。"
+  },
+  {
+    "case": 133,
+    "token": "VWLzbCgQpojMSZxnN2scftp2npf",
+    "sha256": "cf917b9236413d63e03e97e5ff1c457bf2cd5905e268d7bf89a533c5778c17a9",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "6.2秒中秋二次元闪卡素材正常，构成成片中的电子效果来源。"
+  },
+  {
+    "case": 136,
+    "token": "Fhtsb5SrVoct3lxwUjFckGltnEg",
+    "sha256": "c2d4f416e4dc68422a3e77ad35f192ac48451e26868c1007afb134ba841f6adb",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "与9月24版本画面/内容基本一致，官网页仍可见；短时差和ASR措辞差异不足以证明实质修改。"
+  },
+  {
+    "case": 137,
+    "token": "NEuFb3oVmolZMBx7O2EcxFnnnBb",
+    "sha256": "818128d2e1c6c4f2d851491539406b51d70f0898adec4d55854ff3dc06757314",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "饮料参考视频拆镜→换自家产品→确认方案→成品有实物播放；借鉴结构需自有/授权参考、不能照搬他人创意，赠会员免费属于当期活动口径。"
+  },
+  {
+    "case": 138,
+    "token": "UlK6biJUYofzSKxKd8ncydy2nhg",
+    "sha256": "c8baf19e8158993c7f6750bff855f0bfb56dfcb349d6b8c55f3daaad9cbd675b",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "科普视频Skill展示安装依赖及部分手动步骤，实际百科/名著成片播放；非全自动无条件几分钟，准确保留安装前提。"
+  },
+  {
+    "case": 139,
+    "token": "KjJ2bGLLJoZb0qxv74hc11kmnkd",
+    "sha256": "7a9fa542ce2929d5fc336affcb174c25d49cf149dfbab79c7c2426c5723c9b61",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "Y2K粉丝海报手机实拍、改颜色文字并实际设壁纸，有本人场景；不到一分钟若作为具体耗时需本次证据，不仅凭剪辑。"
+  },
+  {
+    "case": 140,
+    "token": "Qk0Lbjwp6of7TDxlzREcmwswnSg",
+    "sha256": "0629dd53c4325303147789cc37117ef5f3614ae1d6c27f237dc9d4f661ab7f73",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "OC手作图片变海报，输入输出对应、多个变体；800张属于生活化表达不必机械当性能数字审查。仓库授权不能仅凭AI回复判断。"
+  },
+  {
+    "case": 142,
+    "token": "Jp84blP3foJyj9xQGKpcdRV2n7f",
+    "sha256": "76110fa8dab740b0d6d2238ee45c02774916cef123682514dd1e7c421f8f9353",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "Ponytail作者公开测试与自己的两组测试明确分开，13分钟对30分钟及代码变化有画面。AI回答token消耗不是账单实测；保留两版功能验收是好做法。"
+  },
+  {
+    "case": 143,
+    "token": "BadXb0mV2o6LoHxDRNJcbVI9nFd",
+    "sha256": "95d2ca9175eb8e7919b9e72584de9f14bb13a04149b78cb3865e696952b3dbf4",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "reference-video-remix流程展示结构分析与Seedance成片对比；结构自检PASS不等于真实生成验收，ffmpeg缺失提示也不必认定原生Seedance不可用。最终真实视频是必要闭环。"
+  },
+  {
+    "case": 144,
+    "token": "WO5DbU86doAWRzxTHqNcLARhnEh",
+    "sha256": "d3bfbc6eca7726ede7aa0ff4f7ab92cf1bd1a4a583ab9c791f9cf97ebe001671",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "Ponytail用于自己的知识库→飞书内容SOP，实际文档表格可见；速度与token改善为个人观察，无数值不硬要精确百分比，但不能归为严谨对照实验。"
+  },
+  {
+    "case": 97,
+    "token": "FFQWb0qdUoV1rNxy9rScSZuPn9b",
+    "sha256": "585f8c0c0e741f58f42205324ae2224b7c2de3c210c0363e71925f12dc45c0e8",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "白衬衫男性闪卡原素材正常旋转、背面及光泽，无新增问题。"
+  },
+  {
+    "case": 99,
+    "token": "TPvRbAbFJo1DYjxVxIWcMHganvg",
+    "sha256": "c6787bb8b05c0e30843003d2326da8ab40d0d16f04566fc9a3b479601e886943",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "戴草帽第5产物18.3秒正常，较其他同名素材不同SHA，已单独查看。"
+  },
+  {
+    "case": 138,
+    "token": "PLEtbCHI1ogeZ4xqURFcbPqlnHd",
+    "sha256": "85eb06b98c845e8188fd86041d57f14bff157760679ef504a652acedd5b9f88d",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "49.4秒版相对40.7秒增加末尾约8.7秒实际名著解读成片展示，教程步骤保留；这是补结果的有效修改，不能只以更长判拖沓。"
+  },
+  {
+    "case": 139,
+    "token": "U505b2IBvoENsqxaLUmcgIMhnae",
+    "sha256": "65e03444454f2fdc5dfb0ad8fe3fee736e282d044a2b4c6a62a945694d6b7104",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "23.1秒Y2K改版主要为字幕时序/措辞，产品入口与生成结果对应，无新增阻断项。"
+  },
+  {
+    "case": 145,
+    "token": "AcHObBsMzoTO6cxKjwecMVmknVb",
+    "sha256": "7a7cd0e296662309882b447d0d9be15a54556da6c1091cd1449f078e60998139",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "Ponytail与摄影调色自制skill结合有真实旧网页→封装→新图复用链路，专业账号优势明确；只看剩余额度不能证明相对节省，需区分本次消耗少与因果比较。"
+  },
+  {
+    "case": 146,
+    "token": "NlKSbddOtoAjXXxNxRzcrqpWn5f",
+    "sha256": "f6d63debd934f7d3a358a46f210ebdb58f61f72975c920f4f715e898f02340ed",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "参考音箱视频→自己产品多角度图→拆解和确认→原片/生成片；一比一完全一致承诺不应超出实际模型可控性，三到五张输入是本例经验非所有BF硬要求。"
+  },
+  {
+    "case": 147,
+    "token": "XHeHbHviHohYm4xBRbkcJ2WinFd",
+    "sha256": "189c9a76893ffa9fa4519dbd29f722f49789c650411980a0ebd9b8301d2cb826",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "旅行照片转复古门票具体讲清重绘与贴原图差异，保留地标识别及版式；源图与实际生成门票均可见，教程形式本身成立。"
+  },
+  {
+    "case": 148,
+    "token": "PPpwb9S3Po9ztdxCvfhcaVjRnQg",
+    "sha256": "0a79e65c319c617793e5260ff8b5405763635ecefb5e281f90cb9b0b95c99351",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "自媒体模仿爆款的结果演示有上海替换、确认步骤；复制就有稳定流量是未经保证的经营结论，免费会员按当时活动核对。"
+  },
+  {
+    "case": 149,
+    "token": "LKNcbizC7oYJ8JxQ4wPcVxa2n3g",
+    "sha256": "fd78e1b0979ee1ce5ee678d9eeb01463bea637e66a595d7c2acab8719543f667",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "参考大屏人像广告→鞋产品替换，先确认再生成有完整拆解，最终鞋广告可见；不要把拆解文字很长当核心结果已完整，成片仍需验收。"
+  },
+  {
+    "case": 150,
+    "token": "UNsIb9SkMoZ4uBxYrAmcSvFDnJg",
+    "sha256": "e18f85f39e634ef984adb933a087af9e6e0ac447300f734fe1aab10e350e05ec",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "香港/深圳/杭州/北京/上海票面一一对照，地点可读；仓库访问受限有替代核验和最终成品，不能仅因一次网络限制退稿。"
+  },
+  {
+    "case": 151,
+    "token": "CXYRbtDMYo7JK2xSETEcCUDFnrh",
+    "sha256": "b62972d904289e85c25dc7552b14dbb431c59f403f548e5356d68306536a613c",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "UGC换衣成片和后续局部修改有演示；开头皮带翻10倍与实际衬衣任务不一致需结合原稿判断包装遗留；学习结构不等于销量保证。"
+  },
+  {
+    "case": 152,
+    "token": "OQshbEKS6oExnDxXtHNcHBETnEf",
+    "sha256": "cbf3280de291a2ce9392d33c448994f2ab933e3efa4c88681feeff684843d746",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "Reference-video-remix原片与生成并列、身份素材更换清晰，实际结果成立；生成了带货视频不能直接称已验证爆款，末尾提示词引导可保留。"
+  },
+  {
+    "case": 97,
+    "token": "Qj3Fbczb8o7o6rxPGh8c6ROJnVX",
+    "sha256": "1b20d7fde38a419c02d8ddb42b323915860283c02ba7b40a6d57aaba2141e7b1",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "竹林男性闪卡转正反面及光泽，原素材无新增问题。"
+  },
+  {
+    "case": 99,
+    "token": "EN11bzWODoisGZxKliUcPVcxnOf",
+    "sha256": "8612e9274c4d6767a177135f4d3d1687f0a0d11d6fcfdecbf593651e50bb4a20",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "第四产物无帽人像、背景带淡斜水印，若最终选用需处理；不可把未用素材问题扩到所有版本。"
+  },
+  {
+    "case": 148,
+    "token": "NzgzbrOKfocGp9xoZ9fce3AxnDb",
+    "sha256": "c3bd57795623bc70e9910509ee497edf9fdd59655343122de286607896718a39",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "12秒地图旅行换装视频原素材，上海/伦敦/纽约/东京切换，能作为结构风格参考；素材性质单列，不算达人推广成片。"
+  },
+  {
+    "case": 149,
+    "token": "NIsBb47t6oVApbxR6UccxuNwnGh",
+    "sha256": "9b70f4b152d088a825d68ef99e1acab98e44ed7807d7cf203d7431f3299b04a4",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "10秒原大屏女模蜡烛视频已看，作为参考源与鞋替换成片区分；不能把参考片当生成成果。"
+  },
+  {
+    "case": 151,
+    "token": "GtN9bh7eoobCEjxMMHdcHCAdneg",
+    "sha256": "e7655beeb863c239357ec312b31fe2731c3b41c46524e72eaeefdefe29cf9894",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "15秒生成衬衣UGC可见口袋、面料与穿搭，但棉麻材质/穿着舒服属于生成口播，真实商品推广仍需产品依据；AI虚拟人物不算本人实穿体验。"
+  },
+  {
+    "case": 152,
+    "token": "TEUUbNd96opDFFxx6fBcqH9tnCb",
+    "sha256": "5387d30bcdb3ae0919a8a394b117e454e25657524df4f4cab60d87f1ea57b445",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "30秒生成粉底UGC展示半脸对比；其使用感、全天持妆是虚拟示范台词，不能据此证明真实效果或本人使用史。教程中须说明生成演示。"
+  },
+  {
+    "case": 153,
+    "token": "EQNKbtB9rozXkQx478DcgVOFnlf",
+    "sha256": "fb309aa941abc7ef69d79626d63d81f913f13aa451daced0c026f9656375f875",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "10.5秒Y2K照片成图合集，工作任务入口与作者指令覆盖小窗，多张本人图风格统一；当期许可短形式不强制补口播。"
+  },
+  {
+    "case": 155,
+    "token": "TpRcbRiXZon1e5xSX6xc2jBCnYg",
+    "sha256": "da95f4a43bacca9f949887c3f4758b47c11a635636588dfb9caa0ef55236e5de",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "麻将人物替换成片明确，但任意爆款/一比一还原属于过度保证；开源skill与收费/限免模型分开，不因skill开源推断全免费。"
+  },
+  {
+    "case": 158,
+    "token": "NBQrbycyaotQKNxqVyXcjZgAndh",
+    "sha256": "f7fe9c74ffb0c920f5d4080a121d0dbb52886027564ba42ec0e5b10871896d37",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "TimeTells有本人正面照、HTML滑轨及家庭相册情绪连接，非PA时代生活感可成立；老年面貌是模拟，不当作预测真实未来。"
+  },
+  {
+    "case": 159,
+    "token": "AbsFbkmDbo8s9jxcCkEc5nAinac",
+    "sha256": "93d517c782917fe3bd8e8cd3c08e3074d0b669a1ed72c5ed31bead9855f180b2",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "旅行摄影本身与复古票面高度匹配，二次调整统一尺寸/色调留白有实操作，不额外硬改达人字幕叙述风格。"
+  },
+  {
+    "case": 160,
+    "token": "JAJ4bIxM0otmR2xEmMicwx8tnSg",
+    "sha256": "47681fbe6aae1dfa8cdfcd63e66d477d7e72bbfec6bb197236b38e759710dbc4",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "微博超话定时任务创建+首次登录授权演示齐；云端执行才支持本机休眠后继续，任务建成与实际签到成功需分别看。"
+  },
+  {
+    "case": 162,
+    "token": "Q76JbzYtmoeOCkx2lctca45VnTd",
+    "sha256": "c903ad77e8b96cefbac3635c1e03f0821a3e7299c7ef1fa95163fae79054e8ed",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "超话30秒版云电脑和首次授权口播明确；大面积电脑录屏文字小，需原分辨率判断可读，不在缩略图下直接退稿；签到成功不能只看任务已创建。"
+  },
+  {
+    "case": 148,
+    "token": "RRuabfWt6o6jTUxGC5zcmYvnnfh",
+    "sha256": "7e79fd8f194bf151087a928ce0913ea5cb67d8aa3db50393061ad84bab15ca46",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "12秒为本人白衬衣替换版；纽约场景却出现大本钟式地标，说明生成场景标签也要核对，不能只看换脸成功。地图城市与地标需与实际素材核验。"
+  },
+  {
+    "case": 149,
+    "token": "GM3ObmlxOoJvqWxNEGAcKbROn8b",
+    "sha256": "c8f330d3be171fd762aad92f5a9b4de17f662ace6f33f3496d3930b62cf6788f",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "鞋替换版10秒与原蜡烛广告对照，末尾鞋细节可见；手接鞋动作有生成痕迹应原段连续复核，不凭抽帧单张判畸形。"
+  },
+  {
+    "case": 151,
+    "token": "HAjYbRBDwonXbxxbe9ec4xRmnrd",
+    "sha256": "54bac5291967d6225c38a0fb94bcde17d2f61ae884d1ebbe540810abf8b67e8e",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "17.15秒原灰上衣女模是参考素材，与生成红格衬衣分开登记。"
+  },
+  {
+    "case": 155,
+    "token": "VToKb1rcxoEylFxsLcEcLg0BnMd",
+    "sha256": "799634572b53615b6435c1d927ab9edb10d4af95d17d4d51056671bfbf252f64",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "64秒改版去掉部分原片小窗但话术大体未变；全网任意、一比一的能力承诺仍未在版本修改中消除。"
+  },
+  {
+    "case": 160,
+    "token": "AacTbeMq6oRycxx5TJdcQKuYnog",
+    "sha256": "0e9e55177c9891dfdb643eb85134f817897f42892b29d26cf592c2ff0ce03364",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "24.8秒旧版没有首次登录授权段，27.7秒版本补上该必要条件；此为完整可见的有效改稿链。"
+  },
+  {
+    "case": 162,
+    "token": "VeImbIz4noGWuPxxIlRcxYKwnmg",
+    "sha256": "6f2eed064f906cff57ff15f1d59c2c29bb76a37a154a87572871dabc9b4f3091",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "娱乐Kitty版替换6秒表情梗素材，声音转写一致，不能把非流程修改认定功能缺口已解决。"
+  },
+  {
+    "case": 163,
+    "token": "Pkn3bFDJ6oPtKDxaWeacQNWLnDf",
+    "sha256": "8ad3800b3fd87accbb93d6fd09dc4c7e0621a982e4a2f934f97617351777382c",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "23.8秒超话片能看到网页操作及签到反馈；一次设置长期生效需要登录有效/执行正常条件，不能把成功一次外推永久。"
+  },
+  {
+    "case": 164,
+    "token": "StoabVsPhoCmVUxfqSncPl7PnAb",
+    "sha256": "635a7d9091c4ea12dc7307c6cc1563a0f0d5fcb81040cb83a12f11a9fc99498b",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "TimeTells上传、单HTML交付、年龄头像变化可见；情绪表达不是功能保证，审核应保留个人叙述，不硬删所有人生感悟。"
+  },
+  {
+    "case": 165,
+    "token": "CInGbUl9to1V6Gx3bq7cL5BDnfh",
+    "sha256": "6186c5b182227c2a49de11594ff00339d8c22dd4c8568595d35e93b1782de060",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "超话31秒手机界面选择与任务计划、首次登录都展示，任务记录指出次日首次自动执行，当前签到成功与未来任务持续成功是不同证据。"
+  },
+  {
+    "case": 166,
+    "token": "RfAsb6DmroMqkTxy9lacCKw5nbb",
+    "sha256": "cbd67a1cca7bf85113623a1ca5cd8b158b565f8eb1c70c9da8678005c1f7b74d",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "Remotion图表动画有源数据图和动态产物；128.6%属于示例图数据不能误当豆包提升指标。末尾成品在实际播放器有展示。"
+  },
+  {
+    "case": 167,
+    "token": "PCLbbMrbjocEEnxl9sycRUZ1nWb",
+    "sha256": "44d66a94dff8fcbe2c578ffe99153885abb20c42e603087ac7cae829fde6a1d2",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "年龄滑轨片将模拟输出称真实成长痕迹，容易与历史照片复原混淆；47秒入口配图却为拍立得mini13咨询，安装口令缺TimeTells作者，需换同任务的真实入口和完整口令。"
+  },
+  {
+    "case": 168,
+    "token": "UbO8bewZJohSFXxvfFlc4YKAnab",
+    "sha256": "d609f22f6ab27da9ebf56f85584ac53b86cc7874ae75d4edbe5f9ec323d88137",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "剪映视频实际时间线→调整→导出旅行成片链完整，口播也保留粗稿后人工精修；开头全自动应按这项边界理解/必要时收窄，不否认已完成的自动初剪。"
+  },
+  {
+    "case": 155,
+    "token": "Bfprbr8mJomvt8xxzNdcv7hnnCc",
+    "sha256": "ebf8fd1fe7f5f1aedd1e65a6a796173d4c633c78ab4ed899af6d6c04580a2e0f",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "原版Storm参考MV，30秒；白衣主体、烟雾与群舞。与麻将改编成品分开。ASR歌词不可靠，不据此核字幕。"
+  },
+  {
+    "case": 164,
+    "token": "PqPwb8d6LoLFWNxO6cHcVTsxnUb",
+    "sha256": "658fc1f2644e14c24c935bcbf11e741e9cf73a7dd3a6f19c7f6e932164987d6d",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "第二个71.69秒版本：28.7秒圈出云电脑，较另版入口清楚；但39–52秒缺另一版本年龄气泡。文件顺序不证明最终版本，不能把两个版本优点拼成同一实际成片。"
+  },
+  {
+    "case": 166,
+    "token": "CJmRba30noALezxkPETcNUemnrn",
+    "sha256": "6fb200ecb63b9be3ff917c52ff81f0c14b7ae6a6ec38d4c45fc126cb7aebfb07",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "15秒Remotion数据动画。117%等中间数字是计数动画过程，最终128.6%等六项数值稳定；不能把过程帧当数据矛盾。示范数据不是豆包增长数据。"
+  },
+  {
+    "case": 169,
+    "token": "MqtFbwlT6oYy2FxfuAtcupUonJc",
+    "sha256": "e02e69bf050e22e62e9ce9f840a6f9c75b4db2ec83bbd45c7ff4e314de96b5de",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "包含完整复利科普输出24–40秒，画面字幕配音有证据；17–20秒安装回复出现Claude CLI/Codex环境描述，需核匹配入口而非一见工具词就判错。涨粉快归因工具缺对照；15秒片长不等于制作耗时。"
+  },
+  {
+    "case": 170,
+    "token": "D20Cb3KDZoOsqzxfBR2cgMsMnSh",
+    "sha256": "879178065d173630f631bf10ebcf30453fa217ad9143a7f0aa1f8919bff25a97",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "实际Canva编辑界面29.7、44.56秒，初稿→对话修改→成品闭环；本人小程序用途明确，可作为CU正例。ASR末尾噪声不能据此判口播错误。"
+  },
+  {
+    "case": 171,
+    "token": "VExMbi7pmoHa2mxChbUc8Nafnip",
+    "sha256": "d050a48b0f9bd800c48421bc7cdae7fd17e029f95d93827b69ef40043f493b4a",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "21.85秒iPad网页豆包+手机微博，云电脑/定时/首次登录步骤与实际已签到页面。旧BF PC授权与平板网页的关系需按当时例外确认，不机械判手机端失败。"
+  },
+  {
+    "case": 172,
+    "token": "SsVbbZGrFo1j96xe41zcSHOqnyd",
+    "sha256": "90350be5fdcf7e5a1ba9beacac72142164b41e36388f49a3bcb1af718a0a4302",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "WPS原生PPT结果和人工科研数据核验说明良好；30–34秒说授权云电脑，35.7秒显示个人电脑，应区分云电脑与远程本人电脑。PDF仅聊天文件列表未见打开，不能证明排版全部保留。"
+  },
+  {
+    "case": 173,
+    "token": "K7Qpb8pGCobqTKxozuBcN974nnd",
+    "sha256": "dbbbc6168ffedff8e37a7e37a081eabd8bec203c0703ba843b052bebf4cc0240",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "实际WPS制作、补理论模型、改蓝白风格，有迭代证据。长铺垫是风格建议而非默认硬伤。旧安装警告不能覆盖后来成功。导师满意若当保证需改成个人体验。"
+  },
+  {
+    "case": 174,
+    "token": "FR7ubGsMhoBHzXxLcCDcZvQinYg",
+    "sha256": "447daa25d06729196b88bfc3bdeec0ff9f80a3681fed206b633983e8fddd8194",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "本人长期追星/周边→PC登录授权→实际签到成功27.5秒。V10/线下名额是个人期待语境，不默认当必然承诺；匹配当时BF可直接通过。"
+  },
+  {
+    "case": 175,
+    "token": "D9H5bO4wvo8AnjxSN97cBgd1njc",
+    "sha256": "cca9c39644d4f399818023844c7c4f540c184fc01ebb2435644934e6a9045121",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "Windows AirCard明确非微软商店iTunes，手机钱包结果和狗卡面预览为两个示例。钱包交易地点日期余额建议按本人意愿处理，不误称付款凭证。操作等待时间仅对应具体阶段。"
+  },
+  {
+    "case": 176,
+    "token": "S4lybkiECoIA4ZxpP8zcQCNynbd",
+    "sha256": "cb083573b460338b5318e192c0a5cda25cad4ffa35f1a7753980fc746968f9b2",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "TimeTells输入本人照、指定仓库、真实HTML年龄滑块，23.17秒AI模拟标识清楚。符合旧方向可通过，不额外强制增加长解释。"
+  },
+  {
+    "case": 177,
+    "token": "Gba9b49TToRuKsxcPNrcjIDLnxb",
+    "sha256": "4e1612fe5470f7f593bc239798c79912c55833391b9dc3b621aa2c807f9a3a64",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "云南横屏vlog中嵌入TimeTells年龄变化16–25秒，个人经历自然。ASR仅重复背景歌词，无法证明原音审完；不能按后来的PA纯自拍禁例否定历史TimeTells方向。"
+  },
+  {
+    "case": 155,
+    "token": "DcfAbpgI6oVgzwx2EUMca24SnFh",
+    "sha256": "103c38ec491f113b7a700d6e5e418fa40c8339e3c235c2f4a07ebe93c06fe7ba",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "Storm麻将改编30秒成品：服装人物被重绘、麻将头群舞，镜头结构对应原MV；不能称逐像素1比1复制。与原参考独立计数，未实听配乐。"
+  },
+  {
+    "case": 174,
+    "token": "EQqVbA21PowTwmxaculcNRGan2d",
+    "sha256": "3033953874224c21e8c9340e3070d6d158957437071f744a073c71b055b9fd57",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "42.63秒另版：22–34秒把工作入口、指令、微博操作和首次授权连贯展示；对比41.27秒版，删去V10/线下名额话题，功能闭环更集中。不是简单越短越好。"
+  },
+  {
+    "case": 177,
+    "token": "MXbUbviQvoKcA0x6dvjcpnC5ni5",
+    "sha256": "015fc4f54695f12571ce0bf874b7728107f4bfd70239cb7993ddb50ec0a16bcd",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "另一个41.2秒横屏vlog版，16–25秒同一TimeTells场景，ASR几乎无内容。画面核验成立，原声/音乐未完成实听。"
+  },
+  {
+    "case": 178,
+    "token": "PgaabHKi5ohySLxobZuc5sjdnLg",
+    "sha256": "b393c8c2ca972764fd13497c8b798371eecbba7ea33de45873302f50f53ee8e8",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "GEO/R实操53秒：配置本地R→选Nature Figures→数据编号/基因→箱线/小提琴图。适合科研受众；原生R运行和结果可见，但‘与手工一模一样’需实际比较数据，‘直接放文章’需科研核验，不能仅凭图好看认可科学准确性。"
+  },
+  {
+    "case": 179,
+    "token": "BJYtbomKAoca0cxNTOHcE8pRnTe",
+    "sha256": "3ef3e7bc48f408a0a4f0e175bd6144a1928933a6558efe69c2ae8eef4986d338",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "Remotion歌曲数据动画46.73秒：上传既有数据、动态排名成品明确。字幕称播放量、成品写千万收藏，指标口径应核源数据是否混用；不把数字动画的中间值当错误。两小时/几分钟仅本人流程记录可支持。"
+  },
+  {
+    "case": 180,
+    "token": "DNVybzkaQo4ujEx0yFbcleitnHd",
+    "sha256": "a83524f52812979b5e3f04e2fd89a65ec68c389c5520db924f509a64c467db8f",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "WPS汇报74秒：github作者和模板目录、上传文献、原生WPS打开有证据；末尾明确基础上调整细节。原论文内容准确度仍需核源，不因昵称清华就推断官方背书。"
+  },
+  {
+    "case": 183,
+    "token": "YCHdbP4BroipMex2iDFcRDm7n0e",
+    "sha256": "630e4fab7d318a01e75c8984fc8947722abf41f7aad6e8300bf34109ff628380",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "68.6秒读研主线话题，约35秒后WPS演示，真实时间轴/流程图输出；铺垫比重可优化但不能独立判不合格。‘全程交给’应与最终人工核验保持一致，不把做PPT误等同代做科研。"
+  },
+  {
+    "case": 184,
+    "token": "XgS4bIIt3orxMmxdS73cTcjanOd",
+    "sha256": "e6e822fa740837cfaae094972cde0bf5c83b831ad77a302a9e1b51b5e66d5f35",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "103秒成长复盘，自己的真实粉丝截图→Remotion动态呈现；粉丝增长早于本次可视化，不归因豆包。不是PA方向，情绪叙事不能套用后来PA限制。"
+  },
+  {
+    "case": 185,
+    "token": "GWC3b6djwo7hqDx5v15cBnMjnie",
+    "sha256": "d1bb8e7eb7adcafcd92caa911cbf2cfd15b0058c44ed0cf7840c6c03b9129e69",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "40.8秒超话：首次登录、15:00定时任务可见；口播‘10号到现在一次未漏’需执行历史证明，任务创建文本不能单独支持长期成功。真实亲友追星场景适配。"
+  },
+  {
+    "case": 186,
+    "token": "Gnv3btL3ooUOyDxCNbncZ3bOnih",
+    "sha256": "28f6766636508c9d92ea658c605c7c3abbab8253da777255a6f22731d2366fae",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "41.68秒TimeTells手机输入完整指令、本人照、HTML滑块。80岁赶飞机是个人愿景/玩笑，不是系统预测事实；可保留个性表达。"
+  },
+  {
+    "case": 187,
+    "token": "XQi6bF73DoAmCexHyFBcDeM3ndc",
+    "sha256": "c1290462a62211d2e98a2a75730400b8af9671c6d56b9bf2f4b0034796ed9ef6",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "80.9秒低精力学习：ADHD仅学习主题不能诊断本人；安装/主题/实际动画输出出现。只看到AI解释不能当医学正确性已查证，医学内容需按权威来源核验；个人接受度建议不是治疗方案。"
+  },
+  {
+    "case": 188,
+    "token": "PgzRb0AjaoSpD6xmgEGcCFVNn1e",
+    "sha256": "b531f9a1c0f45b2c79003fd73de6c695613d55f22c6c1595a905d0e7d69098f3",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "112.67秒团队复盘：自有6张作品+数据输入→商务动画原片播放器，有具体业务用途，较泛工具介绍更可信。‘这个月的季度数据’口径需与文件统一；长前段可建议简化而非强制裁掉。"
+  },
+  {
+    "case": 177,
+    "token": "WaXDbZRCjoTTf5xu63zcGVQAnSe",
+    "sha256": "166f39857d5ebda1bed43d925d1828c41bc4b4ba5c7adc829115695690733501",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "TimeTells原始录屏8.22秒，滑块0–80年龄依次变化，首帧控制中心是原素材不是成片问题。真实HTML交互可见，不证明预测准确。"
+  },
+  {
+    "case": 179,
+    "token": "ZrxlbdAcfoZjTXxKRqbcGldqnmh",
+    "sha256": "aebc93834fa9bf2b45c2aa0496e251177e75745beda3ce6b07c7514a00814b0c",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "Remotion原输出16.6秒，标题千万收藏/累计收藏量，顺序1–10是曲目编号未必降序排行；结合口播‘播放量’应核数据类型。中间计数动画非错误。"
+  },
+  {
+    "case": 184,
+    "token": "Tx1bbbcQ6oCI7AxJpWdcuZ7Lnaf",
+    "sha256": "f453aa55631475a0e3d8a5de2904a53c90bae66f43414ff377c0cdbaebb3215f",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "17.93秒原生播放器粉丝增长动态报告，时间点2025.10→2026.10、最终11435/约10.8倍；支持可视化成品存在，不能证明输入数据本身真实。"
+  },
+  {
+    "case": 187,
+    "token": "RhwFbMoOSoUEwBx83bPcBkc1n0c",
+    "sha256": "2b9be3c135e1e56ca0911b8e427fa21de5eb5e44875bdcac39bdb628d9b884ef",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "92.66秒较80.9秒版新增约12秒完整讲解输出，43秒增加工作入口红框。生成片段称常见遗忘很可能ADHD，需避免凭几症状自诊；医学核验独立于功能展示完成。"
+  },
+  {
+    "case": 188,
+    "token": "FsIebfx62o0bVMxFiGYcTLfInCb",
+    "sha256": "8d9d86a1b87bf7d5e8463cc178e9f88169cc0d6b981d7e6b92e1398dc006aebe",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "109.3秒版较112.67秒，前段缩短约20秒但新增52–76秒原生生成动画。不是只压缩总时长，改稿价值是给结果足够展示。结果横屏嵌入纵屏偏小可建议提高可读性。"
+  },
+  {
+    "case": 189,
+    "token": "IfSFbG5XIoyoeLxhzLfcaQ1RnVb",
+    "sha256": "2858ecdd8f63096898a6eff1cf82b8bb2934dcda8afd41d651ac3e97a8657e89",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "AirCard80.7秒Mac本人照片/交通卡原生钱包结果明确；开头银行卡也可绑定ApplePay不代表本工具支持所有银行卡改面，应保持作用范围。Windows仅提及支持，实测为Mac。"
+  },
+  {
+    "case": 190,
+    "token": "NrtcbBzOwoJMz4xynp8cHlGin9c",
+    "sha256": "cb7d3c533748abbd36f18bb111818f69978cc2554ecdb6711dca52cf723e8b0a",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "PA盯价74秒：锁屏推送真实可见54秒；目标低于2500，59秒报告显示2999且明确未达阈值。‘真的比日常便宜/去买一个’与该证据不符，需换真正命中或改为收到例行报告；不能将收到通知自动当降价成功。"
+  },
+  {
+    "case": 191,
+    "token": "EbSDbWwFroIQsxxPfBScrfcBnHh",
+    "sha256": "4c9874d500be2b1d9fd9b03ead9d0710bbca86c8340a30c95a7756cf96f08046",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "PA盯价81秒：每2小时任务不等实时连续监测；口播仅抖音商城，画面指令与报告却京东/天猫/拼多多。平台约束必须一致。具体AirPods型号价格需当时源页不能靠模型常识判不存在。"
+  },
+  {
+    "case": 192,
+    "token": "XPuFbJtKgokBuGxKoR9cF2qQnZb",
+    "sha256": "9665502046748cf9562c952b65bc9cb1ac238002e9eb41c63c565f5b7c555657",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "香港餐厅推荐71.7秒，手机工作模式和推荐清单可见；未在这些帧看到读取本人收藏授权/执行，画面输出本身不证明直接操作抖音。个人四川口味场景适配，长Muse铺垫仅建议。"
+  },
+  {
+    "case": 193,
+    "token": "FOnrbfwGsoSSn9xYxQzcMnNRn8m",
+    "sha256": "c97276abbf699b2cd470cc449af9a91f51b4db18c1a0ebedb7c69f9df5377a80",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "82.47秒养生：本人作息→7天安排→熬夜后调整具体，有情境和后续。抽帧未见真实系统提醒通知，仅计划表不能证明‘真的定时提醒’。不将未见等同不存在，应定位补核。首帧黑不是足够判片头缺陷。"
+  },
+  {
+    "case": 194,
+    "token": "YGcqbu1WNopJFgxwcEhc1vGPnxb",
+    "sha256": "cc943bdbed181b92dc7607a0dd97559cd0e312e21b45741f5a56f6e960965a66",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "114.73秒PC健身：实际打开抖音收藏、基于本人报告形成30天三阶段计划和任务。ASR只覆盖33–91秒，其余音轨未可靠转写，不能全片通过音审。体检/热量属于敏感依据需核验，不能宣称精确消耗/替代专业私教。"
+  },
+  {
+    "case": 195,
+    "token": "YYEyb201Jo9UoqxFkOZcJ6BDnVd",
+    "sha256": "3c6cdd6d8c541d2c0addef3b9d823e8eec99f73f71d491abb1377a3d3b4beed3",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "103.2秒山西攻略：真实手机HTML三天分色、景点/美食/步行时长/导航按钮，结果可用结构具体。抽帧只见按钮没有地图落地，跳转实际是否成功要核；按钮本身不等导航验收。"
+  },
+  {
+    "case": 187,
+    "token": "EI7wbX5dmo3YFexL29Pcj0OanFg",
+    "sha256": "4918babf5ee7f4fca5fe2e62a29a81cff4b16ef75038d1c6e0e53a702497b40e",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "完整ADHD原输出254.3秒，含图解/数据/女性漏诊/就医评估。结尾明确不自行贴标签、去正规机构是正面边界，不能只看截取前12秒就说整片缺该说明；科学数字和研究仍未独立核实。"
+  },
+  {
+    "case": 188,
+    "token": "MXehbP3taoG4tlxWGrrcp3Qpnzb",
+    "sha256": "57a6493dc4b6ca70f13cc2ae179e702925384dc75c7ecde36c1ae74739cefc5e",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "32秒Remotion季度报告：六张作品截图→汇总卡→TOP/点赞收藏/环比。指标单位万/条不同，计数动画中途不可当数据冲突；需以最后稳定帧与输入原表对数。"
+  },
+  {
+    "case": 189,
+    "token": "F3kObPlmwodMApx6Jwqc9sCPnDe",
+    "sha256": "557705fb2d08e282036608d11bf2a83bea5c7088b6ac1e8985a9b955b7b818db",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "AirCard5.37秒真实iPhone钱包详情，实际交通卡皮肤而不是预览网页；原录屏控制中心和AssistiveTouch不自动成为成片整改要求。"
+  },
+  {
+    "case": 193,
+    "token": "YdcFbGavmosfxqxRMf5cgQu9nSe",
+    "sha256": "288840670b624b04a9a26e39f24ea6309d441e6913caf375687190ccac14ab45",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "77.27秒版较82.47秒版删朗读长指令、补实际表格、51.5秒加提醒聊天截图；证据呈现更丰富，但聊天截图仍需区别系统自动触发推送与人工发起。可以保留趣味特效。"
+  },
+  {
+    "case": 196,
+    "token": "LqIkbzve5oio7jxx7DWcVF9Gnqd",
+    "sha256": "c519fe140e7a37fa5aaeb9c16dff0eb21a2c8a28b5dbb0428e088afe86febd52",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "考研68.4秒PC：收藏帖子→本地Word复习方案/日历表。真结果原生打开，有受众问题；一战上岸是开头目标非保证。核收藏实际读取再定，不把通用复习建议当已经读完所有收藏。"
+  },
+  {
+    "case": 197,
+    "token": "KICkbbdiwoxxvQxcQUncEXZCngh",
+    "sha256": "57ab983c115b77a820b1648c30aa3f1e6b2ed22e3f787666cdf4f77ba65a46da",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "137.87秒机票：1730元个人实例/每小时阈值2000与聊天结果对应。若说已买到要核订单金额/含税行李/日期，聊天报价不证明成交；任何重要信息都不错过过度。横屏真人风格不机械判无效。"
+  },
+  {
+    "case": 198,
+    "token": "NtE3bbnwaonzJsxQXdYcaLP5nqg",
+    "sha256": "8a20b6b4ec503610c7ec0ec4ffe0a150f5d31bff0fb56bc953ffab1b0bd5ad95",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "餐厅77.57秒：明确自己打电话订位，未声称AI已订，边界正确。三选二再选一的偏好细化可学；需要入口、本人城市/时间/预算与来源事实，不能把建议名单说成预订成功。"
+  },
+  {
+    "case": 199,
+    "token": "MuGNbU1DLo3SMMxKjyzc7poLnrf",
+    "sha256": "66ab7070231d52051cb7500ff94efe00dd59f51bcbf8c07c666c32db892588b5",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "55.63秒巴厘岛机票：要求1500预算、12月30附近，显示12月31查询；实际票页1885等高于目标，画面又说国庆已买便宜，示范任务和历史成交为不同时间，应标清不能串为一次兑现。"
+  },
+  {
+    "case": 200,
+    "token": "SpKhbjBSIoRnVxxw8hvcMPGHnlb",
+    "sha256": "826907285740b76e491f2bffb43f0db3b4f482ec551f1a435819f34b33e25ce1",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "50.47秒健身：两天饮食记录/复盘和下一日调整具体；16.82秒入口画面是语文备课对话不对应健身任务，应换同一任务入口。计划/聊天本身不证明14:30和21:30真的定时触发。"
+  },
+  {
+    "case": 201,
+    "token": "RqlHb5MWBo261cxf2FbcjZYHnjh",
+    "sha256": "33068511ee6604442d5b8228bf3437a9604aaf63b46308a5cc69aa22100ad7c3",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "59.5秒帖子助手：可打开链接或文字截图输入、广告/不确定信息另列的指令边界良好。约前38秒多为通用素材，真实结果约47秒，是否不足依当时BF和可读性判断，不硬套秒数。"
+  },
+  {
+    "case": 202,
+    "token": "UbJxb93wko4WYixMnizcbU3inLh",
+    "sha256": "0dca4fd628f2fba6a1287cdd2f399bafeb0c0581ff63cdf2c14cfcb1d280b02c",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "105.2秒真人健身vlog：自己的器械照片+体重/身高→1小时训练方案→本人执行，落地证据强，非纯自拍。抖音教程实际来源展示；热量为估算、动作示范不能保证防受伤；表格方向标签错误需按内容归健身，数据好不免内容审。"
+  },
+  {
+    "case": 203,
+    "token": "MydUbvFvgoYh2ix6Unzcap6nnwh",
+    "sha256": "e4f1b7f8caa71ceab1ea07e9002887c8a48b6c60447927bc9ce68256bbbf69c6",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "39.2秒餐厅素材混剪：电脑输出菜单清单/HTML有，但本人收藏读取/城市偏好证据少。第三方素材用于氛围不可伪装本人实测，是否原创/授权依来源核；不把所有混剪自动判不合格。"
+  },
+  {
+    "case": 189,
+    "token": "CxqYbonIco3sABxj4V7cZ4sQncf",
+    "sha256": "5690d0311e23fa3b27d9fa0eb161e6795da204fddd5d0f53e3babb7cc9cded48",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "8.83秒Windows安装聊天录屏，显示Lumid-Off/AirCard-Windows、iOS范围/USB/restore等前提。仅AI称exe运行不是实际Windows应用画面，不能提升为Windows实测成功；Mac成片与Windows补充素材分开。"
+  },
+  {
+    "case": 201,
+    "token": "LCRubBHKhoE7NXxzPM1c7eLjngg",
+    "sha256": "bfed9576ed127704e6e40d4192cae83639fd97ff968c4a04b3e51620eaa1f02c",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "同59.5秒另一版音频转写相同，但39.67秒展示杂乱列表而非豆包首页。由此可学版本变化要看画面不能用同音频去重整片；哪个最终版需文档/评论证据。"
+  },
+  {
+    "case": 204,
+    "token": "CfJxbKAb0otcjixjAH6csBFwn8g",
+    "sha256": "2e5c2e0fbb11bed5160d07002d6bb01676c05aab15f5fe4ff3da90534153304b",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "64.1秒邮件：29.9秒明确最近三天无新邮件、最新5月29、174封46未读；口播每天几十封/重点标红/拟草稿与所示结果不对应。可疑与BF示例同数据，需核是否本人素材，不直接断言抄袭。"
+  },
+  {
+    "case": 205,
+    "token": "KWy3bq03CoNLs9xdJBmco8nhnVh",
+    "sha256": "cc5cc6c8b53d7013a368715bba532ffe3933d26a80bb1988aa33e77a4df2cefc",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "65.4秒星座：工作入口和周运文本，明确‘图一乐’娱乐语境；方案通过归因运势的玩笑不能当功能实效证明。个人嘴贫风格可保留，别强迫所有稿严肃工具口吻。"
+  },
+  {
+    "case": 206,
+    "token": "Ng0vbUj7No3i3pxSqwAchlBWnAe",
+    "sha256": "2858af103fe5eb830148036913b12d8433b444c9ba50a266afdda51d36fce692",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "73.67秒剪辑收藏：真实西部28天旅行未剪/1TB满的痛点，输出归纳和完整文档可见；未看到豆包工作入口/实际收藏阅读授权，补证据宜针对这一处，不重写整个人设。"
+  },
+  {
+    "case": 207,
+    "token": "GNgMbB4ZZoHWZyxuNSecvnwBnph",
+    "sha256": "fc43c144bbea4516a04c588a51e195a1655e3f68950dfbad26f9b84c3165c4e2",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "123.1秒星座：明确为快速测试把周一10点改周四20:40，展示任务配置/结果。演示更改频率有解释，不应直接判时间矛盾；不能把周四测试成功说成已连续每周运行。"
+  },
+  {
+    "case": 208,
+    "token": "FTjGbwBFRoy1rxxJHIZcRysRnBh",
+    "sha256": "dad00c37541ea9505f6d7f28c561d5ede16b709617c44f25277c324584029bb6",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "49.32秒盯iPhone：目标5000，36秒基准5299，39.46秒后续通知4499；基准到提醒的时间变化合理，不应错判价格矛盾。可作为命中门槛正例；仍需源商家到手价/券条件核实，非豆包自行降价。"
+  },
+  {
+    "case": 209,
+    "token": "MZKgbEEYOoRnjZxyHzEcxZx4nSg",
+    "sha256": "546d4f77933843f5273af67cde6d0c20ae668aa71894c7d0c3f98f6aaaaa094f",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "64.47秒奶奶网购剧情，买锅80阈值具体、真实手机执行。角色对话比抽象Muse介绍有记忆点；‘24小时全网比价一降就提醒’超出配置频率/平台，应收窄，不需改掉方言和喜剧。"
+  },
+  {
+    "case": 210,
+    "token": "M0pgbgaAIoSIL9xyZbFcT4OvnDd",
+    "sha256": "8e7601d2d8e2dd367de493dc0570a730735dadcd565b3c7a8055d8f4957deb3c",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "94.2秒普洱旅行：提醒AI可代办但截图明确无法直接访问小红书，只按信息整理，不能说已经读收藏。39秒前Muse介绍长；品牌首要问题是实际执行与口播对应，‘人工核实全对’须有核对来源。"
+  },
+  {
+    "case": 211,
+    "token": "Iyswbf6LIocATFxlhyOckm13nBd",
+    "sha256": "5841a6e906bf5e62a464c0eb3a59d08ea2db674878f763737972ce150a7cd465",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "74.37秒订阅盘点：邮箱推断3–4订阅/部分名未知，49.58秒明确只给iPhone设置取消步骤；口播一键取消3项目与界面不符。邮箱不覆盖所有手机订阅，已取消要实际设置回执。高互动仍有硬伤，不能以发布/爆款当正确标准。"
+  },
+  {
+    "case": 212,
+    "token": "WkQ5bNaYpo72QyxtmWQctOlBnUg",
+    "sha256": "a8aa930ec661547c7276074a1847cc7e511b2dff183f9fb88fa8c4a689c96a74",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "59.9秒创作收藏：本人收藏→电脑实际浏览→六类结构/具体引用编号→剪辑选题再利用，较完整。可学二次使用而非只列目录。‘其他收藏都完美’收窄本人测试范围，主要内容可保留。"
+  },
+  {
+    "case": 213,
+    "token": "YiVebJ6J0o25KlxzvoDcy2ODn2c",
+    "sha256": "af6a01faf7e4b92b4730f5803b817c19b6df06efb595df90ccfbbd171dccca0c",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "82.6秒备考晚饭：东北口味+猎奇尝鲜+备考快手党具体画像，菜单/天气情境；可读输出有，收藏读取证据需补查。考研人也能讲餐饮，账号匹配按真实需求而非只按学科标签。"
+  },
+  {
+    "case": 189,
+    "token": "VYcFbJveyowWnRx1Jp1cHNq7nGf",
+    "sha256": "d1aab4581645ccf3c32d89a1e5c07a5e93abd0ba81c7712e0232830d94b006ef",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "Windows iTunes 安装对话；AI自述驱动安装不等于原生窗口实证，区分用户确认与工具实际执行。官方64位iTunes路径与BF相符。"
+  },
+  {
+    "case": 201,
+    "token": "GWeab4f7IoHv7Jx1AIacHbytnYd",
+    "sha256": "274a50b966a911323a9c89022382ffb0d82c911c88bc49c9ff91aba8816adc86",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "第三版把开头猫图换豆包标识、补真实Word/输入/清单画面。字幕2026而ASR2016，不能据转写报年份错误。"
+  },
+  {
+    "case": 209,
+    "token": "Bi1fb5rbSozBy6xl9zfcjA0unjc",
+    "sha256": "eb269e8caab777737f4a1eae4e42eafa771c3b54ead70261ad194c6ee8a67d4f",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "奶奶盯锅剧情保留；51.6秒换定时任务配置，配置不等于推送回执，24小时全网一降就提醒仍需兑现证据。"
+  },
+  {
+    "case": 214,
+    "token": "IzEobTtNYok30PxJmOzcvha1nne",
+    "sha256": "66ab1a66a33f8c35dcec1231964bd581e5967cedb8f3f68b3e4ec35de39e8f6e",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "老师扩音器盯价用PC演示并解释手机可用；PA盯价BF限制PC，应核对当时例外。后段有实际商品价与定时设置。"
+  },
+  {
+    "case": 215,
+    "token": "Wn7cbrxAso3IFIx01HucT7eanXh",
+    "sha256": "754447b76f24158459948b5cbc6432fb685d71fbb5bfdb74784a5be8e4487193",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "优良盯价表达：同品牌型号规格全新、每日20点、800预算；没到先不买，到了打开核对到手价。无须强制挑错，长前奏仅可选优化。"
+  },
+  {
+    "case": 216,
+    "token": "IPJKbkWYUoIfbuxsx7Scono8nXb",
+    "sha256": "b78b1b2eadec31cc1980dc854fc3e06757dd979ec5387c3261b0633e1c06e866",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "健身项目先问身体约束、计划、反馈调整，主线完整；日期9/27至10/27与28日加班需放大核实，不凭缩略图认定错误。"
+  },
+  {
+    "case": 217,
+    "token": "RHsIbCLF3oqGE9xiCuccUxounBb",
+    "sha256": "49ef7e6b5fd3627902d86ab1cd8777276397c586446096bddcb4d0fc760cd956",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "邮箱行程与租车对比，真实邮件画面需注意第三方订单/保单信息；估算租车价格不等于实时可订报价，海外任务时区按本人核对。"
+  },
+  {
+    "case": 218,
+    "token": "R9AwbdnkOoYBnQxGnklcWMEQnzb",
+    "sha256": "898cf004bb019e29cd115926c6a2835d1aa32167300a85009cb52d61c5394261",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "9–18秒以AI生成灰色三叶图形代指豆包，需核对是否获准素材及用途；VIS有灰色产品组件icon，不能凭灰色认定错误，但当前三叶图形也不能直接当已授权的完整品牌logo。每天12点查不等于随时最低价，商品清单及阈值核同款。"
+  },
+  {
+    "case": 219,
+    "token": "LeAPbpEl5o3sxExc2cucsHa5noe",
+    "sha256": "bc71859eecb663ab9bd124e53ea27e055ed50387a5b73650f98e253537f4365c",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "九寨沟P人旅行与账户生活分享自然，实际PC输出约后20秒；数据有3次加热，不可当纯自然爆款。收藏总结不等于完成预订。"
+  },
+  {
+    "case": 220,
+    "token": "QdtUbKpqgoLuiqxRpHZcQIUAnBe",
+    "sha256": "3cfdcc32f8b753443b3019049e7241bd5cb3afd828c378c4152f4df137851715",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "教师用品真实需求、手机工作入口、扩音器型号预算与89元报告；京东/抖音渠道和优惠条件需逐项对应，创建时间选择不等于已收到提醒。"
+  },
+  {
+    "case": 221,
+    "token": "I02qbkE8woTAMuxmN3IcPKzrnmh",
+    "sha256": "03ff61087a977337b7616943f3353200b57bf634e85c94fa6a25c35d0fd53cf5",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "先前158到135斤是本人既有减重，不能归因豆包；有膝伤先问再排计划是亮点，但AI计划不构成伤病治疗或安全保证。"
+  },
+  {
+    "case": 222,
+    "token": "WQnebNXQqo4Y2ix1ADQcUunqnnh",
+    "sha256": "51f9f554d3a18ae1a0abbc695ceae3f8353716a6c02eaad45c8201d0cadee399",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "实际手机健身、经期与力量跑步约束明确；定时任务显示明日首发，不是已经推送的证据。文档标题/模板误写盯价，应按实际健身内容和当期确认核对，不能据此断言表格字段已核实错误。"
+  },
+  {
+    "case": 189,
+    "token": "Yng4baqGIoBwrqxm4WUchab8nMd",
+    "sha256": "55f7c098218b47be76e1d6b564ced48fdfa68fb9e506c75c19a8b012f9bb4e39",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "钱包原生3.4秒结果展开卡面，与聊天声称成功不同，足以证明本段换图效果；不延伸为支付能力变化。"
+  },
+  {
+    "case": 216,
+    "token": "E3VMbykxKoaFryxnRiiceJe0ngb",
+    "sha256": "fee1c27deb982cd6457d190c8eec40f004177d2070d85db1333b7bbf15f3fc2c",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "改版入口文案更准确，33秒明确工作项目；日期问题需对照原计划和反馈月份。28.2秒空背景是过渡帧，须连续核实才判断黑场。"
+  },
+  {
+    "case": 223,
+    "token": "R3fJbz9SPou1HuxbpasclT3ZnCg",
+    "sha256": "3dff36334f4e5370a0fbd2b464fd7e976b5ba7734062fd62739a723c36bf9dc2",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "科研教师把自己的AI科研收藏整理成课件素材，具体到选题/检索/实验/写作及红线；价值贴合人设，不必强改短口播。读取全部收藏仍需操作证据。"
+  },
+  {
+    "case": 224,
+    "token": "AUIibKQ8ko4mxKx9JL2cW93Dn6d",
+    "sha256": "2ca77eddf037a558555e3dec722d8318e02ccf8c7a419e0115672ab68018360e",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "真实大连烟台旅行需求、五日HTML、预算及交通；输出详细不是票价/营业时间实时保证。后段扩展健身和无所不能可收束，但当时已发布不回写。"
+  },
+  {
+    "case": 225,
+    "token": "Ii0pbalDHo1Zjgx1RXGc6i0Un7e",
+    "sha256": "bfeca498398796d62e12d60a3ecf41af0e422ebd849f2e55e2d02b6ec47fa536",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "求职收藏转新媒体运营面试10题和准备清单，成果具体。268与300可为不同时期近似口语，先问事实不直接判矛盾；无需统一套Muse开头。"
+  },
+  {
+    "case": 226,
+    "token": "N1BmbIZY4oJ6SWxhHIZcnDj7ngd",
+    "sha256": "de55ff5f7028db813848e63f2c618a0ec7a34e19d8cb61f9fa44c5c42e1f8174",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "手机取电脑文件、改名、改周次；文件已返回但最后文档内容主要是AI说明，新增送审应打开核对实际文件。两个前提还需核对电脑在线/授权条件。"
+  },
+  {
+    "case": 227,
+    "token": "UpXnblQJPomwUpxjarUcCWjWnTc",
+    "sha256": "f608f887e0427ebe7965af9cf0f4c70955ef4d92d6d2fc0ec970773fddb886c9",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "电子专业PWM论文→交互网页、滑块和答题实际展示；自嘲学渣属人设不强改。科学解释需核查原论文而非AI自证，帧可见参数变化。"
+  },
+  {
+    "case": 228,
+    "token": "QUs1bmHd5ownHex5Zdvc0xGenqc",
+    "sha256": "6f9aa6f5ade389503c0471fb2480eb2469daab35ea922943c2482b24de8d119a",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "真实外出取文档再改内容PPT，原生页面有前后图。屏幕显示任意链接可看下载是隐私风险，应避免客户真实资料公开链接；仅本次摘要不复制URL。"
+  },
+  {
+    "case": 229,
+    "token": "IF2Kb9SW6ooEjDxQYh8cYXu4nCc",
+    "sha256": "99bd914cb437c29c7577ab0aff9a37f7ae0dd8b499b646544a16e92810472541",
+    "method": "16 distributed frames + full audio ASR text; 原音未实听",
+    "notes": "课堂PPT忘带场景与手机远控匹配；实际前后PPT及校徽可见，明确以北京大学为例，不能误判本人学历造假。电脑在线和授权条件依现BF核对。"
+  },
+  {
+    "case": 189,
+    "token": "Phjkbr5rEoF0HuxQOzRcrN4mn3c",
+    "sha256": "8b2176a8a6ef251f84f4138d84bc5c8a767a7854d23d1b7e57de6d29f8d9264b",
+    "method": "16 distributed frames; no ASR text; 原音未实听",
+    "notes": "4.1秒原生钱包卡面三人照片结果，注意与上一版本单人输入不同；都作为不同实际素材保留，不混成同一次执行。"
+  },
+  {
+    "case": 189,
+    "token": "Ttdgbjyw2oY5Pcx85h0c6HeQnmg",
+    "sha256": "71221c2f982a054f095ae8d239272d8f2ea3779a866749d8a834d6de1d0cbfb7",
+    "method": "16 distributed frames; no ASR text; 原音未实听",
+    "notes": "双人钱包卡面实际展开结果，单独素材版本。"
+  },
+  {
+    "case": 189,
+    "token": "JZR2bT9W5ock48x7ZGAc6XuAnuZ",
+    "sha256": "e671f87f6933dec3d04b330543fc15ee7c8cb7e6cca8c4dae581fe27fabbac18",
+    "method": "16 distributed frames; no ASR text; 原音未实听",
+    "notes": "Windows原生AirCard连接iPhone并预览卡通卡面，预览本身还不是手机应用结果。"
+  },
+  {
+    "case": 189,
+    "token": "Hky9b5xqWo5PfxxlfbfcLKEAnGf",
+    "sha256": "2ecc18ab24e583a7c6799bb89cb148f259d8bf7ee64da044bd0a441fc04d4454",
+    "method": "16 distributed frames; no ASR text; 原音未实听",
+    "notes": "手机原生钱包卡通卡面展开，与上一段Windows预览形成实际前后链。"
+  }
+]
