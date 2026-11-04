@@ -1,4 +1,4 @@
 interface:
   display_name: "app内容审核skill"
   short_description: "豆包App／Peiyao脚本、图文和视频初审与飞书定位批注"
-  default_prompt: "使用 $app-content-review 按对应BF审核这份豆包App／Peiyao稿件，读取完整历史批注，核对实际成片，并将有依据的修改意见定位写回指定飞书稿件。"
+  default_prompt: "使用 $app-content-review 按对应BF审核这份豆包App／Peiyao稿件，读取完整历史批注，核对实际成片，在指定飞书稿件定位写入白话修稿建议；依据、复核标准和审稿编号只留在内部，没有问题不强行提意见。"

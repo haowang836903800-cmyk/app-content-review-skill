@@ -31,6 +31,61 @@ def card(issue):
 
 
 class ReviewTest(unittest.TestCase):
+    def test_outward_comment_is_plain_but_evidence_stays_internal(self):
+        q = req(); q['issues'][0]['comment'] = '把口播改成每天查一次，字幕也一起改。'
+        i = r.prepare(snap(), q)['issues'][0]
+        self.assertEqual(i['text'], q['issues'][0]['comment'])
+        self.assertEqual(i['rule_source'], '测试BF')
+        self.assertEqual(i['acceptance'], '测试验收')
+        self.assertNotIn(i['marker'], i['text'])
+        self.assertEqual(r.prepare(snap(), req())['issues'][0]['text'], '测试改法')
+
+    def test_outward_metadata_is_rejected(self):
+        for text in ['复核标准：字幕一致', '依据: BF', '[APP审稿:123]',
+                     '[APP复审:123]', '【必须修改】改字幕', '验收标准：改完']:
+            q = req(); q['issues'][0]['comment'] = text
+            with self.assertRaises(ValueError): r.prepare(snap(), q)
+
+    def test_old_or_edited_plan_is_rejected_before_network(self):
+        p = r.prepare(snap(), req())
+        for key, value in [('schema_version', 2), ('text', '依据：旧格式')]:
+            bad = copy.deepcopy(p)
+            if key == 'text': bad['issues'][0][key] = value
+            else: bad[key] = value
+            with tempfile.TemporaryDirectory() as d, patch.object(r, 'comments') as api:
+                with self.assertRaises(ValueError): r.apply_plan(bad, Path(d)/'receipt.json')
+                api.assert_not_called()
+
+    def test_dedup_requires_exact_anchor_and_root_body(self):
+        i = r.prepare(snap(), req())['issues'][0]
+        wrong = card(i); wrong['relation']['block_ids'] = ['b-other']
+        quoted = card(i)
+        quoted['reply_list']['replies'].insert(0, {'content': {'elements': [{'text': '别的问题'}]}})
+        whole = card(i); whole['is_whole'] = True
+        deleted = card(i); deleted['relation']['content_deleted'] = True
+        self.assertEqual(r.matching_comments([wrong, quoted, whole, deleted], i), [])
+
+    def test_legacy_marker_is_recognized_only_at_correct_anchor(self):
+        i = r.prepare(snap(), req())['issues'][0]; c = card(i)
+        c['reply_list']['replies'][0]['content']['elements'][0]['text_run']['text'] = '旧意见\n' + i['marker']
+        c['relation'] = {'relation': json.dumps({'positionInfo': {'blockID': 'b'}})}
+        self.assertEqual(r.matching_comments([c], i), [c])
+        c['relation'] = {'relation': json.dumps({'positionInfo': {'blockID': 'b-other'}})}
+        self.assertEqual(r.matching_comments([c], i), [])
+
+    def test_timeout_that_landed_is_reconciled_without_another_write(self):
+        p = r.prepare(snap(), req()); c = card(p['issues'][0])
+        with tempfile.TemporaryDirectory() as d, patch.object(r, 'comments', side_effect=[[], [c]]), patch.object(r, 'fetch', return_value=snap()), patch.object(r, 'cli', side_effect=TimeoutError) as api:
+            with self.assertRaises(TimeoutError): r.apply_plan(p, Path(d)/'a.json')
+            self.assertEqual(r.apply_plan(p, Path(d)/'b.json')['results'][0]['status'], 'already_exists')
+            self.assertEqual(api.call_count, 1)
+
+    def test_ambiguous_existing_comments_stop_without_write(self):
+        p = r.prepare(snap(), req()); c = card(p['issues'][0])
+        with tempfile.TemporaryDirectory() as d, patch.object(r, 'comments', return_value=[c, copy.deepcopy(c)]), patch.object(r, 'cli') as api:
+            with self.assertRaises(RuntimeError): r.apply_plan(p, Path(d)/'a.json')
+            api.assert_not_called()
+
     def test_zero_issue_pass_is_local_and_writes_nothing(self):
         q = req(); q.update(decision='pass', issues=[])
         p = r.prepare(snap(), q)
@@ -120,7 +175,9 @@ class ReviewTest(unittest.TestCase):
             f=Path(d)/'v.mp4';f.write_bytes(b'fixture')
             q=req();q['review_scope']=['video'];i=q['issues'][0];i.pop('quote')
             i.update(block_id='v',kind='video',start_seconds=1,end_seconds=3,media={'token':'t','path':str(f),'sha256':r.file_digest(f),'filename':'v.mp4','version':'v1','duration_seconds':10,'review_method':'抽帧','audio_listened':False})
-            r.prepare(snap(),q)
+            p = r.prepare(snap(),q)
+            self.assertEqual(p['issues'][0]['text'], 'v1 00:01–00:03：测试改法')
+            self.assertNotIn('v.mp4', p['issues'][0]['text'])
             i['requires_audio']=True
             with self.assertRaises(ValueError):r.prepare(snap(),q)
             i['requires_audio']=False;i['end_seconds']=11

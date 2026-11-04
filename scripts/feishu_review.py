@@ -10,6 +10,7 @@ import json
 import math
 import os
 from pathlib import Path
+import re
 import subprocess
 import sys
 import time
@@ -150,9 +151,64 @@ def comment_text(card):
     return '\n'.join(parts)
 
 
+def root_comment_text(card):
+    replies = card.get('reply_list', {}).get('replies', [])
+    if not replies:
+        return ''
+    return comment_text({'reply_list': {'replies': replies[:1]}})
+
+
+def anchored_to(card, block_id):
+    if card.get('is_whole') is True or (card.get('relation') or {}).get('content_deleted'):
+        return False
+
+    def contains(value):
+        if isinstance(value, str):
+            try:
+                decoded = json.loads(value)
+            except ValueError:
+                return False
+            return contains(decoded) if isinstance(decoded, (dict, list)) else False
+        if isinstance(value, list):
+            return any(contains(v) for v in value)
+        if isinstance(value, dict):
+            for key, child in value.items():
+                if key in ('content_anchor_id', 'blockID', 'block_id') and child == block_id:
+                    return True
+                if key == 'block_ids' and isinstance(child, list) and block_id in child:
+                    return True
+                if contains(child):
+                    return True
+        return False
+
+    return contains({'extra': card.get('extra'), 'relation': card.get('relation')})
+
+
+def matching_comments(cards, issue):
+    # The fingerprint stays local. Match the root body and exact anchor after a
+    # timeout; a later reply quoting our text must not count as our comment.
+    expected = ' '.join(issue['text'].split())
+    return [c for c in cards if anchored_to(c, issue['block_id']) and
+            (' '.join(root_comment_text(c).split()) == expected or
+             issue['marker'] in root_comment_text(c))]
+
+
 def timestamp(seconds):
     seconds = int(seconds)
     return f'{seconds // 60:02}:{seconds % 60:02}'
+
+
+def render_comment(issue):
+    text = issue.get('comment', issue['change'])
+    if not isinstance(text, str) or not text.strip():
+        raise ValueError('对外批注需填写白话修稿建议')
+    text = text.strip()
+    if issue['kind'] == 'video':
+        text = (f'{issue["media"]["version"]} '
+                f'{timestamp(issue["start_seconds"])}–{timestamp(issue["end_seconds"])}：' + text)
+    if re.search(r'\[APP(?:审稿|复审):|(?:复核标准|验收标准|依据|BF来源)\s*[:：]|【(?:必须修改|建议优化|待补证据)】', text):
+        raise ValueError('对外批注只写白话建议；依据、标准、分类和审稿标记留在内部')
+    return text
 
 
 def prepare(snap, request):
@@ -245,17 +301,9 @@ def prepare(snap, request):
             'range': [issue.get('start_seconds'), issue.get('end_seconds')],
         }
         marker = '[APP审稿:' + digest(json.dumps(fingerprint, sort_keys=True, ensure_ascii=False))[:16] + ']'
-        loc = f'原句：{issue["quote"]}' if issue.get('quote') else '图文位置：' + issue['block_id']
-        if issue['kind'] == 'video':
-            m = issue['media']
-            loc = f'视频：{m["filename"]}｜{m["version"]}｜{timestamp(issue["start_seconds"])}–{timestamp(issue["end_seconds"])}'
-        issue.update(marker=marker, block_hash=block['hash'], text='\n'.join([
-            f'【{issue["category"]}】{loc}', issue['problem'],
-            '请修改：' + issue['change'], '复核标准：' + issue['acceptance'],
-            '依据：' + issue['rule_source'], marker,
-        ]))
+        issue.update(marker=marker, block_hash=block['hash'], text=render_comment(issue))
         issues.append(issue)
-    return {'schema_version': 2, 'url': snap['url'], 'document_id': snap['document_id'],
+    return {'schema_version': 3, 'url': snap['url'], 'document_id': snap['document_id'],
             'content_hash': snap['content_hash'], 'revision_id': snap['revision_id'],
             'context': {k: request[k] for k in ('project', 'audience', 'campaign', 'bf', 'target_version')},
             'decision': decision, 'review_scope': scope, 'coverage': coverage,
@@ -264,6 +312,11 @@ def prepare(snap, request):
 
 def apply_plan(plan, receipt_path):
     # No automatic retries around writes: reconcile server state first on a timeout.
+    if plan.get('schema_version') != 3:
+        raise ValueError('旧格式方案不可直接写入；请重新生成白话批注方案')
+    for issue in plan['issues']:
+        if issue['text'] != render_comment(issue):
+            raise ValueError('批注正文与当前白话方案不一致；请重新生成方案')
     url = plan['url']
     results = []
     receipt = {'url': url, 'started_at': time.strftime('%Y-%m-%dT%H:%M:%S%z'), 'results': results}
@@ -274,9 +327,12 @@ def apply_plan(plan, receipt_path):
         return receipt
     cards = comments(url)
     for issue in plan['issues']:
-        existing = [c for c in cards if issue['marker'] in comment_text(c)]
+        existing = matching_comments(cards, issue)
+        if len(existing) > 1:
+            raise RuntimeError('同位置已有多条相同意见，先人工核对，不自动写入')
         if existing:
             results.append({'marker': issue['marker'], 'status': 'already_exists',
+                            'block_id': issue['block_id'], 'text_hash': digest(issue['text']),
                             'comment_ids': [c['comment_id'] for c in existing]})
             save(receipt_path, receipt)
             continue
@@ -289,7 +345,8 @@ def apply_plan(plan, receipt_path):
         m = issue.get('media')
         if m and file_digest(m['path']) != m['sha256']:
             raise RuntimeError('视频文件已变化')
-        result = {'marker': issue['marker'], 'status': 'write_started', 'block_id': issue['block_id']}
+        result = {'marker': issue['marker'], 'status': 'write_started',
+                  'block_id': issue['block_id'], 'text_hash': digest(issue['text'])}
         results.append(result)
         save(receipt_path, receipt)
         try:
@@ -298,13 +355,12 @@ def apply_plan(plan, receipt_path):
             result['status'] = 'write_returned'
             save(receipt_path, receipt)
             cards = comments(url)
-            matches = [c for c in cards if issue['marker'] in comment_text(c)]
+            matches = matching_comments(cards, issue)
             if len(matches) != 1:
                 raise RuntimeError('读回评论数量异常；不自动重写')
             card = matches[0]
             # A successful API response alone is not proof of correct anchoring.
-            relation = json.dumps({'extra': card.get('extra'), 'relation': card.get('relation')})
-            if issue['block_id'] not in relation or card.get('is_whole') is True:
+            if not anchored_to(card, issue['block_id']):
                 raise RuntimeError('评论已写入但锚点读回不一致；需要检查，不自动重写')
             result.update(status='verified', comment_id=card['comment_id'], relation=card.get('relation'))
             save(receipt_path, receipt)
