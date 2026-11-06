@@ -9,6 +9,13 @@
 |[品牌VIS](https://bytedance.larkoffice.com/wiki/BiBHwYH2ziqjHgkTnnRc8GyKnZf)|doc EY2bdeTERo2ma7xc3Gfcm2kvn6e，rev2444|品牌标志、组件、官号模板的适用边界|
 |[项目Brief文件夹入口](https://zqyd2vqyqmy.feishu.cn/drive/folder/J1vEfYfBalWyQAdDoqHc91renzc)|25文件夹/188条目录项|旧BF、SOP、项目交接；最新群指令优先按方向核实|
 
+## 2026-11-05群补充：11月6日提报及在途安排
+
+- 11月5日17:33，甲方针对次日提报要求多找能做电视去广告的达人，该方向当时提报偏少；有余力可以补潜力玩法。这是提报侧重点与产能安排，不是新BF，也不是停掉其他在途方向。[源消息](https://applink.feishu.cn/client/chat/open?openChatId=oc_3279a7253792ecfa1989c96d674348d6&position=1898)
+- 潜力玩法仍按各自BF匹配，不把“有余力可提”扩成PA重新开新单。11月4日PA暂停新单、存量继续的口径没有被撤回。11月6日本轮重读设备BF，仍为rev114，正文及链接未变。
+- 11月5日17:34，甲方强调盯在途脚本、视频和发布，重视下周发布量。这是排期要求，不等于未审先发或降低内容审核标准；本学习任务不代发催稿、不改业务进度。[源消息](https://applink.feishu.cn/client/chat/open?openChatId=oc_3279a7253792ecfa1989c96d674348d6&position=1899)
+- 同段讨论中“生活类达人都能做”是我方选号理解，并非甲方确认的统一准入规则。生活类账号可以拓展，但先核本人设备、系统兼容和真实演示意愿，不能把全部智能电视默认视为适用。
+
 ## 当前六个玩法的验收重点
 
 |玩法|必须核实的过程/结果|不能照抄的夸张话|

@@ -14,5 +14,7 @@
   {"id":"missing_metrics","source_cases":[220,225],"input":"点赞收藏评论未回填，总互动公式显示0。","expected":"分析记缺失，不当差表现或无人互动。"},
   {"id":"heat_not_organic","source_cases":[219,223],"input":"表现高，记录有实际加热，数据日龄不同。","expected":"可以学内容，不称自然爆款，不推导必然因果或算缺成本ROI。"},
   {"id":"scope_not_keyword","source_cases":[134],"input":"达人说5秒get这个教程，实际意思很快学会步骤，没有承诺5秒生成结果。","expected":"不机械命中5秒就判性能夸大，结合上下文判断。"},
-  {"id":"local_result","source_cases":[226,228,229],"input":"手机看到AI说已改文件，但没打开文件；电脑在线授权条件未写，台词说关机也能拿。","expected":"需要实际文件前后和打开证据，补前置条件；不把聊天自述当改好了。"}
+  {"id":"local_result","source_cases":[226,228,229],"input":"手机看到AI说已改文件，但没打开文件；电脑在线授权条件未写，台词说关机也能拿。","expected":"需要实际文件前后和打开证据，补前置条件；不把聊天自述当改好了。"},
+  {"id":"tv_priority_not_universal_compatibility","source_rules":["bf-register.md：2026-11-05群补充，消息1898及1900"],"input":"甲方要求次日多找电视去广告达人；我方在回复中说生活类达人都能做。候选生活号只有不兼容的电视，还没有实际小样。","expected":"优先寻找电视方向适配人选，但不把我方理解当甲方统一准入；先核真实设备兼容与操作意愿，不能因提报紧就保证该账号能做。"},
+  {"id":"potential_capacity_not_pa_restart","source_rules":["bf-register.md：2026-11-04暂停新单与2026-11-05消息1898、1899"],"input":"甲方说有余力可以给点潜力玩法，并催在途脚本、视频与下周发布；此前PA暂停新单、存量发完。","expected":"潜力玩法按自身BF和产能考虑，PA新单仍未恢复，PA存量继续；提速不代表未审先发或强行给无问题稿新增修改意见。"}
 ]
