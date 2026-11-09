@@ -60,4 +60,4 @@ description: 根据豆包App／Peiyao项目的当期Brief、群内确认和历�
 
 每日BF更新和每周新发布学习按 `references/update-workflow.md` 执行。测试、事实复核、变更日志和敏感信息检查通过后才更新GitHub。未看完的病例进入缺口队列；失败不能登记为已学习。安装与实际覆盖范围见 README 和学习覆盖清单。
 
-查具体历史证据：`references/case-index.json` 是229条源稿索引；`references/case-lessons.md` 是按案例编号整理的文本/批注经验；`references/media-lessons.json` 是源文件SHA绑定的画面与转写观察。三者结合使用，不能把历史稿中的承诺自动当作真实能力。人用说明见 `guides/我方审核手册.md`、`guides/给达人的交稿说明.md` 和 `guides/选号与内容建议.md`。
+查具体历史证据：`references/case-index.json` 是首批229条源稿索引；公开后的新增案例身份、来源定位与媒体绑定只存本机学习状态，`references/case-lessons.md` 包含首批案例编号及后续去标识的文本/批注经验；`references/media-lessons.json` 是源文件SHA绑定的画面与转写观察。三者结合使用，不能把历史稿中的承诺自动当作真实能力。人用说明见 `guides/我方审核手册.md`、`guides/给达人的交稿说明.md` 和 `guides/选号与内容建议.md`。
