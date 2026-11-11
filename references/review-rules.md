@@ -1,5 +1,7 @@
 # App / Peiyao 审核判断库
 
+2026-11-10潜力玩法修订及作者仓库冲突，按 [potential-playbooks.md](potential-playbooks.md)；硬件新提报暂停及旧单安排按 [bf-register.md](bf-register.md)。
+
 基线：2026-11-05，229条已发布项目记录、228份可访问现文、834条评论卡片、1291条回复。案例编号可在 case-index.json 找源稿。本文是原因归纳；遇到冲突回到匹配BF及完整对话，不把归纳凌驾于本次要求。
 
 ## 先决定要不要改

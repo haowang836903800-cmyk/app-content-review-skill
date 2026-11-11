@@ -232,5 +232,23 @@
     "observed": "小黄8分12秒参考，部分实际画面",
     "gaps": "未完整连续播放/听音",
     "read_date": "2026-11-05"
+  },
+  {
+    "parent": "潜力玩法公开工具说明",
+    "url": "https://github.com/yangbin1322/hongguo-player",
+    "kind": "github",
+    "status": "read_relevant_docs_with_unverified_runtime",
+    "observed": "README安装、依赖、非官方身份与仅安装包说明；不包含源码",
+    "gaps": "未安装或真机验证；未取得本次商业用途授权证明；BF原文及视频链接范围仅存本地",
+    "read_date": "2026-11-11"
+  },
+  {
+    "parent": "潜力玩法公开工具说明",
+    "url": "https://github.com/chadyi/StudyOnTV",
+    "kind": "github",
+    "status": "read_relevant_docs_with_unverified_runtime",
+    "observed": "README、LICENSE、install、platform-support、legacy-control、background-recovery、analytics；按包型与验证层级区分",
+    "gaps": "未安装或真机验证；未取得本次商业用途授权证明；BF原文及视频链接范围仅存本地",
+    "read_date": "2026-11-11"
   }
 ]
