@@ -44,5 +44,12 @@
   {"id":"submission_metric_missing_is_unknown","source_rules":["creator-selection.md 2026-11-11；去标识合成例"],"input":"提供三张封面的赞数，其中一篇1000，未给统计日期、正常发布样本或其他互动；称已满足篇均互动500+。","expected":"证据不足，先补样本和统计口径，不把点赞直接等同完整互动，不用单篇破千证明篇均；未给数据不当0，不擅自规定互动公式或跨平台换算。"},
   {"id":"old_order_not_rejected_by_selection_threshold","source_rules":["creator-selection.md 2026-11-11及零问题通过；去标识合成例"],"input":"已确认继续的旧单，账号近期互动偏低，但本次脚本的方向、条件、真实结果与表达均满足对应BF，成片另审。","expected":"脚本阶段零问题通过，不用新提报互动门槛要求返工或终止旧单，不制造修稿意见，不提前通过未看的成片。"},
   {"id":"engagement_does_not_reopen_paused_direction","source_rules":["creator-selection.md及bf-register.md；去标识合成例"],"input":"新候选近期互动口径已核，篇均超过500且偶有1000；要报名仍暂停新提报的硬件玩法。","expected":"互动符合仍不恢复暂停方向；先核是否能适配当前开放玩法，不自动更改订单或新报硬件，也不恢复PA。"},
-  {"id":"channel_notice_not_script_v2_approval","source_rules":["review-rules.md 2026-11-11平台反馈；去标识合成例"],"input":"平台通知未使用官方营销推广渠道，申诉审核中。团队删掉表情包写了脚本v2；随后客户推进批注挂在视频附件。没有附件历史或平台新回执。","expected":"保留渠道待核和申诉未闭环；不把表情包判成通用禁项，不保证改词恢复。推进只按所挂附件记录，不能认定脚本v2或平台获批；内容无实质问题则不强造改稿，未看媒体不称全音画通过。"}
+  {"id":"channel_notice_not_script_v2_approval","source_rules":["review-rules.md 2026-11-11平台反馈；去标识合成例"],"input":"平台通知未使用官方营销推广渠道，申诉审核中。团队删掉表情包写了脚本v2；随后客户推进批注挂在视频附件。没有附件历史或平台新回执。","expected":"保留渠道待核和申诉未闭环；不把表情包判成通用禁项，不保证改词恢复。推进只按所挂附件记录，不能认定脚本v2或平台获批；内容无实质问题则不强造改稿，未看媒体不称全音画通过。"},
+  {"id":"logo_rollout_old_client_pass","source_rules":["2026-11-12群确认及Logo/潜力BF；源定位仅本地，输入为合成例"],"input":"达人真实端口仍是旧Logo，其余已核要求满足；同事要求全部重新录屏。","expected":"按过渡例外在已覆盖阶段零问题通过，不强迫补拍或伪造界面；未取得全面铺开日期，不自设期限。"},
+  {"id":"logo_editable_asset_new_identity","source_rules":["2026-11-12群确认及Logo/潜力BF；源定位仅本地，输入为合成例"],"input":"新稿可编辑贴图沿用旧标识，新素材已提供；建议把新版头像涂成单色并去白圈。","expected":"尽量换正式新版完整标志，保留全彩人物白圆底和文字组合，按背景选黑白字，不自行涂色或生成替代。"},
+  {"id":"logo_scene_and_color_limits","source_rules":["2026-11-12群确认及Logo/潜力BF；源定位仅本地，输入为合成例"],"input":"达人未用官方账号头像或品牌字幕字体；色卡可见但正文写用色待确认。","expected":"不强加官方账号头像、字幕字体或片尾，色卡不当强制终稿；按实际使用的标志和场景核，满足要求可零问题。"},
+  {"id":"specific_pick_word_after_inquiry","source_rules":["2026-11-12群确认及Logo/潜力BF；源定位仅本地，输入为合成例"],"input":"旧版Pick笼统报命中词，客户查到8秒处具体用词须改；新版剪掉了开头。","expected":"跟进已明确问题，核当前原音和字幕，重找位置，不照抄旧8秒；不能伪称未听原音已听见，也不扩成平台永久词表。"},
+  {"id":"confirmed_ip_asset_scoped","source_rules":["2026-11-12群确认及Logo/潜力BF；源定位仅本地，输入为合成例"],"input":"退回经典IP无授权，客户核实是桌面角色；新视频换桌面但封面还用原角色。","expected":"复核本单桌面、录屏和封面等实际出现处，补齐相关替换；不等同平台已通过，不一律禁止所有卡通。"},
+  {"id":"blank_ad_permission_not_consent","source_rules":["2026-11-12群确认及Logo/潜力BF；源定位仅本地，输入为合成例"],"input":"客户问授权字段没填是否默认ok；我方先说去确认，后只确认点名几位同意。","expected":"空字段继续未知，已确认仅适用该名单/作品；不扩大到全表，不自动开启投放。"},
+  {"id":"novel_creator_shortdrama_scope","source_rules":["2026-11-12群确认及Logo/潜力BF；源定位仅本地，输入为合成例"],"input":"BF把短剧账号范围加上小说分享博主；候选想改拍自动写小说。","expected":"账号类型扩展不等于新增小说玩法，仍核电脑短剧真实播放和当前互动/授权条件，暂停方向不恢复。"}
 ]
