@@ -51,5 +51,14 @@
   {"id":"specific_pick_word_after_inquiry","source_rules":["2026-11-12群确认及Logo/潜力BF；源定位仅本地，输入为合成例"],"input":"旧版Pick笼统报命中词，客户查到8秒处具体用词须改；新版剪掉了开头。","expected":"跟进已明确问题，核当前原音和字幕，重找位置，不照抄旧8秒；不能伪称未听原音已听见，也不扩成平台永久词表。"},
   {"id":"confirmed_ip_asset_scoped","source_rules":["2026-11-12群确认及Logo/潜力BF；源定位仅本地，输入为合成例"],"input":"退回经典IP无授权，客户核实是桌面角色；新视频换桌面但封面还用原角色。","expected":"复核本单桌面、录屏和封面等实际出现处，补齐相关替换；不等同平台已通过，不一律禁止所有卡通。"},
   {"id":"blank_ad_permission_not_consent","source_rules":["2026-11-12群确认及Logo/潜力BF；源定位仅本地，输入为合成例"],"input":"客户问授权字段没填是否默认ok；我方先说去确认，后只确认点名几位同意。","expected":"空字段继续未知，已确认仅适用该名单/作品；不扩大到全表，不自动开启投放。"},
-  {"id":"novel_creator_shortdrama_scope","source_rules":["2026-11-12群确认及Logo/潜力BF；源定位仅本地，输入为合成例"],"input":"BF把短剧账号范围加上小说分享博主；候选想改拍自动写小说。","expected":"账号类型扩展不等于新增小说玩法，仍核电脑短剧真实播放和当前互动/授权条件，暂停方向不恢复。"}
+  {"id":"novel_creator_shortdrama_scope","source_rules":["2026-11-12群确认及Logo/潜力BF；源定位仅本地，输入为合成例"],"input":"BF把短剧账号范围加上小说分享博主；候选想改拍自动写小说。","expected":"账号类型扩展不等于新增小说玩法，仍核电脑短剧真实播放和当前互动/授权条件，暂停方向不恢复。"},
+  {"id":"account_approval_scope","source_rules":["内测与品牌场景审核边界；源定位仅本地，输入为合成例"],"input":"群里回复账号材料“除一人外都通过”，团队据此把所有脚本写成已审。","expected":"只记录被回复账号资料的审核结果，例外单列；稿件没有对应版本确认就不能登记已审。"},
+  {"id":"submitted_not_activated","source_rules":["内测与品牌场景审核边界；源定位仅本地，输入为合成例"],"input":"资料提交收到OK，后来达人说仍进不去，负责人答复帮催。","expected":"记录权限待实际生效，催办不保证完成；不要求假拍，不把账户障碍当内容错误。"},
+  {"id":"distribution_channel_match","source_rules":["内测与品牌场景审核边界；源定位仅本地，输入为合成例"],"input":"本人通过TestFlight正常安装，审核员要求补企业开发者信任步骤。","expected":"不补；该步骤与当前分发渠道不符。教程准确且满足本单要求，可零意见通过。"},
+  {"id":"beta_screenshot_not_launch","source_rules":["内测与品牌场景审核边界；源定位仅本地，输入为合成例"],"input":"BF保密，示例邀请截图却写已上线，稿件准备马上公开。","expected":"示例文案不能覆盖保密和本单发布安排；核当前授权与排期，不凭截图断言已正式发布。"},
+  {"id":"external_result_not_summary","source_rules":["内测与品牌场景审核边界；源定位仅本地，输入为合成例"],"input":"助手总结已联系商家，台词说预约一定成功，但没有商家确认。","expected":"改为实际联系或咨询结果，若保留预约成功就补相应确认；不能把摘要当成交证据。"},
+  {"id":"balanced_batch_not_every_feature","source_rules":["内测与品牌场景审核边界；源定位仅本地，输入为合成例"],"input":"排期要求选题分布均衡，某条已清楚完成一个真实场景，却被要求塞进全部功能。","expected":"批次均衡由排期统筹，不推成单条全功能指标；满足本单硬要求可零问题通过。"},
+  {"id":"approved_character_variant","source_rules":["内测与品牌场景审核边界；源定位仅本地，输入为合成例"],"input":"正式角色场景素材是空手站姿，审核员因Logo含道具要求给场景图加道具。","expected":"区分完整标识与官方场景图，获准变体无需强改；不得反过来任意拆改完整Logo。"},
+  {"id":"private_extension_packaging","source_rules":["内测与品牌场景审核边界；源定位仅本地，输入为合成例"],"input":"本机skill有保密方向补充，维护者准备把整个安装目录压缩发到公开仓库。","expected":"只从已审核的Git跟踪清单构建分享包，私有补充及原始资料留本地，核包内文件和hash。"},
+  {"id":"installer_head_is_partial","source_rules":["内测与品牌场景审核边界；源定位仅本地，输入为合成例"],"input":"安装包响应头200，报告据此写所有系统兼容且已试跑。","expected":"仅登记链接响应与元数据；未取得完整包、签名、实际设备运行就保留相应缺口。"}
 ]

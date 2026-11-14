@@ -9,6 +9,12 @@
 |[品牌VIS](https://bytedance.larkoffice.com/wiki/BiBHwYH2ziqjHgkTnnRc8GyKnZf)|doc EY2bdeTERo2ma7xc3Gfcm2kvn6e，rev2444|品牌标志、组件、官号模板的适用边界|
 |[项目Brief文件夹入口](https://zqyd2vqyqmy.feishu.cn/drive/folder/J1vEfYfBalWyQAdDoqHc91renzc)|25文件夹/188条目录项|旧BF、SOP、项目交接；最新群指令优先按方向核实|
 
+## 2026-11-14核对
+
+设备、PA和潜力BF正文及可见评论与上轮一致，已有方向和暂停边界保留。品牌规范新增场景角色变体，完整Logo与获准场景图分开核，原分阶段换标要求和色彩待确认状态不变。对应审核边界见 review-rules.md。
+
+保密合作的具体方向、版本、端、发布安排与链接登记在本机私有补充和学习状态，不写入公开方向表。公开包仅提供 [内测审核方法](beta-campaign-review.md)，不替代该单BF，也不据此恢复旧方向的新提报。
+
 ## 2026-11-12补充：豆包工作新Logo与潜力BF微调
 
 涉及豆包工作的稿件从当日起能换新Logo的尽量换；达人端口未更新的暂不强求，待全面铺开后统一使用。本轮未取得全面铺开日期，不能自行设一个一刀切期限，或追改历史发布稿。新标识规范正文、27张预览图和标准PNG素材已核；Figma源文件仍需要登录。品牌应用边界见 review-rules.md。
