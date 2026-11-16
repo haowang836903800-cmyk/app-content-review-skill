@@ -389,5 +389,328 @@
       222,
       224
     ]
+  },
+  {
+    "snapshot": "2026-11-16",
+    "scope": "published_since_2026-09-01",
+    "records": 258,
+    "overall": {
+      "n": 258,
+      "valid_metrics": 258,
+      "median_total": 230.5,
+      "missing_exposure": 12,
+      "heat": {
+        "加热情况未知": 235,
+        "明确有加热记录": 22,
+        "仅有加热失败记录": 1
+      }
+    },
+    "new": {
+      "n": 23,
+      "valid_metrics": 23,
+      "median_total": 156,
+      "missing_exposure": 7,
+      "heat": {
+        "明确有加热记录": 1,
+        "加热情况未知": 22
+      }
+    },
+    "changed_existing_metrics": 47,
+    "strict_cohort_excluded": 2,
+    "client_paid_queue_exact_work_matches": 4,
+    "cohorts_n_at_least_4": [
+      {
+        "platform": "小红书",
+        "direction": "作者原创用法",
+        "subplay": "未细分",
+        "format": "视频",
+        "age_bucket": "14–27天",
+        "heat_status": "加热情况未知",
+        "n": 4,
+        "valid_metrics": 4,
+        "median_total": 252.5,
+        "missing_exposure": 0,
+        "heat": {
+          "加热情况未知": 4
+        }
+      },
+      {
+        "platform": "小红书",
+        "direction": "30天会员",
+        "subplay": "未细分",
+        "format": "图文",
+        "age_bucket": "14–27天",
+        "heat_status": "加热情况未知",
+        "n": 10,
+        "valid_metrics": 10,
+        "median_total": 231.0,
+        "missing_exposure": 0,
+        "heat": {
+          "加热情况未知": 10
+        }
+      },
+      {
+        "platform": "小红书",
+        "direction": "QQ空间",
+        "subplay": "未细分",
+        "format": "图文",
+        "age_bucket": "14–27天",
+        "heat_status": "加热情况未知",
+        "n": 8,
+        "valid_metrics": 8,
+        "median_total": 331.5,
+        "missing_exposure": 0,
+        "heat": {
+          "加热情况未知": 8
+        }
+      },
+      {
+        "platform": "小红书",
+        "direction": "开学类玩法",
+        "subplay": "未细分",
+        "format": "视频",
+        "age_bucket": "14–27天",
+        "heat_status": "加热情况未知",
+        "n": 7,
+        "valid_metrics": 7,
+        "median_total": 131,
+        "missing_exposure": 0,
+        "heat": {
+          "加热情况未知": 7
+        }
+      },
+      {
+        "platform": "小红书",
+        "direction": "豆包操作电脑（computer use）",
+        "subplay": "未细分",
+        "format": "视频",
+        "age_bucket": "14–27天",
+        "heat_status": "加热情况未知",
+        "n": 4,
+        "valid_metrics": 4,
+        "median_total": 294.0,
+        "missing_exposure": 0,
+        "heat": {
+          "加热情况未知": 4
+        }
+      },
+      {
+        "platform": "抖音",
+        "direction": "清华skill",
+        "subplay": "未细分",
+        "format": "视频",
+        "age_bucket": "14–27天",
+        "heat_status": "加热情况未知",
+        "n": 4,
+        "valid_metrics": 4,
+        "median_total": 450.5,
+        "missing_exposure": 0,
+        "heat": {
+          "加热情况未知": 4
+        }
+      },
+      {
+        "platform": "小红书",
+        "direction": "镭射闪卡",
+        "subplay": "未细分",
+        "format": "视频",
+        "age_bucket": "14–27天",
+        "heat_status": "加热情况未知",
+        "n": 9,
+        "valid_metrics": 9,
+        "median_total": 170,
+        "missing_exposure": 0,
+        "heat": {
+          "加热情况未知": 9
+        }
+      },
+      {
+        "platform": "抖音",
+        "direction": "3D版镭射闪卡",
+        "subplay": "未细分",
+        "format": "视频",
+        "age_bucket": "28天以上",
+        "heat_status": "加热情况未知",
+        "n": 7,
+        "valid_metrics": 7,
+        "median_total": 138,
+        "missing_exposure": 0,
+        "heat": {
+          "加热情况未知": 7
+        }
+      },
+      {
+        "platform": "小红书",
+        "direction": "豆包找岗位",
+        "subplay": "未细分",
+        "format": "视频",
+        "age_bucket": "14–27天",
+        "heat_status": "加热情况未知",
+        "n": 4,
+        "valid_metrics": 4,
+        "median_total": 131.0,
+        "missing_exposure": 0,
+        "heat": {
+          "加热情况未知": 4
+        }
+      },
+      {
+        "platform": "抖音",
+        "direction": "镭射闪卡",
+        "subplay": "未细分",
+        "format": "视频",
+        "age_bucket": "14–27天",
+        "heat_status": "加热情况未知",
+        "n": 4,
+        "valid_metrics": 4,
+        "median_total": 592.5,
+        "missing_exposure": 0,
+        "heat": {
+          "加热情况未知": 4
+        }
+      },
+      {
+        "platform": "小红书",
+        "direction": "3D版镭射闪卡",
+        "subplay": "未细分",
+        "format": "视频",
+        "age_bucket": "14–27天",
+        "heat_status": "加热情况未知",
+        "n": 5,
+        "valid_metrics": 5,
+        "median_total": 136,
+        "missing_exposure": 1,
+        "heat": {
+          "加热情况未知": 5
+        }
+      },
+      {
+        "platform": "抖音",
+        "direction": "风格参考Skill",
+        "subplay": "未细分",
+        "format": "视频",
+        "age_bucket": "14–27天",
+        "heat_status": "加热情况未知",
+        "n": 5,
+        "valid_metrics": 5,
+        "median_total": 557,
+        "missing_exposure": 0,
+        "heat": {
+          "加热情况未知": 5
+        }
+      },
+      {
+        "platform": "小红书",
+        "direction": "超话签到",
+        "subplay": "未细分",
+        "format": "视频",
+        "age_bucket": "7–13天",
+        "heat_status": "加热情况未知",
+        "n": 4,
+        "valid_metrics": 4,
+        "median_total": 216.5,
+        "missing_exposure": 0,
+        "heat": {
+          "加热情况未知": 4
+        }
+      },
+      {
+        "platform": "抖音",
+        "direction": "Personal Agent",
+        "subplay": "盯商品",
+        "format": "视频",
+        "age_bucket": "14–27天",
+        "heat_status": "加热情况未知",
+        "n": 4,
+        "valid_metrics": 4,
+        "median_total": 407.0,
+        "missing_exposure": 0,
+        "heat": {
+          "加热情况未知": 4
+        }
+      },
+      {
+        "platform": "抖音",
+        "direction": "Personal Agent",
+        "subplay": "锻炼计划",
+        "format": "视频",
+        "age_bucket": "14–27天",
+        "heat_status": "加热情况未知",
+        "n": 4,
+        "valid_metrics": 4,
+        "median_total": 447.5,
+        "missing_exposure": 0,
+        "heat": {
+          "加热情况未知": 4
+        }
+      },
+      {
+        "platform": "抖音",
+        "direction": "Personal Agent",
+        "subplay": "帖子助手",
+        "format": "视频",
+        "age_bucket": "14–27天",
+        "heat_status": "明确有加热记录",
+        "n": 5,
+        "valid_metrics": 5,
+        "median_total": 2264,
+        "missing_exposure": 0,
+        "heat": {
+          "明确有加热记录": 5
+        }
+      },
+      {
+        "platform": "抖音",
+        "direction": "远程操控2.0",
+        "subplay": "未细分",
+        "format": "视频",
+        "age_bucket": "7–13天",
+        "heat_status": "明确有加热记录",
+        "n": 4,
+        "valid_metrics": 4,
+        "median_total": 4003.5,
+        "missing_exposure": 0,
+        "heat": {
+          "明确有加热记录": 4
+        }
+      },
+      {
+        "platform": "抖音",
+        "direction": "豆包驯化电子设备",
+        "subplay": "电脑体检",
+        "format": "视频",
+        "age_bucket": "3–6天",
+        "heat_status": "加热情况未知",
+        "n": 4,
+        "valid_metrics": 4,
+        "median_total": 303.5,
+        "missing_exposure": 1,
+        "heat": {
+          "加热情况未知": 4
+        }
+      },
+      {
+        "platform": "抖音",
+        "direction": "豆包驯化电子设备",
+        "subplay": "三角洲帧率",
+        "format": "视频",
+        "age_bucket": "3–6天",
+        "heat_status": "加热情况未知",
+        "n": 4,
+        "valid_metrics": 4,
+        "median_total": 69.0,
+        "missing_exposure": 2,
+        "heat": {
+          "加热情况未知": 4
+        }
+      }
+    ],
+    "cautions": [
+      "日龄使用记录的数据更新日减发布日期；非执行日减发布日期",
+      "互动为赞+收藏+评论，来源填0保留0，缺失不补零",
+      "投流渠道、开始时间及自然流量拆分未齐；信息流授权不是投放回执",
+      "细分小样本不足以证明账号类型因果；不公开逐单费用与新增身份",
+      "日期及玩法冲突单保留原表字段并从严格比较组剔除"
+    ]
   }
 ]
