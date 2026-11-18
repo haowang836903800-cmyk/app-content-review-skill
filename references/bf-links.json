@@ -250,5 +250,50 @@
     "observed": "README、LICENSE、install、platform-support、legacy-control、background-recovery、analytics；按包型与验证层级区分",
     "gaps": "未安装或真机验证；未取得本次商业用途授权证明；BF原文及视频链接范围仅存本地",
     "read_date": "2026-11-11"
+  },
+  {
+    "parent": "公开工具说明复核",
+    "url": "https://github.com/dulaiduwang003/Pavise-Game",
+    "kind": "github",
+    "status": "read_relevant_docs_with_unverified_runtime",
+    "observed": "README相关功能/版本，官网执行/恢复手册和NOTICE",
+    "gaps": "未执行或核安装包；部分历史变更不是本次逐项验证；作者主张非实测",
+    "read_date": "2026-11-18"
+  },
+  {
+    "parent": "公开工具说明复核",
+    "url": "https://github.com/ocsjs/ocs-desktop",
+    "kind": "github",
+    "status": "read_relevant_docs_with_unverified_runtime",
+    "observed": "桌面README、作者安装教程及FAQ；与脚本仓库分开",
+    "gaps": "未安装/验证课程计入；根目录未见LICENSE，未确认桌面分发许可；问题公示页未全文读完",
+    "read_date": "2026-11-18"
+  },
+  {
+    "parent": "公开工具说明复核",
+    "url": "https://github.com/liuxiaogang-com/desktop-icon-billiards",
+    "kind": "github",
+    "status": "read_relevant_docs_with_unverified_runtime",
+    "observed": "README及UPDATE，发行版/源码、Windows范围、操作恢复、联网边界",
+    "gaps": "未运行或完整观看演示，未独立验证异常恢复",
+    "read_date": "2026-11-18"
+  },
+  {
+    "parent": "公开工具说明复核",
+    "url": "https://github.com/yangbin1322/hongguo-player",
+    "kind": "github",
+    "status": "read_relevant_docs_with_unverified_runtime",
+    "observed": "本轮README重读：仅安装包、非官方、名称图标随版本更新",
+    "gaps": "未实测播放；本单素材及商用许可未核完",
+    "read_date": "2026-11-18"
+  },
+  {
+    "parent": "公开工具说明复核",
+    "url": "https://github.com/chadyi/StudyOnTV",
+    "kind": "github",
+    "status": "read_relevant_docs_with_unverified_runtime",
+    "observed": "本轮README与LICENSE重读；安装/兼容/恢复细节保留先前阅读范围",
+    "gaps": "未重读全部二级说明、未真机验证或取得本单商业许可",
+    "read_date": "2026-11-18"
   }
 ]
