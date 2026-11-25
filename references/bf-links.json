@@ -295,5 +295,59 @@
     "observed": "本轮README与LICENSE重读；安装/兼容/恢复细节保留先前阅读范围",
     "gaps": "未重读全部二级说明、未真机验证或取得本单商业许可",
     "read_date": "2026-11-18"
+  },
+  {
+    "parent": "公开工具说明复核",
+    "url": "https://github.com/qianyiai/kurocat",
+    "kind": "github",
+    "status": "read_relevant_docs_with_unverified_runtime",
+    "observed": "README、发行说明、MIT及部分皮肤许可；v5.1.0，各系统包、Mac权限与源码前置分开",
+    "gaps": "未安装/验证键鼠、MCP、OBS或隐私行为；部分二级资源未读，付费原版素材另核",
+    "read_date": "2026-11-25"
+  },
+  {
+    "parent": "公开工具说明复核",
+    "url": "https://github.com/ElloboDK/KeyCat",
+    "kind": "github",
+    "status": "read_relevant_docs_with_unverified_runtime",
+    "observed": "README与根目录清单；Mac13+/Win10+、输入监控/WebView2、重启与更新；作者限制商业分发",
+    "gaps": "未安装；根目录未见项目LICENSE，依赖许可不替项目授权；未取得本单受限用途许可",
+    "read_date": "2026-11-25"
+  },
+  {
+    "parent": "公开工具说明复核",
+    "url": "https://github.com/ayangweb/BongoCat",
+    "kind": "github",
+    "status": "read_relevant_docs_with_unverified_runtime",
+    "observed": "README含中文版本、根LICENSE与v2.4.1发行说明；Win10+/Mac12+，Apache2.0",
+    "gaps": "未运行/听看演示，模型来源及本单素材范围另核",
+    "read_date": "2026-11-25"
+  },
+  {
+    "parent": "公开工具说明复核",
+    "url": "https://github.com/vladelaina/BongoCat",
+    "kind": "github",
+    "status": "read_relevant_docs_with_unverified_runtime",
+    "observed": "中英文README；区别同名Tauri项目，AGPL运行时与部分MIT模型、Cubism构建前置",
+    "gaps": "未构建或安装，缺SDK时诊断后端不等于宠物已显示；本单素材许可待核",
+    "read_date": "2026-11-25"
+  },
+  {
+    "parent": "公开工具说明复核",
+    "url": "https://github.com/dulaiduwang003/Pavise-Game",
+    "kind": "github",
+    "status": "read_relevant_docs_with_unverified_runtime",
+    "observed": "README、3.3.1.5变更及开始前说明，官网执行/恢复；默认治理、旧预设移除及构建前置变化",
+    "gaps": "未运行或验证实际性能/恢复；官网部分手册UI版本与页眉不同，按实际版本核",
+    "read_date": "2026-11-25"
+  },
+  {
+    "parent": "公开工具说明复核",
+    "url": "https://github.com/chadyi/StudyOnTV",
+    "kind": "github",
+    "status": "read_relevant_docs_with_unverified_runtime",
+    "observed": "README与安装说明重读：同网家长面板、IP变化、更新渠道；平台/后台恢复/legacy/LICENSE与既有快照相同",
+    "gaps": "未真机验证、未取得本单商业许可；源码/发行包/设备条件分别核",
+    "read_date": "2026-11-25"
   }
 ]

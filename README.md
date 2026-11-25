@@ -13,7 +13,7 @@
 
 批注只给白话修稿建议，直接说哪里要改、怎么改。审核依据、复核标准、BF出处链接和审稿编号保留在内部，不显示给达人；视频保留必要的版本和时间点。
 
-当前规则更新至2026-11-24 / 1.0.18；潜力玩法及第三方工具边界见 [专项说明](references/potential-playbooks.md)，权益与价格表达见 [权益审核](references/benefits-review.md)，旧方向按生效日期保留。
+当前规则更新至2026-11-25 / 1.0.19；潜力玩法及第三方工具边界见 [专项说明](references/potential-playbooks.md)，权益与价格表达见 [权益审核](references/benefits-review.md)，旧方向按生效日期保留。
 
 ## 使用
 

@@ -14,7 +14,7 @@ description: 根据豆包App／Peiyao项目的当期Brief、群内确认和历�
 
 若本机存在 `.private/campaign-rules.md`，匹配对应合作时读取其中的私有方向规则并回查源文；它不随公开包分发。没有该文件时从当前使用者有权访问的BF补齐，不凭公开包猜测未公开产品的要求。涉及内测、开白或保密排期，另读 `references/beta-campaign-review.md`。
 
-审核潜力玩法时另读 `references/potential-playbooks.md`：按v4.0的十类玩法和P0/P1/P2匹配端、开放方向与旧单；同日先暂停后恢复时追到最后明确安排，并核对外部仓库的安装、许可和真实结果边界。
+审核潜力玩法时另读 `references/potential-playbooks.md`：按v5.0的十二类玩法和P0/P1/P2匹配端、开放方向与旧单；同日先暂停后恢复时追到最后明确安排，并核对外部仓库的安装、许可和真实结果边界。
 
 涉及体验套餐、赠送额度、模型费率或性价比传播，另读 `references/benefits-review.md`；活动数值与渠道适用条件回查本单BF和当前账户页面，本机具体活动索引留在私有补充中。
 

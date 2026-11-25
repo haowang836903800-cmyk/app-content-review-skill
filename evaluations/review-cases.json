@@ -143,5 +143,15 @@
   {"id":"pending_task_not_legacy_entry","input":"旧App任务截图被问能否用，客户回复要创建新的、在创建。","expected":"记录新任务待完成，未有链接/回执不沿用旧任务，也不认定新任务已可用。","source_rules":["2026-11-24去标识规则校准；原始证据仅本机"]},
   {"id":"duplicate_v2_attachment","input":"审核说V2没改，作者回复贴错了并指向上方另一附件，客户对该附件推进。","expected":"绑定最后指向的附件与字节，旧片保留不代表复发；没看新片不登记已验证修改。","source_rules":["2026-11-24去标识规则校准；原始证据仅本机"]},
   {"id":"unlicensed_hint_not_mask_thickness","input":"三条打码片退回只写其他无授权，随后客户让这三条直接发。","expected":"不猜加厚码必过或具体授权对象；限定三条客户指令，不当平台通过和素材授权证明。","source_rules":["2026-11-24去标识规则校准；原始证据仅本机"]},
-  {"id":"question_not_pause_order","input":"有人问本周某方向是否继续提报，窗口内没有答复。","expected":"保留待确认，不把提问写成暂停或恢复；既有安排不自行改变。","source_rules":["2026-11-24去标识规则校准；原始证据仅本机"]}
+  {"id":"question_not_pause_order","input":"有人问本周某方向是否继续提报，窗口内没有答复。","expected":"保留待确认，不把提问写成暂停或恢复；既有安排不自行改变。","source_rules":["2026-11-24去标识规则校准；原始证据仅本机"]},
+  {"id":"pet_repo_identity","source_cases":[],"input":"桌宠链接与指令指向不同作者的同名项目，实际安装包尚不明确。","expected":"先核实际仓库和版本并统一指令；不拼接功能，不猜近似仓库即可通过。","regression_reason":"新版BF与关联讨论的去标识合成边界例"},
+  {"id":"pet_zero_issue","source_cases":[],"input":"脚本已明确PC桌面安装、实际打字互动、授权前置与本单露出，只介绍打字陪伴。","expected":"脚本可零问题通过，不追加摸头睡觉全套动作，不凭别款参考片要求重做。","regression_reason":"新版BF与关联讨论的去标识合成边界例"},
+  {"id":"pet_web_demo_not_desktop","source_cases":[],"input":"只有网页试玩中猫跟着按键的画面，口播说已部署到自己的电脑桌面。","expected":"补本机桌面成品与实际互动，或收窄为网页试玩；安装成功提示不替结果。","regression_reason":"新版BF与关联讨论的去标识合成边界例"},
+  {"id":"pet_package_vs_build","source_cases":[],"input":"达人用适配系统的桌宠发行包并成功互动，审稿人要求补装源码编译器。","expected":"不因源码前置给发行包用户新增必改；按该包条件核。","regression_reason":"新版BF与关联讨论的去标识合成边界例"},
+  {"id":"pet_license_scope","source_cases":[],"input":"项目README限个人交流不用于商业分发，合作却计划发打包下载，称其依赖库MIT所以都可以。","expected":"不能把依赖许可当项目分发许可；核适用授权或换已确认实现，不直接下违法结论。","regression_reason":"新版BF与关联讨论的去标识合成边界例"},
+  {"id":"benefits_empathy_zero","source_cases":[],"input":"脚本自然露出电脑版，展示本人这次小任务和零消耗，说这次真省了，未保证下次。","expected":"可以零意见进入拍摄，不强加套餐全表或正式营销口播；实测仍待成片核。","regression_reason":"新版BF与关联讨论的去标识合成边界例"},
+  {"id":"benefits_begging_guarantee","source_cases":[],"input":"一张任务零扣费截图，台词说只要撒娇就能永久免费，所有模型都一样。","expected":"删掉必然因果及永久全模型承诺，按当前账户该次任务明细表达。","regression_reason":"新版BF与关联讨论的去标识合成边界例"},
+  {"id":"batch_quota_not_each_creator","source_cases":[],"input":"客户新增某组周产能，旧BF还留分组目标；审稿人把全部数字相加，要求每人同样条数。","expected":"核时段与范围及后续确认，团队目标不机械相加或变成单稿硬指标。","regression_reason":"新版BF与关联讨论的去标识合成边界例"},
+  {"id":"reschedule_request_not_confirmation","source_cases":[],"input":"机构请求次日延期并说已报备，旧批注只有推进待发布，无客户对新日期明确回复。","expected":"只记该单日期待确认，不当延期已批、不扩为整批延期。","regression_reason":"新版BF与关联讨论的去标识合成边界例"},
+  {"id":"new_motion_not_required","source_cases":[],"input":"品牌库新上两款动效，稿件已有合规露出，没有必贴动效要求。","expected":"可零意见通过；不为了使用新素材要求加贴片。新附件另核字节，不按同名沿用。","regression_reason":"新版BF与关联讨论的去标识合成边界例"}
 ]
