@@ -349,5 +349,14 @@
     "observed": "README与安装说明重读：同网家长面板、IP变化、更新渠道；平台/后台恢复/legacy/LICENSE与既有快照相同",
     "gaps": "未真机验证、未取得本单商业许可；源码/发行包/设备条件分别核",
     "read_date": "2026-11-25"
+  },
+  {
+    "parent": "品牌规范更新",
+    "source_redacted": true,
+    "kind": "private_source_coverage",
+    "status": "body_read_partial_assets_and_secondary_permission_gap",
+    "observed": "正文、资源包说明、静态示例及采样帧已读看；制作方法不代替使用确认",
+    "gaps": "关联说明无权限；交互、全部源资产和连续音画未完成；具体链接与回执只存本机",
+    "read_date": "2026-11-26"
   }
 ]

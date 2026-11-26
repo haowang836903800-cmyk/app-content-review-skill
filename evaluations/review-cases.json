@@ -153,5 +153,15 @@
   {"id":"benefits_begging_guarantee","source_cases":[],"input":"一张任务零扣费截图，台词说只要撒娇就能永久免费，所有模型都一样。","expected":"删掉必然因果及永久全模型承诺，按当前账户该次任务明细表达。","regression_reason":"新版BF与关联讨论的去标识合成边界例"},
   {"id":"batch_quota_not_each_creator","source_cases":[],"input":"客户新增某组周产能，旧BF还留分组目标；审稿人把全部数字相加，要求每人同样条数。","expected":"核时段与范围及后续确认，团队目标不机械相加或变成单稿硬指标。","regression_reason":"新版BF与关联讨论的去标识合成边界例"},
   {"id":"reschedule_request_not_confirmation","source_cases":[],"input":"机构请求次日延期并说已报备，旧批注只有推进待发布，无客户对新日期明确回复。","expected":"只记该单日期待确认，不当延期已批、不扩为整批延期。","regression_reason":"新版BF与关联讨论的去标识合成边界例"},
-  {"id":"new_motion_not_required","source_cases":[],"input":"品牌库新上两款动效，稿件已有合规露出，没有必贴动效要求。","expected":"可零意见通过；不为了使用新素材要求加贴片。新附件另核字节，不按同名沿用。","regression_reason":"新版BF与关联讨论的去标识合成边界例"}
+  {"id":"new_motion_not_required","source_cases":[],"input":"品牌库新上两款动效，稿件已有合规露出，没有必贴动效要求。","expected":"可零意见通过；不为了使用新素材要求加贴片。新附件另核字节，不按同名沿用。","regression_reason":"新版BF与关联讨论的去标识合成边界例"},
+  {"id":"moov_not_script","source_cases":[],"input":"平台提示moov未前置，当前脚本内容真实清楚。","expected":"核本次软件导出项和实际新文件；不用改脚本重拍，也不把示例MOV当全员要求。","regression_reason":"当期群讨论与品牌规范的去标识合成例"},
+  {"id":"mask_privacy","source_cases":[],"input":"某稿因长时大面积打码退回，原画面含私人地址。","expected":"裁掉私人区域或删除无关镜头，保留可读证据；不能直接去码暴露地址。","regression_reason":"当期群讨论与品牌规范的去标识合成例"},
+  {"id":"hidden_failure","source_cases":[],"input":"画面表示没法代操作，删掉截图后仍口播已经替我办成。","expected":"成功承诺仍无证据，应删对应主张或准确说明进度，不靠隐藏失败画面过审。","regression_reason":"当期群讨论与品牌规范的去标识合成例"},
+  {"id":"conditional_approval","source_cases":[],"input":"同稿先收到发，随后等下，另一回复要求删某段后发。","expected":"合并时间与版本，只记有条件推进，复核最终成片条件，不自动发布。","regression_reason":"当期群讨论与品牌规范的去标识合成例"},
+  {"id":"appeal_not_final","source_cases":[],"input":"客户说申诉成功，重投后平台提示另一原因。","expected":"记录新一轮待处理，不当最终平台通过，不从笼统提示编禁词。","regression_reason":"当期群讨论与品牌规范的去标识合成例"},
+  {"id":"signup_not_video","source_cases":[],"input":"新任务的达人报名全部通过，视频还在审核。","expected":"只更新报名阶段，不能判视频通过或实际发布。","regression_reason":"当期群讨论与品牌规范的去标识合成例"},
+  {"id":"current_title_scope","source_cases":[],"input":"本任务确认填视频发布标题，旧PC项目用过代理固定标题。","expected":"按本任务确认填写，不跨项目覆盖旧规范。","regression_reason":"当期群讨论与品牌规范的去标识合成例"},
+  {"id":"brand_demo_permission","source_cases":[],"input":"素材库提供角色生成工具，但当前规范要求重要品牌场景先确认方案。","expected":"制作能力不等于使用已批；先匹配用途及确认范围，不擅自生成投放。","regression_reason":"当期群讨论与品牌规范的去标识合成例"},
+  {"id":"clear_entry_zero","source_cases":[],"input":"成片清楚展示首页工作入口，指令与结果真实且露出符合要求。","expected":"可零问题通过已覆盖阶段，不强行再加圈示或重拍。","regression_reason":"当期群讨论与品牌规范的去标识合成例"},
+  {"id":"brand_existing_zero","source_cases":[],"input":"普通小范围常规物料使用已确认官方资产，无改造且符合本单要求。","expected":"不额外强加新角色生成、英文标志或统一尾版，允许零意见。","regression_reason":"当期群讨论与品牌规范的去标识合成例"}
 ]
