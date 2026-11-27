@@ -163,5 +163,11 @@
   {"id":"current_title_scope","source_cases":[],"input":"本任务确认填视频发布标题，旧PC项目用过代理固定标题。","expected":"按本任务确认填写，不跨项目覆盖旧规范。","regression_reason":"当期群讨论与品牌规范的去标识合成例"},
   {"id":"brand_demo_permission","source_cases":[],"input":"素材库提供角色生成工具，但当前规范要求重要品牌场景先确认方案。","expected":"制作能力不等于使用已批；先匹配用途及确认范围，不擅自生成投放。","regression_reason":"当期群讨论与品牌规范的去标识合成例"},
   {"id":"clear_entry_zero","source_cases":[],"input":"成片清楚展示首页工作入口，指令与结果真实且露出符合要求。","expected":"可零问题通过已覆盖阶段，不强行再加圈示或重拍。","regression_reason":"当期群讨论与品牌规范的去标识合成例"},
-  {"id":"brand_existing_zero","source_cases":[],"input":"普通小范围常规物料使用已确认官方资产，无改造且符合本单要求。","expected":"不额外强加新角色生成、英文标志或统一尾版，允许零意见。","regression_reason":"当期群讨论与品牌规范的去标识合成例"}
+  {"id":"brand_existing_zero","source_cases":[],"input":"普通小范围常规物料使用已确认官方资产，无改造且符合本单要求。","expected":"不额外强加新角色生成、英文标志或统一尾版，允许零意见。","regression_reason":"当期群讨论与品牌规范的去标识合成例"},
+  {"id":"concise_without_quota","source_cases":[],"input":"客户要求本方向紧凑自然，当前稿简明且真实，没有固定秒数要求。","expected":"可零意见通过相应阶段，不自行设时长上限或强塞额外例子。","regression_reason":"当期群要求的去标识合成边界例"},
+  {"id":"optional_hook_scoped","source_cases":[],"input":"客户建议部分达人用某种对话开头，另一账号已有真实好懂的开场。","expected":"按账号适配，不强制更换；当前合规开场可保留。","regression_reason":"当期群要求的去标识合成边界例"},
+  {"id":"qualification_wording_scope","source_cases":[],"input":"后续确认换一种更自然的使用条件说法，但条件实际仍存在。","expected":"更新对外措辞，不能省略门槛或承诺外部渠道必能取得资格。","regression_reason":"当期群要求的去标识合成边界例"},
+  {"id":"similar_identifier_pending","source_cases":[],"input":"截图标签与要求字段相近，客户问是否展开，尚未看到新值。","expected":"核字段名及原值，不按长度截位或判定已开通，保持待核。","regression_reason":"当期群要求的去标识合成边界例"},
+  {"id":"capacity_ratio_not_script","source_cases":[],"input":"团队调整两方向产能比例，某达人仅做其中一个合格玩法。","expected":"比例用于团队排产，不要求该达人按比例添加另一个玩法。","regression_reason":"当期群要求的去标识合成边界例"},
+  {"id":"promised_bf_not_received","source_cases":[],"input":"会议邀请说对齐新方向，客户称稍后补详细BF；已知文档未变。","expected":"只应用已经明确的群要求，详细玩法仍待新BF，不猜清单、不自动停旧单。","regression_reason":"当期群要求的去标识合成边界例"}
 ]
